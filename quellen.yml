@@ -1,0 +1,71 @@
+# Rechtsgrundlagen, deren Volltext täglich geladen und verglichen wird.
+# EU: CELEX-Nummer des Grundrechtsakts (die neueste konsolidierte Fassung wird automatisch gesucht).
+# DE: Link auf die Gesamtausgabe (HTML) bei gesetze-im-internet.de.
+
+eu:
+  - id: lmiv
+    name: VO (EU) 1169/2011 – LMIV
+    celex: 32011R1169
+  - id: basisvo
+    name: VO (EG) 178/2002 – BasisVO
+    celex: 32002R0178
+  - id: hcvo
+    name: VO (EG) 1924/2006 – Health-Claims-VO
+    celex: 32006R1924
+  - id: vo-432-2012
+    name: VO (EU) 432/2012 – zugelassene Claims
+    celex: 32012R0432
+  - id: beschluss-2013-63
+    name: Beschluss 2013/63/EU
+    celex: 32013D0063
+  - id: dvo-828-2014
+    name: DVO (EU) 828/2014 – glutenfrei
+    celex: 32014R0828
+  - id: rl-2024-825
+    name: RL (EU) 2024/825 – Green Claims
+    celex: 32024L0825
+  - id: rl-2002-46
+    name: RL 2002/46/EG – Nahrungsergänzungsmittel
+    celex: 32002L0046
+
+de:
+  - id: uwg
+    name: UWG
+    url: https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html
+  - id: hwg
+    name: HWG – Heilmittelwerbegesetz
+    url: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html
+  - id: nemv
+    name: NemV
+    url: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html
+
+# Rechtsprechungs-Feeds (RSS). Nur Einträge mit einem der Stichwörter werden übernommen.
+feeds:
+  - id: bgh
+    name: BGH-Rechtsprechung (rechtsprechung-im-internet.de)
+    url: https://www.rechtsprechung-im-internet.de/jportal/docs/feed/bsjrs-bgh.xml
+
+stichwoerter:
+  - Lebensmittel
+  - Nahrungsergänzung
+  - gesundheitsbezogen
+  - nährwertbezogen
+  - Health Claim
+  - Verordnung (EG) Nr. 1924/2006
+  - 1924/2006
+  - 432/2012
+  - 1169/2011
+  - LMIV
+  - HCVO
+  - Heilmittelwerbe
+  - HWG
+  - irreführ
+  - Werbung mit
+  - Diät
+  - Abnehm
+  - Schlankheit
+  - Mahlzeitersatz
+  - Protein
+  - Vitamin
+  - vegan
+  - Nährwert
