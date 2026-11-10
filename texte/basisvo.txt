@@ -1,0 +1,2746 @@
+Konsolidierter TEXT: 32002R0178 — DE — 01.01.2026
+
+02002R0178 — DE — 01.01.2026 — 012.001
+
+Dieser Text dient lediglich zu Informationszwecken und hat keine Rechtswirkung. Die EU-Organe übernehmen keine Haftung für seinen Inhalt. Verbindliche Fassungen der betreffenden Rechtsakte einschließlich ihrer Präambeln sind nur die im Amtsblatt der Europäischen Union veröffentlichten und auf EUR-Lex verfügbaren Texte. Diese amtlichen Texte sind über die Links in diesem Dokument unmittelbar zugänglich
+
+►B
+
+VERORDNUNG (EG) Nr. 178/2002 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+
+vom 28. Januar 2002
+
+zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit
+
+(ABl. L 031 vom 1.2.2002, S. 1)
+
+Geändert durch:
+
+Amtsblatt
+
+Nr.
+
+Seite
+
+Datum
+
+►M1
+
+VERORDNUNG (EG) Nr. 1642/2003 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 22. Juli 2003
+
+L 245
+
+4
+
+29.9.2003
+
+►M2
+
+VERORDNUNG (EG) Nr. 575/2006 DER KOMMISSION
+vom 7. April 2006
+
+L 100
+
+3
+
+8.4.2006
+
+M3
+
+VERORDNUNG (EG) Nr. 202/2008 DER KOMMISSION
+vom 4. März 2008
+
+L 60
+
+17
+
+5.3.2008
+
+►M4
+
+VERORDNUNG (EG) Nr. 596/2009 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 18. Juni 2009
+
+L 188
+
+14
+
+18.7.2009
+
+►M5
+
+VERORDNUNG (EU) Nr. 652/2014 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 15. Mai 2014
+
+L 189
+
+1
+
+27.6.2014
+
+►M6
+
+VERORDNUNG (EU) 2017/228 DER KOMMISSION
+vom 9. Februar 2017
+
+L 35
+
+10
+
+10.2.2017
+
+►M7
+
+VERORDNUNG (EU) 2017/745 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 5. April 2017
+
+L 117
+
+1
+
+5.5.2017
+
+►M8
+
+VERORDNUNG (EU) 2019/1243 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 20. Juni 2019
+
+L 198
+
+241
+
+25.7.2019
+
+►M9
+
+VERORDNUNG (EU) 2019/1381 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 20. Juni 2019
+
+L 231
+
+1
+
+6.9.2019
+
+►M10
+
+DELEGIERTE VERORDNUNG (EU) 2024/908 DER KOMMISSION
+vom 17. Januar 2024
+
+L 908
+
+1
+
+20.3.2024
+
+►M11
+
+VERORDNUNG (EU) 2025/2457 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 26. November 2025
+
+L 2457
+
+1
+
+12.12.2025
+
+▼B
+
+VERORDNUNG (EG) Nr. 178/2002 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+
+vom 28. Januar 2002
+
+zur Festlegung der allgemeinen Grundsätze und Anforderungen des Lebensmittelrechts, zur Errichtung der Europäischen Behörde für Lebensmittelsicherheit und zur Festlegung von Verfahren zur Lebensmittelsicherheit
+
+KAPITEL I
+
+ANWENDUNGSBEREICH UND BEGRIFFSBESTIMMUNGEN
+
+Artikel 1
+
+Ziel und Anwendungsbereich
+
+(1)
+
+Diese Verordnung schafft die Grundlage für ein hohes Schutzniveau für die Gesundheit des Menschen und die Verbraucherinteressen bei Lebensmitteln unter besonderer Berücksichtigung der Vielfalt des Nahrungsmittelangebots, einschließlich traditioneller Erzeugnisse, wobei ein reibungsloses Funktionieren des Binnenmarkts gewährleistet wird. In ihr werden einheitliche Grundsätze und Zuständigkeiten, die Voraussetzungen für die Schaffung eines tragfähigen wissenschaftlichen Fundaments und effiziente organisatorische Strukturen und Verfahren zur Untermauerung der Entscheidungsfindung in Fragen der Lebensmittel- und Futtermittelsicherheit festgelegt.
+
+(2)
+
+Für die Zwecke von Absatz 1 werden in dieser Verordnung die allgemeinen Grundsätze für Lebensmittel und Futtermittel im Allgemeinen und für die Lebensmittel- und Futtermittelsicherheit im Besonderen auf gemeinschaftlicher und einzelstaatlicher Ebene festgelegt.
+
+Mit dieser Verordnung wird die Europäische Behörde für Lebensmittelsicherheit errichtet.
+
+Ferner werden Verfahren für Fragen festgelegt, die sich mittelbar oder unmittelbar auf die Lebensmittel- und Futtermittelsicherheit auswirken.
+
+(3)
+
+Diese Verordnung gilt für alle Produktions-, Verarbeitungs- und Vertriebsstufen von Lebensmitteln und Futtermitteln. Sie gilt nicht für die Primärproduktion für den privaten häuslichen Gebrauch oder für die häusliche Verarbeitung, Handhabung oder Lagerung von Lebensmitteln zum häuslichen privaten Verbrauch.
+
+Artikel 2
+
+Definition von „Lebensmittel“
+
+Im Sinne dieser Verordnung sind „Lebensmittel“ alle Stoffe oder Erzeugnisse, die dazu bestimmt sind oder von denen nach vernünftigem Ermessen erwartet werden kann, dass sie in verarbeitetem, teilweise verarbeitetem oder unverarbeitetem Zustand von Menschen aufgenommen werden.
+
+Zu „Lebensmitteln“ zählen auch Getränke, Kaugummi sowie alle Stoffe — einschließlich Wasser —, die dem Lebensmittel bei seiner Herstellung oder Ver- oder Bearbeitung absichtlich zugesetzt werden. Wasser zählt hierzu unbeschadet der Anforderungen der Richtlinien 80/778/EWG und 98/83/EG ab der Stelle der Einhaltung im Sinne des Artikels 6 der Richtlinie 98/83/EG.
+
+Nicht zu „Lebensmitteln“ gehören:
+
+a)
+
+Futtermittel,
+
+b)
+
+lebende Tiere, soweit sie nicht für das Inverkehrbringen zum menschlichen Verzehr hergerichtet worden sind,
+
+c)
+
+Pflanzen vor dem Ernten,
+
+d)
+
+Arzneimittel im Sinne der Richtlinien 65/65/EWG (
+
+1
+
+) und 92/73/EWG (
+
+2
+
+) des Rates,
+
+e)
+
+kosmetische Mittel im Sinne der Richtlinie 76/768/EWG (
+
+3
+
+) des Rates,
+
+f)
+
+Tabak und Tabakerzeugnisse im Sinne der Richtlinie 89/622/EWG (
+
+4
+
+) des Rates,
+
+g)
+
+Betäubungsmittel und psychotrope Stoffe im Sinne des Einheitsübereinkommens der Vereinten Nationen über Suchtstoffe, 1961, und des Übereinkommens der Vereinten Nationen über psychotrope Stoffe, 1971,
+
+h)
+
+Rückstände und Kontaminanten,
+
+▼M7
+
+i)
+
+Medizinprodukte im Sinne der Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates (
+
+5
+
+).
+
+▼B
+
+Artikel 3
+
+Sonstige Definitionen
+
+Im Sinne dieser Verordnung bezeichnet der Ausdruck
+
+1.
+
+„Lebensmittelrecht“ die Rechts- und Verwaltungsvorschriften für Lebensmittel im Allgemeinen und die Lebensmittelsicherheit im Besonderen, sei es auf gemeinschaftlicher oder auf einzelstaatlicher Ebene, wobei alle Produktions-, Verarbeitungs- und Vertriebsstufen von Lebensmitteln wie auch von Futtermitteln, die für der Lebensmittelgewinnung dienende Tiere hergestellt oder an sie verfüttert werden, einbezogen sind;
+
+2.
+
+„Lebensmittelunternehmen“ alle Unternehmen, gleichgültig, ob sie auf Gewinnerzielung ausgerichtet sind oder nicht und ob sie öffentlich oder privat sind, die eine mit der Produktion, der Verarbeitung und dem Vertrieb von Lebensmitteln zusammenhängende Tätigkeit ausführen;
+
+3.
+
+„Lebensmittelunternehmer“ die natürlichen oder juristischen Personen, die dafür verantwortlich sind, dass die Anforderungen des Lebensmittelrechts in dem ihrer Kontrolle unterstehenden Lebensmittelunternehmen erfüllt werden;
+
+4.
+
+„Futtermittel“ Stoffe oder Erzeugnisse, auch Zusatzstoffe, verarbeitet, teilweise verarbeitet oder unverarbeitet, die zur oralen Tierfütterung bestimmt sind;
+
+5.
+
+„Futtermittelunternehmen“ alle Unternehmen, gleichgültig, ob sie auf Gewinnerzielung ausgerichtet sind oder nicht und ob sie öffentlich oder privat sind, die an der Erzeugung, Herstellung, Verarbeitung, Lagerung, Beförderung oder dem Vertrieb von Futtermitteln beteiligt sind, einschließlich Erzeuger, die Futtermittel zur Verfütterung in ihrem eigenen Betrieb erzeugen, verarbeiten oder lagern;
+
+6.
+
+„Futtermittelunternehmer“ die natürlichen oder juristischen Personen, die dafür verantwortlich sind, dass die Anforderungen des Lebensmittelrechts in dem ihrer Kontrolle unterstehenden Futtermittelunternehmen erfüllt werden;
+
+7.
+
+„Einzelhandel“ die Handhabung und/oder Be- oder Verarbeitung von Lebensmitteln und ihre Lagerung am Ort des Verkaufs oder der Abgabe an den Endverbraucher; hierzu gehören Verladestellen, Verpflegungsvorgänge, Betriebskantinen, Großküchen, Restaurants und ähnliche Einrichtungen der Lebensmittelversorgung, Läden, Supermarkt-Vertriebszentren und Großhandelsverkaufsstellen;
+
+8.
+
+„Inverkehrbringen“ das Bereithalten von Lebensmitteln oder Futtermitteln für Verkaufszwecke einschließlich des Anbietens zum Verkauf oder jeder anderen Form der Weitergabe, gleichgültig, ob unentgeltlich oder nicht, sowie den Verkauf, den Vertrieb oder andere Formen der Weitergabe selbst;
+
+9.
+
+„Risiko“ eine Funktion der Wahrscheinlichkeit einer die Gesundheit beeinträchtigenden Wirkung und der Schwere dieser Wirkung als Folge der Realisierung einer Gefahr;
+
+10.
+
+„Risikoanalyse“ einen Prozess aus den drei miteinander verbundenen Einzelschritten Risikobewertung, Risikomanagement und Risikokommunikation;
+
+11.
+
+„Risikobewertung“ einen wissenschaftlich untermauerten Vorgang mit den vier Stufen Gefahrenidentifizierung, Gefahrenbeschreibung, Expositionsabschätzung und Risikobeschreibung;
+
+12.
+
+„Risikomanagement“ den von der Risikobewertung unterschiedenen Prozess der Abwägung strategischer Alternativen in Konsultation mit den Beteiligten unter Berücksichtigung der Risikobewertung und anderer berücksichtigenswerter Faktoren und gegebenenfalls der Wahl geeigneter Präventions- und Kontrollmöglichkeiten;
+
+13.
+
+„Risikokommunikation“ im Rahmen der Risikoanalyse den interaktiven Austausch von Informationen und Meinungen über Gefahren und Risiken, risikobezogene Faktoren und Risikowahrnehmung zwischen Risikobewertern, Risikomanagern, Verbrauchern, Lebensmittel- und Futtermittelunternehmen, Wissenschaftlern und anderen interessierten Kreisen einschließlich der Erläuterung von Ergebnissen der Risikobewertung und der Grundlage für Risikomanagemententscheidungen;
+
+14.
+
+„Gefahr“ ein biologisches, chemisches oder physikalisches Agens in einem Lebensmittel oder Futtermittel oder einen Zustand eines Lebensmittels oder Futtermittels, der eine Gesundheitsbeeinträchtigung verursachen kann;
+
+15.
+
+„Rückverfolgbarkeit“ die Möglichkeit, ein Lebensmittel oder Futtermittel, ein der Lebensmittelgewinnung dienendes Tier oder einen Stoff, der dazu bestimmt ist oder von dem erwartet werden kann, dass er in einem Lebensmittel oder Futtermittel verarbeitet wird, durch alle Produktions-, Verarbeitungs- und Vertriebsstufen zu verfolgen;
+
+16.
+
+„Produktions-, Verarbeitungs- und Vertriebsstufen“ alle Stufen, einschließlich der Einfuhr von — einschließlich — der Primärproduktion eines Lebensmittels bis — einschließlich — zu seiner Lagerung, seiner Beförderung, seinem Verkauf oder zu seiner Abgabe an den Endverbraucher und, soweit relevant, die Einfuhr, die Erzeugung, die Herstellung, die Lagerung, die Beförderung, den Vertrieb, den Verkauf und die Lieferung von Futtermitteln;
+
+17.
+
+„Primärproduktion“ die Erzeugung, die Aufzucht oder den Anbau von Primärprodukten einschließlich Ernten, Melken und landwirtschaftlicher Nutztierproduktion vor dem Schlachten. Sie umfasst auch das Jagen und Fischen und das Ernten wild wachsender Erzeugnisse;
+
+18.
+
+„Endverbraucher“ den letzten Verbraucher eines Lebensmittels, der das Lebensmittel nicht im Rahmen der Tätigkeit eines Lebensmittelunternehmens verwendet.
+
+KAPITEL II
+
+ALLGEMEINES LEBENSMITTELRECHT
+
+Artikel 4
+
+Anwendungsbereich
+
+(1)
+
+Dieses Kapitel bezieht sich auf alle Produktions-, Verarbeitungs- und Vertriebsstufen von Lebensmitteln wie auch von Futtermitteln, die für der Lebensmittelgewinnung dienende Tiere hergestellt oder an sie verfüttert werden.
+
+(2)
+
+Die in den Artikeln 5 bis 10 festgelegten allgemeinen Grundsätze bilden einen horizontalen Gesamtrahmen, der einzuhalten ist, wenn Maßnahmen getroffen werden.
+
+(3)
+
+Die bestehenden lebensmittelrechtlichen Grundsätze und Verfahren werden so bald wie möglich, spätestens jedoch bis zum 1. Januar 2007 so angepasst, dass sie mit den Artikeln 5 bis 10 in Einklang stehen.
+
+(4)
+
+Bis dahin werden abweichend von Absatz 2 die bestehenden Rechtsvorschriften unter Berücksichtigung der in den Artikeln 5 bis 10 festgelegten Grundsätze durchgeführt.
+
+ABSCHNITT 1
+
+ALLGEMEINE GRUNDSÄTZE DES LEBENSMITTELRECHTS
+
+Artikel 5
+
+Allgemeine Ziele
+
+(1)
+
+Das Lebensmittelrecht verfolgt eines oder mehrere der allgemeinen Ziele eines hohen Maßes an Schutz für das Leben und die Gesundheit der Menschen, des Schutzes der Verbraucherinteressen, einschließlich lauterer Handelsgepflogenheiten im Lebensmittelhandel, gegebenenfalls unter Berücksichtigung des Schutzes der Tiergesundheit, des Tierschutzes, des Pflanzenschutzes und der Umwelt.
+
+(2)
+
+Das Lebensmittelrecht soll in der Gemeinschaft den freien Verkehr mit Lebensmitteln und Futtermitteln, die nach den allgemeinen Grundsätzen und Anforderungen dieses Kapitels hergestellt oder in Verkehr gebracht werden, herbeiführen.
+
+(3)
+
+Soweit internationale Normen bestehen oder in Kürze zu erwarten sind, sind sie bei der Entwicklung oder Anpassung des Lebensmittelrechts zu berücksichtigen, außer wenn diese Normen oder wichtige Teile davon ein unwirksames oder ungeeignetes Mittel zur Erreichung der legitimen Ziele des Lebensmittelrechts darstellen würden, wenn wissenschaftliche Gründe dagegen sprechen oder wenn die Normen zu einem anderen Schutzniveau führen würden, als es in der Gemeinschaft als angemessen festgelegt ist.
+
+Artikel 6
+
+Risikoanalyse
+
+(1)
+
+Um das allgemeine Ziel eines hohen Maßes an Schutz für Leben und Gesundheit der Menschen zu erreichen, stützt sich das Lebensmittelrecht auf Risikoanalysen, außer wenn dies nach den Umständen oder der Art der Maßnahme unangebracht wäre.
+
+(2)
+
+Die Risikobewertung beruht auf den verfügbaren wissenschaftlichen Erkenntnissen und ist in einer unabhängigen, objektiven und transparenten Art und Weise vorzunehmen.
+
+(3)
+
+Beim Risikomanagement ist den Ergebnissen der Risikobewertung, insbesondere den Gutachten der Behörde gemäß Artikel 22, anderen angesichts des betreffenden Sachverhalts berücksichtigenswerten Faktoren sowie — falls die in Artikel 7 Absatz 1 dargelegten Umstände vorliegen — dem Vorsorgeprinzip Rechnung zu tragen, um die allgemeinen Ziele des Lebensmittelrechts gemäß Artikel 5 zu erreichen.
+
+▼M9
+
+(4)
+
+Die Risikokommunikation erfüllt die Ziele und entspricht den allgemeinen Grundsätzen, die in den Artikeln 8a und 8b festgelegt sind.
+
+▼B
+
+Artikel 7
+
+Vorsorgeprinzip
+
+(1)
+
+In bestimmten Fällen, in denen nach einer Auswertung der verfügbaren Informationen die Möglichkeit gesundheitsschädlicher Auswirkungen festgestellt wird, wissenschaftlich aber noch Unsicherheit besteht, können vorläufige Risikomanagementmaßnahmen zur Sicherstellung des in der Gemeinschaft gewählten hohen Gesundheitsschutzniveaus getroffen werden, bis weitere wissenschaftliche Informationen für eine umfassendere Risikobewertung vorliegen.
+
+(2)
+
+Maßnahmen, die nach Absatz 1 getroffen werden, müssen verhältnismäßig sein und dürfen den Handel nicht stärker beeinträchtigen, als dies zur Erreichung des in der Gemeinschaft gewählten hohen Gesundheitsschutzniveaus unter Berücksichtigung der technischen und wirtschaftlichen Durchführbarkeit und anderer angesichts des betreffenden Sachverhalts für berücksichtigenswert gehaltener Faktoren notwendig ist. Diese Maßnahmen müssen innerhalb einer angemessenen Frist überprüft werden, die von der Art des festgestellten Risikos für Leben oder Gesundheit und der Art der wissenschaftlichen Informationen abhängig ist, die zur Klärung der wissenschaftlichen Unsicherheit und für eine umfassendere Risikobewertung notwendig sind.
+
+Artikel 8
+
+Schutz der Verbraucherinteressen
+
+(1)
+
+Das Lebensmittelrecht hat den Schutz der Verbraucherinteressen zum Ziel und muss den Verbrauchern die Möglichkeit bieten, in Bezug auf die Lebensmittel, die sie verzehren, eine sachkundige Wahl zu treffen. Dabei müssen verhindert werden:
+
+a)
+
+Praktiken des Betrugs oder der Täuschung,
+
+b)
+
+die Verfälschung von Lebensmitteln und
+
+c)
+
+alle sonstigen Praktiken, die den Verbraucher irreführen können.
+
+▼M9
+
+ABSCHNITT 1A
+
+RISIKOKOMMUNIKATION
+
+Artikel 8a
+
+Ziele der Risikokommunikation
+
+Unter Berücksichtigung der Aufgaben der Risikobewerter und der Risikomanager verfolgt die Risikokommunikation folgende Ziele:
+
+a)
+
+Sie schärft das Bewusstsein und fördert das Verständnis für die spezifischen Fragen, die während des gesamten Risikoanalyseprozesses geprüft werden, auch in Fällen, in denen es abweichende wissenschaftliche Bewertungen gibt,
+
+b)
+
+sie sorgt für Kohärenz, Transparenz und Klarheit bei der Ausarbeitung von Empfehlungen und Entscheidungen betreffend das Risikomanagement,
+
+c)
+
+sie bereitet eine solide Grundlage — gegebenenfalls auch eine wissenschaftliche Grundlage — für das Verständnis von Risikomanagemententscheidungen,
+
+d)
+
+sie verbessert die allgemeine Wirksamkeit und Effizienz der Risikoanalyse,
+
+e)
+
+sie sorgt dafür, dass die Öffentlichkeit die Risikoanalyse, einschließlich der jeweiligen Aufgaben und Zuständigkeiten der Risikobewerter und Risikomanager, besser versteht, damit das Vertrauen in deren Ergebnisse zunimmt,
+
+f)
+
+sie stellt sicher, dass Verbraucher, Lebensmittel- und Futtermittelunternehmen, die Wissenschaft und alle anderen interessierten Kreise in geeigneter Weise einbezogen werden,
+
+g)
+
+sie gewährleistet einen geeigneten und transparenten Informationsaustausch mit den interessierten Kreisen über die mit der Lebensmittelkette verbundenen Risiken,
+
+h)
+
+sie stellt sicher, dass die Verbraucher über Strategien zur Risikovermeidung informiert werden und
+
+i)
+
+sie leistet einen Beitrag zum Kampf gegen die Verbreitung von Fehlinformationen und ihre Quellen.
+
+Artikel 8b
+
+Allgemeine Grundsätze der Risikokommunikation
+
+Unter Berücksichtigung der Aufgaben der Risikobewerter und der Risikomanager gewährleistet die Risikokommunikation Folgendes:
+
+a)
+
+Sie sorgt dafür, dass — gestützt auf die Grundsätze der Transparenz, Offenheit und Nutzerfreundlichkeit — präzise Informationen und alle geeigneten Informationen interaktiv und rechtzeitig mit allen interessierten Kreisen ausgetauscht werden und diese Informationen korrekt sind,
+
+b)
+
+sie bietet in jeder Phase des Risikoanalyseprozesses, von der Ausarbeitung von Ersuchen um wissenschaftliche Beratung über die Durchführung von Risikobewertungen bis zu den konkreten Risikomanagemententscheidungen, transparente Informationen auch darüber, wie die Risikomanagemententscheidungen zustande gekommen sind und welche Faktoren dabei berücksichtigt wurden,
+
+c)
+
+sie berücksichtigt die Risikowahrnehmungen aller interessierten Kreise,
+
+d)
+
+sie fördert das gegenseitige Verständnis und den Dialog aller interessierten Kreise und
+
+e)
+
+sie ist klar und verständlich, auch für jene, die nicht direkt an dem Prozess beteiligt sind oder keinen wissenschaftlichen Hintergrund haben, wobei die geltenden rechtlichen Bestimmungen über die Vertraulichkeit und den Schutz personenbezogener Daten gebührend zu beachten sind.
+
+Artikel 8c
+
+Allgemeiner Plan für die Risikokommunikation
+
+(1)
+
+Die Kommission erlässt im Wege von Durchführungsrechtsakten einen allgemeinen Plan für die Risikokommunikation, um die in Artikel 8a genannten Ziele im Einklang mit den in Artikel 8b enthaltenen allgemeinen Grundsätzen zu erreichen. Die Kommission aktualisiert diesen allgemeinen Plan unter Berücksichtigung technischer und wissenschaftlicher Fortschritte und gewonnener Erfahrungen regelmäßig. Diese Durchführungsrechtsakte werden nach dem Verfahren gemäß Artikel 58 Absatz 2 erlassen. Bei der Vorbereitung dieser Durchführungsrechtsakte konsultiert die Kommission die Behörde.
+
+(2)
+
+Der allgemeine Plan für die Risikokommunikation fördert einen integrierten Risikokommunikationsrahmen, der von den Risikobewertern und den Risikomanagern auf Unionsebene und auf nationaler Ebene konsequent und systematisch befolgt wird. Der Plan
+
+a)
+
+enthält die Schlüsselfaktoren, die berücksichtigt werden müssen, wenn geprüft wird, wie und auf welcher Ebene die Risikokommunikationsmaßnahmen erfolgen sollen;
+
+b)
+
+bestimmt die verschiedenen Arten von Risikokommunikationsmaßnahmen und die verschiedenen Ebenen, auf denen sie erfolgen, sowie die geeigneten wichtigsten Tools und Kanäle, die dabei zu benutzen sind, wobei die Bedürfnisse der jeweiligen Zielgruppen berücksichtigt werden,
+
+c)
+
+richtet geeignete Mechanismen der Koordinierung und Zusammenarbeit ein, um die Kohärenz der Risikokommunikation unter Risikobewertern und Risikomanagern zu stärken und
+
+d)
+
+richtet geeignete Mechanismen ein, um einen offenen Dialog zwischen Verbrauchern, Lebensmittel- und Futtermittelunternehmen, der Wissenschaft und allen anderen interessierten Kreisen sowie eine geeignete Einbeziehung all dieser Kreise zu gewährleisten.
+
+▼B
+
+ABSCHNITT 2
+
+GRUNDSÄTZE DER TRANSPARENZ
+
+Artikel 9
+
+Konsultation der Öffentlichkeit
+
+Bei der Erarbeitung, Bewertung und Überprüfung des Lebensmittelrechts ist unmittelbar oder über Vertretungsgremien in offener und transparenter Weise eine Konsultation der Öffentlichkeit durchzuführen, es sei denn, dies ist aus Dringlichkeitsgründen nicht möglich.
+
+Artikel 10
+
+Information der Öffentlichkeit
+
+Besteht ein hinreichender Verdacht, dass ein Lebensmittel oder Futtermittel ein Risiko für die Gesundheit von Mensch oder Tier mit sich bringen kann, so unternehmen die Behörden unbeschadet der geltenden nationalen oder Gemeinschaftsbestimmungen über den Zugang zu Dokumenten je nach Art, Schwere und Ausmaß des Risikos geeignete Schritte, um die Öffentlichkeit über die Art des Gesundheitsrisikos aufzuklären; dabei sind möglichst umfassend das Lebensmittel oder Futtermittel oder die Art des Lebensmittels oder Futtermittels, das möglicherweise damit verbundene Risiko und die Maßnahmen anzugeben, die getroffen wurden oder getroffen werden, um dem Risiko vorzubeugen, es zu begrenzen oder auszuschalten.
+
+ABSCHNITT 3
+
+ALLGEMEINE VERPFLICHTUNGEN FÜR DEN LEBENSMITTELHANDEL
+
+Artikel 11
+
+In die Gemeinschaft eingeführte Lebensmittel und Futtermittel
+
+In die Gemeinschaft eingeführte Lebensmittel und Futtermittel, die in der Gemeinschaft in den Verkehr gebracht werden sollen, müssen die entsprechenden Anforderungen des Lebensmittelrechts oder von der Gemeinschaft als zumindest gleichwertig anerkannte Bedingungen erfüllen oder aber, soweit ein besonderes Abkommen zwischen der Gemeinschaft und dem Ausfuhrland besteht, die darin enthaltenen Anforderungen.
+
+Artikel 12
+
+Aus der Gemeinschaft ausgeführte Lebensmittel und Futtermittel
+
+(1)
+
+Aus der Gemeinschaft ausgeführte oder wieder ausgeführte Lebensmittel und Futtermittel, die in einem Drittland in den Verkehr gebracht werden sollen, haben die entsprechenden Anforderungen des Lebensmittelrechts zu erfüllen, sofern die Behörden des Einfuhrlandes nichts anderes verlangen oder die Gesetze, Verordnungen, Normen, Verfahrensvorschriften und andere Rechts- und Verwaltungsverfahren, die im Einfuhrland in Kraft sind, nichts anderes festlegen.
+
+Andernfalls, außer wenn Lebensmittel gesundheitsschädlich oder Futtermittel nicht sicher sind, dürfen Lebensmittel und Futtermittel nur dann aus der Gemeinschaft ausgeführt oder wieder ausgeführt werden, wenn die zuständigen Behörden des Bestimmungslandes dem ausdrücklich zugestimmt haben, nachdem sie über die Gründe, aus denen die betreffenden Lebensmittel oder Futtermittel in der Gemeinschaft nicht in Verkehr gebracht werden durften, und die näheren Umstände umfassend unterrichtet worden sind.
+
+(2)
+
+Soweit Bestimmungen eines zwischen der Gemeinschaft oder einem ihrer Mitgliedstaaten und einem Drittland geschlossenen bilateralen Abkommens anwendbar sind, sind diese bei der Ausfuhr von Lebensmitteln und Futtermitteln aus der Gemeinschaft oder aus diesem Mitgliedstaat in dieses Drittland einzuhalten.
+
+Artikel 13
+
+Internationale Normen
+
+Unbeschadet ihrer Rechte und Pflichten
+
+a)
+
+tragen die Gemeinschaft und die Mitgliedstaaten zur Entwicklung von internationalen technischen Normen für Lebensmittel und Futtermittel und von Gesundheits- und Pflanzenschutznormen bei;
+
+b)
+
+fördern sie die Koordinierung der Arbeit internationaler Regierungs- und Nichtregierungsorganisationen zu Lebensmittel- und Futtermittelnormen;
+
+c)
+
+tragen sie soweit sachdienlich und angemessen zur Ausarbeitung von Abkommen über die Anerkennung der Gleichwertigkeit spezieller Maßnahmen in Bezug auf Lebensmittel und Futtermittel bei;
+
+d)
+
+richten sie besonderes Augenmerk auf die besonderen Entwicklungs-, Finanz- und Handelserfordernisse der Entwicklungsländer, um zu gewährleisten, dass internationale Normen keine unnötigen Hindernisse für Ausfuhren aus den Entwicklungsländern bilden;
+
+e)
+
+fördern sie die Kohärenz zwischen den internationalen technischen Standards und dem Lebensmittelrecht und gewährleisten zugleich, dass das hohe in der Gemeinschaft geltende Schutzniveau nicht gesenkt wird.
+
+ABSCHNITT 4
+
+ALLGEMEINE ANFORDERUNGEN DES LEBENSMITTELRECHTS
+
+Artikel 14
+
+Anforderungen an die Lebensmittelsicherheit
+
+(1)
+
+Lebensmittel, die nicht sicher sind, dürfen nicht in Verkehr gebracht werden.
+
+(2)
+
+Lebensmittel gelten als nicht sicher, wenn davon auszugehen ist, dass sie
+
+a)
+
+gesundheitsschädlich sind,
+
+b)
+
+für den Verzehr durch den Menschen ungeeignet sind.
+
+(3)
+
+Bei der Entscheidung der Frage, ob ein Lebensmittel sicher ist oder nicht, sind zu berücksichtigen:
+
+a)
+
+die normalen Bedingungen seiner Verwendung durch den Verbraucher und auf allen Produktions-, Verarbeitungs- und Vertriebsstufen sowie
+
+b)
+
+die dem Verbraucher vermittelten Informationen einschließlich der Angaben auf dem Etikett oder sonstige ihm normalerweise zugängliche Informationen über die Vermeidung bestimmter die Gesundheit beeinträchtigender Wirkungen eines bestimmten Lebensmittels oder einer bestimmten Lebensmittelkategorie.
+
+(4)
+
+Bei der Entscheidung der Frage, ob ein Lebensmittel gesundheitsschädlich ist, sind zu berücksichtigen
+
+a)
+
+die wahrscheinlichen sofortigen und/oder kurzfristigen und/oder langfristigen Auswirkungen des Lebensmittels nicht nur auf die Gesundheit des Verbrauchers, sondern auch auf nachfolgende Generationen,
+
+b)
+
+die wahrscheinlichen kumulativen toxischen Auswirkungen,
+
+c)
+
+die besondere gesundheitliche Empfindlichkeit einer bestimmten Verbrauchergruppe, falls das Lebensmittel für diese Gruppe von Verbrauchern bestimmt ist.
+
+(5)
+
+Bei der Entscheidung der Frage, ob ein Lebensmittel für den Verzehr durch den Menschen ungeeignet ist, ist zu berücksichtigen, ob das Lebensmittel infolge einer durch Fremdstoffe oder auf andere Weise bewirkten Kontamination, durch Fäulnis, Verderb oder Zersetzung ausgehend von dem beabsichtigten Verwendungszweck nicht für den Verzehr durch den Menschen inakzeptabel geworden ist.
+
+(6)
+
+Gehört ein nicht sicheres Lebensmittel zu einer Charge, einem Posten oder einer Lieferung von Lebensmitteln der gleichen Klasse oder Beschreibung, so ist davon auszugehen, dass sämtliche Lebensmittel in dieser Charge, diesem Posten oder dieser Lieferung ebenfalls nicht sicher sind, es sei denn, bei einer eingehenden Prüfung wird kein Nachweis dafür gefunden, dass der Rest der Charge, des Postens oder der Lieferung nicht sicher ist.
+
+(7)
+
+Lebensmittel, die spezifischen Bestimmungen der Gemeinschaft zur Lebensmittelsicherheit entsprechen, gelten hinsichtlich der durch diese Bestimmungen abgedeckten Aspekte als sicher.
+
+(8)
+
+Entspricht ein Lebensmittel den für es geltenden spezifischen Bestimmungen, so hindert dies die zuständigen Behörden nicht, geeignete Maßnahmen zu treffen, um Beschränkungen für das Inverkehrbringen dieses Lebensmittels zu verfügen oder seine Rücknahme vom Markt zu verlangen, wenn, obwohl es den genannten Bestimmungen entspricht, da der begründete Verdacht besteht, dass es nicht sicher ist.
+
+(9)
+
+Fehlen spezifische Bestimmungen der Gemeinschaft, so gelten Lebensmittel als sicher, wenn sie mit den entsprechenden Bestimmungen des nationalen Lebensmittelrechts des Mitgliedstaats, in dessen Hoheitsgebiet sie vermarktet werden, in Einklang stehen, sofern diese Bestimmungen unbeschadet des Vertrags, insbesondere der Artikel 28 und 30, erlassen und angewandt werden.
+
+Artikel 15
+
+Anforderungen an die Futtermittelsicherheit
+
+(1)
+
+Futtermittel, die nicht sicher sind, dürfen nicht in Verkehr gebracht oder an der Lebensmittelgewinnung dienende Tiere verfüttert werden.
+
+(2)
+
+Futtermittel gelten als nicht sicher in Bezug auf den beabsichtigten Verwendungszweck, wenn davon auszugehen ist, dass sie
+
+—
+
+die Gesundheit von Mensch oder Tier beeinträchtigen können;
+
+—
+
+bewirken, dass die Lebensmittel, die aus den der Lebensmittelgewinnung dienenden Tieren hergestellt werden, als nicht sicher für den Verzehr durch den Menschen anzusehen sind.
+
+(3)
+
+Gehört ein Futtermittel, bei dem festgestellt worden ist, dass es die Anforderungen an die Futtermittelsicherheit nicht erfüllt, zu einer Charge, einem Posten oder einer Lieferung von Futtermitteln der gleichen Klasse oder Beschreibung, so ist davon auszugehen, dass sämtliche Futtermittel in dieser Charge, diesem Posten oder dieser Lieferung ebenfalls betroffen sind, es sei denn, bei einer eingehenden Prüfung wird kein Nachweis dafür gefunden, dass der Rest der Charge, des Postens oder der Lieferung die Anforderungen an die Futtermittelsicherheit nicht erfüllt.
+
+(4)
+
+Futtermittel, die spezifischen Bestimmungen der Gemeinschaft zur Futtermittelsicherheit entsprechen, gelten hinsichtlich der durch diese Bestimmungen abgedeckten Aspekte als sicher.
+
+(5)
+
+Entspricht ein Futtermittel den für es geltenden spezifischen Bestimmungen, so hindert dies die zuständigen Behörden nicht, geeignete Maßnahmen zu treffen, um Beschränkungen für das Inverkehrbringen dieses Futtermittels zu verfügen oder seine Rücknahme vom Markt zu verlangen, wenn, obwohl es den genannten Bestimmungen entspricht, der begründete Verdacht besteht, dass es nicht sicher ist.
+
+(6)
+
+Fehlen spezifische Bestimmungen der Gemeinschaft, so gelten Futtermittel als sicher, wenn sie mit den entsprechenden Bestimmungen des nationalen Rechts des Mitgliedstaats, in dessen Hoheitsgebiet sie in Verkehr sind, in Einklang stehen, sofern diese Bestimmungen unbeschadet des Vertrags, insbesondere der Artikel 28 und 30, erlassen und angewandt werden.
+
+Artikel 16
+
+Aufmachung
+
+Unbeschadet spezifischer Bestimmungen des Lebensmittelrechts dürfen die Kennzeichnung, Werbung und Aufmachung von Lebensmitteln oder Futtermitteln auch in Bezug auf ihre Form, ihr Aussehen oder ihre Verpackung, die verwendeten Verpackungsmaterialien, die Art ihrer Anordnung und den Rahmen ihrer Darbietung sowie die über sie verbreiteten Informationen, gleichgültig über welches Medium, die Verbraucher nicht irreführen.
+
+Artikel 17
+
+Zuständigkeiten
+
+(1)
+
+Die Lebensmittel- und Futtermittelunternehmer sorgen auf allen Produktions-, Verarbeitungs- und Vertriebsstufen in den ihrer Kontrolle unterstehenden Unternehmen dafür, dass die Lebensmittel oder Futtermittel die Anforderungen des Lebensmittelrechts erfüllen, die für ihre Tätigkeit gelten, und überprüfen die Einhaltung dieser Anforderungen.
+
+(2)
+
+Die Mitgliedstaaten setzen das Lebensmittelrecht durch und überwachen und überprüfen, dass die entsprechenden Anforderungen des Lebensmittelrechts von den Lebensmittel- und Futtermittelunternehmern in allen Produktions-, Verarbeitungs- und Vertriebsstufen eingehalten werden.
+
+Hierzu betreiben sie ein System amtlicher Kontrollen und führen andere den Umständen angemessene Maßnahmen durch, einschließlich der öffentlichen Bekanntgabe von Informationen über die Sicherheit und Risiken von Lebensmitteln und Futtermitteln, der Überwachung der Lebensmittel- und Futtermittelsicherheit und anderer Aufsichtsmaßnahmen auf allen Produktions-, Verarbeitungs- und Vertriebsstufen.
+
+Außerdem legen sie Vorschriften für Maßnahmen und Sanktionen bei Verstößen gegen das Lebensmittel- und Futtermittelrecht fest. Diese Maßnahmen und Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein.
+
+Artikel 18
+
+Rückverfolgbarkeit
+
+(1)
+
+Die Rückverfolgbarkeit von Lebensmitteln und Futtermitteln, von der Lebensmittelgewinnung dienenden Tieren und allen sonstigen Stoffen, die dazu bestimmt sind oder von denen erwartet werden kann, dass sie in einem Lebensmittel oder Futtermittel verarbeitet werden, ist in allen Produktions-, Verarbeitungs- und Vertriebsstufen sicherzustellen.
+
+(2)
+
+Die Lebensmittel- und Futtermittelunternehmer müssen in der Lage sein, jede Person festzustellen, von der sie ein Lebensmittel, Futtermittel, ein der Lebensmittelgewinnung dienendes Tier oder einen Stoff, der dazu bestimmt ist oder von dem erwartet werden kann, dass er in einem Lebensmittel oder Futtermittel verarbeitet wird, erhalten haben.
+
+Sie richten hierzu Systeme und Verfahren ein, mit denen diese Informationen den zuständigen Behörden auf Aufforderung mitgeteilt werden können.
+
+(3)
+
+Die Lebensmittel- und Futtermittelunternehmer richten Systeme und Verfahren zur Feststellung der anderen Unternehmen ein, an die ihre Erzeugnisse geliefert worden sind. Diese Informationen sind den zuständigen Behörden auf Aufforderung zur Verfügung zu stellen.
+
+(4)
+
+Lebensmittel oder Futtermittel, die in der Gemeinschaft in Verkehr gebracht werden oder bei denen davon auszugehen ist, dass sie in der Gemeinschaft in Verkehr gebracht werden, sind durch sachdienliche Dokumentation oder Information gemäß den diesbezüglich in spezifischeren Bestimmungen enthaltenen Auflagen ausreichend zu kennzeichnen oder kenntlich zu machen, um ihre Rückverfolgbarkeit zu erleichtern.
+
+(5)
+
+Bestimmungen zur Anwendung der Anforderungen dieses Artikels auf bestimmte Sektoren können nach dem in Artikel 58 Absatz 2 genannten Verfahren erlassen werden.
+
+Artikel 19
+
+Verantwortung für Lebensmittel: Lebensmittelunternehmen
+
+(1)
+
+Erkennt ein Lebensmittelunternehmer oder hat er Grund zu der Annahme, dass ein von ihm eingeführtes, erzeugtes, verarbeitetes, hergestelltes oder vertriebenes Lebensmittel den Anforderungen an die Lebensmittelsicherheit nicht entspricht, so leitet er unverzüglich Verfahren ein, um das betreffende Lebensmittel vom Markt zu nehmen, sofern das Lebensmittel nicht mehr unter der unmittelbaren Kontrolle des ursprünglichen Lebensmittelunternehmers steht, und die zuständigen Behörden darüber zu unterrichten. Wenn das Produkt den Verbraucher bereits erreicht haben könnte, unterrichtet der Unternehmer die Verbraucher effektiv und genau über den Grund für die Rücknahme und ruft erforderlichenfalls bereits an diese gelieferte Produkte zurück, wenn andere Maßnahmen zur Erzielung eines hohen Gesundheitsschutzniveaus nicht ausreichen.
+
+(2)
+
+Lebensmittelunternehmer, die für Tätigkeiten im Bereich des Einzelhandels oder Vertriebs verantwortlich sind, die nicht das Verpacken, das Etikettieren, die Sicherheit oder die Unversehrtheit der Lebensmittel betreffen, leiten im Rahmen ihrer jeweiligen Tätigkeiten Verfahren zur Rücknahme von Produkten, die die Anforderungen an die Lebensmittelsicherheit nicht erfüllen, vom Markt ein und tragen zur Lebensmittelsicherheit dadurch bei, dass sie sachdienliche Informationen, die für die Rückverfolgung eines Lebensmittels erforderlich sind, weitergeben und an den Maßnahmen der Erzeuger, Verarbeiter, Hersteller und/oder der zuständigen Behörden mitarbeiten.
+
+(3)
+
+Erkennt ein Lebensmittelunternehmer oder hat er Grund zu der Annahme, dass ein von ihm in Verkehr gebrachtes Lebensmittel möglicherweise die Gesundheit des Menschen schädigen kann, teilt er dies unverzüglich den zuständigen Behörden mit. Der Unternehmer unterrichtet die Behörden über die Maßnahmen, die getroffen worden sind, um Risiken für den Endverbraucher zu verhindern, und darf niemanden daran hindern oder davon abschrecken, gemäß einzelstaatlichem Recht und einzelstaatlicher Rechtspraxis mit den zuständigen Behörden zusammenzuarbeiten, um einem mit einem Lebensmittel verbundenen Risiko vorzubeugen, es zu begrenzen oder auszuschalten.
+
+(4)
+
+Die Lebensmittelunternehmer arbeiten bei Maßnahmen, die getroffen werden, um die Risiken durch ein Lebensmittel, das sie liefern oder geliefert haben, zu vermeiden oder zu verringern, mit den zuständigen Behörden zusammen.
+
+Artikel 20
+
+Verantwortung für Futtermittel: Futtermittelunternehmen
+
+(1)
+
+Erkennt ein Futtermittelunternehmer oder hat er Grund zu der Annahme, dass ein von ihm eingeführtes, erzeugtes, verarbeitetes, hergestelltes oder vertriebenes Futtermittel die Anforderungen an die Futtermittelsicherheit nicht erfüllt, so leitet er unverzüglich Verfahren ein, um das betreffende Futtermittel vom Markt zu nehmen und unterrichtet die zuständigen Behörden hiervon. In diesem Fall bzw. im Fall von Artikel 15 Absatz 3, d. h. wenn eine Charge, ein Posten oder eine Lieferung die Anforderungen an die Futtermittelsicherheit nicht erfüllt, wird das Futtermittel vernichtet, sofern die Bedenken der zuständigen Behörde nicht auf andere Weise ausgeräumt werden. Das Unternehmen unterrichtet die Verwender des Futtermittels effektiv und genau über den Grund für die Rücknahme und ruft erforderlichenfalls bereits an diese gelieferte Produkte zurück, wenn andere Maßnahmen zur Erzielung eines hohen Gesundheitsschutzniveaus nicht ausreichen.
+
+(2)
+
+Futtermittelunternehmer, die für Tätigkeiten im Bereich des Einzelhandels oder Vertriebs verantwortlich sind, die nicht das Verpacken, das Etikettieren, die Sicherheit oder die Unversehrtheit der Futtermittel betreffen, leiten im Rahmen ihrer jeweiligen Tätigkeiten Verfahren zur Rücknahme von Produkten, die die Anforderungen an die Futtermittelsicherheit nicht erfüllen, vom Markt ein und tragen zur Lebensmittelsicherheit dadurch bei, dass sie sachdienliche Informationen, die für die Rückverfolgung eines Futtermittels erforderlich sind, weitergeben und an den Maßnahmen der Erzeuger, Verarbeiter, Hersteller und/oder der zuständigen Behörden mitarbeiten.
+
+(3)
+
+Erkennt ein Futtermittelunternehmer oder hat er Grund zu der Annahme, dass ein von ihm in Verkehr gebrachtes Futtermittel möglicherweise die Anforderungen an die Futtermittelsicherheit nicht erfüllt, teilt er dies unverzüglich den zuständigen Behörden mit. Der Unternehmer unterrichtet die zuständigen Behörden über die Maßnahmen, die getroffen worden sind, um eine Gefährdung durch die Verwendung des Futtermittels zu verhindern, und darf niemanden daran hindern oder davon abschrecken, gemäß einzelstaatlichem Recht und einzelstaatlicher Rechtspraxis mit den zuständigen Behörden zusammenzuarbeiten, um einem mit einem Futtermittel verbundenen Risiko vorzubeugen, es zu begrenzen oder auszuschalten.
+
+(4)
+
+Die Futtermittelunternehmer arbeiten bei den Maßnahmen, die getroffen werden, um Risiken durch ein Futtermittel, das sie liefern oder geliefert haben, zu vermeiden, mit den zuständigen Behörden zusammen.
+
+Artikel 21
+
+Haftung
+
+Die Bestimmungen dieses Kapitels gelten unbeschadet der Richtlinie 85/374/EWG des Rates vom 25. Juli 1985 zur Angleichung der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten über die Haftung für fehlerhafte Produkte (
+
+6
+
+).
+
+KAPITEL III
+
+EUROPÄISCHE BEHÖRDE FÜR LEBENSMITTELSICHERHEIT
+
+ABSCHNITT 1
+
+AUFTRAG UND AUFGABEN
+
+Artikel 22
+
+Auftrag der Behörde
+
+(1)
+
+Es wird eine Europäische Behörde für Lebensmittelsicherheit, im Folgenden „die Behörde“ genannt, errichtet.
+
+(2)
+
+Aufgabe der Behörde ist die wissenschaftliche Beratung sowie die wissenschaftliche und technische Unterstützung für die Rechtsetzung und Politik der Gemeinschaft in allen Bereichen, die sich unmittelbar oder mittelbar auf die Lebensmittel- und Futtermittelsicherheit auswirken. Sie stellt unabhängige Informationen über alle Fragen in diesen Bereichen bereit und macht auf Risiken aufmerksam.
+
+(3)
+
+Die Behörde trägt zu einem hohen Maß an Schutz für Leben und Gesundheit der Menschen bei und berücksichtigt dabei im Rahmen des Funktionierens des Binnenmarktes die Tiergesundheit und den Tierschutz, die Pflanzengesundheit und die Umwelt.
+
+(4)
+
+Die Behörde sammelt und analysiert Daten, um die Beschreibung und Überwachung von Risiken zu ermöglichen, die sich unmittelbar oder mittelbar auf die Lebensmittel- und Futtermittelsicherheit auswirken.
+
+(5)
+
+Der Auftrag der Behörde umfasst ferner
+
+a)
+
+wissenschaftliche Beratung und wissenschaftliche und technische Unterstützung in Bezug auf die menschliche Ernährung im Zusammenhang mit der Rechtsetzung der Gemeinschaft sowie — auf Antrag der Kommission — Hilfe bei der Information über Ernährungsfragen im Rahmen des Gesundheitsprogramms der Gemeinschaft,
+
+b)
+
+wissenschaftliche Gutachten zu anderen Fragen im Zusammenhang mit Tiergesundheit, Tierschutz und Pflanzengesundheit,
+
+c)
+
+wissenschaftliche Gutachten zu anderen Erzeugnissen als Lebensmitteln und Futtermitteln, die sich auf genetisch veränderte Organismen im Sinne der Richtlinie 2001/18/EG beziehen, unbeschadet der dort festgelegten Verfahren.
+
+(6)
+
+Die Behörde erstellt wissenschaftliche Gutachten, die als wissenschaftliche Grundlage für die Ausarbeitung und den Erlass von Gemeinschaftsmaßnahmen in den Bereichen ihres Auftrags dienen.
+
+(7)
+
+Die Behörde nimmt ihre Aufgaben unter Bedingungen wahr, die es ihr ermöglichen, aufgrund ihrer Unabhängigkeit, der wissenschaftlichen und technischen Qualität ihrer Gutachten und der von ihr verbreiteten Informationen, der Transparenz ihrer Verfahren und ihrer Arbeitsweise sowie ihres Engagements bei der Wahrnehmung ihrer Aufgaben als eine maßgebliche Referenzstelle zu fungieren.
+
+▼M9
+
+Sie handelt in enger Zusammenarbeit mit den zuständigen Stellen in den Mitgliedstaaten, die ähnliche Aufgaben wahrnehmen wie die Behörde, und gegebenenfalls mit den einschlägigen Unionsagenturen.
+
+▼B
+
+(8)
+
+Die Behörde, die Kommission und die Mitgliedstaaten arbeiten zusammen, um eine effektive Kohärenz zwischen den Funktionen Risikobewertung, Risikomanagement und Risikokommunikation herbeizuführen.
+
+(9)
+
+Die Mitgliedstaaten arbeiten mit der Behörde zusammen, um die Erfüllung ihres Auftrags zu gewährleisten.
+
+Artikel 23
+
+Aufgaben der Behörde
+
+Die Behörde hat folgende Aufgaben:
+
+a)
+
+Sie liefert den Organen der Gemeinschaft und den Mitgliedstaaten die bestmöglichen wissenschaftlichen Gutachten in allen im Gemeinschaftsrecht vorgesehenen Fällen und zu jeder Frage, die unter ihren Auftrag fällt;
+
+b)
+
+sie fördert und koordiniert die Erarbeitung einheitlicher Risikobewertungsverfahren in den Bereichen ihres Auftrags;
+
+c)
+
+sie gewährt der Kommission wissenschaftliche und technische Unterstützung in den Bereichen ihres Auftrags sowie — auf Wunsch — bei der Auslegung und Prüfung von Gutachten zur Risikobewertung;
+
+d)
+
+sie gibt für die Erfüllung ihres Auftrags erforderliche wissenschaftliche Studien in Auftrag;
+
+e)
+
+sie macht in den Bereichen ihres Auftrags wissenschaftliche und technische Daten ausfindig, sammelt sie, stellt sie zusammen, analysiert sie und fasst sie zusammen;
+
+f)
+
+sie führt in den Bereichen ihres Auftrags Maßnahmen zur Identifizierung und Beschreibung neu auftretender Risiken durch;
+
+g)
+
+sie sorgt für die Vernetzung von Organisationen, die in den Bereichen ihres Auftrags tätig sind, und trägt die Verantwortung für den Betrieb der Netze;
+
+h)
+
+sie gewährt auf Anforderung der Kommission wissenschaftliche und technische Unterstützung bei den von der Kommission durchgeführten Verfahren für das Krisenmanagement im Bereich der Sicherheit von Lebensmitteln und Futtermitteln;
+
+i)
+
+sie gewährt in den Bereichen ihres Auftrags auf Anforderung der Kommission wissenschaftliche und technische Unterstützung mit dem Ziel, die Zusammenarbeit zwischen der Gemeinschaft, beitrittswilligen Ländern, internationalen Organisationen und Drittländern zu verbessern;
+
+j)
+
+sie stellt in den Bereichen ihres Auftrags sicher, dass die Öffentlichkeit und die Beteiligten rasch zuverlässige, objektive und verständliche Informationen erhalten;
+
+k)
+
+sie erstellt in Fragen, auf die sich ihr Auftrag erstreckt, unabhängig ihre eigenen Schlussfolgerungen und Leitlinien;
+
+l)
+
+sie führt in den Bereichen ihres Auftrags alle sonstigen Aufgaben aus, die ihr von der Kommission zugewiesen werden;
+
+▼M11
+
+m)
+
+sie arbeitet bei der Erstellung einschlägiger wissenschaftlicher Gutachten, beim Austausch von Daten und Informationen — einschließlich der möglichen Festlegung damit zusammenhängender Datenformate und kontrollierter Vokabulare zur Erleichterung eines solchen Austauschs — und bei der Entwicklung wissenschaftlicher Methoden für die Bewertung von Chemikalien mit den zuständigen Stellen in den Mitgliedstaaten, die ähnliche Aufgaben wie die Behörde wahrnehmen, sowie mit anderen nach Unionsrecht eingerichteten wissenschaftlichen Einrichtungen zusammen, insbesondere mit der Europäischen Chemikalienagentur, der Europäischen Arzneimittel-Agentur und der Europäischen Umweltagentur.
+
+▼B
+
+ABSCHNITT 2
+
+ORGANISATION
+
+Artikel 24
+
+Organe der Behörde
+
+Die Behörde umfasst
+
+a)
+
+einen Verwaltungsrat,
+
+b)
+
+einen Geschäftsführenden Direktor mit zugehörigem Personal,
+
+c)
+
+einen Beirat,
+
+d)
+
+einen Wissenschaftlichen Ausschuss und Wissenschaftliche Gremien.
+
+Artikel 25
+
+Verwaltungsrat
+
+▼M9
+
+(1)
+
+Jeder Mitgliedstaat benennt als seine Vertreter ein Mitglied und ein stellvertretendes Mitglied für den Verwaltungsrat. Die so benannten Mitglieder und stellvertretenden Mitglieder werden vom Rat ernannt und sind stimmberechtigt.
+
+▼M9
+
+(1a)
+
+Neben den Mitgliedern und stellvertretenden Mitgliedern gemäß Absatz 1 gehören dem Verwaltungsrat folgende Personen an:
+
+a)
+
+zwei Mitglieder und zwei stellvertretende Mitglieder, die von der Kommission als ihre Vertreter ernannt werden und die stimmberechtigt sind,
+
+b)
+
+zwei stimmberechtigte Mitglieder, die vom Europäischen Parlament ernannt werden,
+
+c)
+
+vier stimmberechtigte Mitglieder und vier stimmberechtigte stellvertretende Mitglieder als Vertreter der Interessen der Zivilgesellschaft und der Lebensmittelkette, und zwar ein Mitglied und ein stellvertretendes Mitglied der Verbraucherorganisationen, ein Mitglied und ein stellvertretendes Mitglied der Nichtregierungsorganisationen im Umweltbereich, ein Mitglied und ein stellvertretendes Mitglied der landwirtschaftlichen Organisationen und ein Mitglied und ein stellvertretendes Mitglied der Industrieorganisationen.
+
+Die Mitglieder und die stellvertretenden Mitglieder gemäß Unterabsatz 1 Buchstabe c werden vom Rat im Benehmen mit dem Europäischen Parlament anhand einer Liste ernannt, die von der Kommission zu erstellen und dem Rat zu übermitteln ist, und die mehr Namen enthält, als Posten zu besetzen sind. Die von der Kommission erstellte Liste wird dem Europäischen Parlament durch den Rat gemeinsam mit der entsprechenden Dokumentation übermittelt. So rasch wie möglich und spätestens innerhalb von drei Monaten nach Eingang dieser Liste kann das Europäische Parlament seine Positionen zur Prüfung dem Rat vorlegen, der diese Mitglieder dann ernennt.
+
+(1b)
+
+Die Mitglieder und die stellvertretenden Mitglieder des Verwaltungsrats werden aufgrund ihrer einschlägigen Erfahrungen und ihres Fachwissens bezüglich des Rechts und der Politik im Bereich der Lebensmittelkette einschließlich der Risikobewertung benannt und ernannt, wobei sichergestellt wird, dass einschlägiges Fachwissen in den Bereichen Management, Verwaltung, Finanzen und Recht im Verwaltungsrat vorhanden ist.
+
+▼M9
+
+(2)
+
+Die Amtszeit der Mitglieder und stellvertretenden Mitglieder beträgt vier Jahre und kann verlängert werden. Die Amtszeit der Mitglieder und stellvertretenden Mitglieder gemäß Absatz 1a Unterabsatz 1 Buchstabe c kann jedoch nur einmal verlängert werden.
+
+▼B
+
+(3)
+
+Der Verwaltungsrat legt auf Vorschlag des Geschäftsführenden Direktors die internen Regeln der Behörde fest. Diese Regeln werden veröffentlicht.
+
+(4)
+
+Der Verwaltungsrat wählt eines seiner Mitglieder als seinen Vorsitzenden für einen Zeitraum von zwei Jahren; Wiederwahl ist möglich.
+
+(5)
+
+Der Verwaltungsrat gibt sich eine Geschäftsordnung.
+
+▼M9
+
+Sofern nicht anders vorgesehen, ist für die Beschlüsse des Verwaltungsrats die Mehrheit seiner Mitglieder erforderlich. Stellvertretende Mitglieder vertreten die Mitglieder in deren Abwesenheit und stimmen für diese ab.
+
+▼B
+
+(6)
+
+Der Verwaltungsrat tritt auf Einladung durch den Vorsitzenden oder auf Verlangen von mindestens einem Drittel seiner Mitglieder zusammen.
+
+(7)
+
+Der Verwaltungsrat sorgt dafür, dass die Behörde ihren Auftrag erfüllt und die ihr zugewiesenen Aufgaben nach Maßgabe dieser Verordnung wahrnimmt.
+
+(8)
+
+Vor dem 31. Januar jeden Jahres nimmt der Verwaltungsrat das Arbeitsprogramm der Behörde für das kommende Jahr an. Ferner nimmt er ein mehrjähriges Programm an, das abgeändert werden kann. Der Verwaltungsrat sorgt dafür, dass diese Programme mit den Prioritäten der Gemeinschaft für Rechtsetzung und Politik im Bereich der Lebensmittelsicherheit im Einklang stehen.
+
+Vor dem 30. März jeden Jahres nimmt der Verwaltungsrat den Gesamtbericht über die Tätigkeit der Behörde im abgelaufenen Jahr an.
+
+▼M1
+
+(9)
+
+Der Verwaltungsrat erlässt nach Konsultation der Kommission die für die Behörde geltende Finanzregelung. Diese darf von der Verordnung (EG, Euratom) Nr. 2343/2002 der Kommission vom 19. November 2002 betreffend die Rahmenfinanzregelung für Einrichtungen gemäß Artikel 185 der Verordnung (EG, Euratom) Nr. 1605/2002 des Rates über die Haushaltsordnung für den Gesamthaushaltsplan der Europäischen Gemeinschaften (
+
+7
+
+) nur abweichen, wenn besondere Merkmale der Funktionsweise der Behörde es erfordern und nachdem die Kommission dem zugestimmt hat.
+
+▼B
+
+(10)
+
+Der Geschäftsführende Direktor nimmt ohne Stimmberechtigung an den Sitzungen des Verwaltungsrats teil und nimmt die Sekretariatsgeschäfte wahr. Der Verwaltungsrat lädt den Vorsitzenden des Wissenschaftlichen Ausschusses ein, ohne Stimmrecht an seinen Sitzungen teilzunehmen.
+
+Artikel 26
+
+Geschäftsführender Direktor
+
+(1)
+
+Der Geschäftsführende Direktor wird vom Verwaltungsrat für einen Zeitraum von fünf Jahren auf der Grundlage einer Bewerberliste ernannt, die von der Kommission nach einem allgemeinen Auswahlverfahren im Anschluss an die Veröffentlichung eines Aufrufs zur Interessenbekundung im
+Amtsblatt der Europäischen Gemeinschaften
+und an anderer Stelle vorgeschlagen wird; Wiederernennung ist möglich. Vor der Ernennung wird der vom Verwaltungsrat benannte Kandidat unverzüglich aufgefordert, vor dem Europäischen Parlament eine Erklärung abzugeben und Fragen der Abgeordneten zu beantworten. Er kann von der Mehrheit des Verwaltungsrates seines Amtes enthoben werden.
+
+(2)
+
+Der Geschäftsführende Direktor ist der gesetzliche Vertreter der Behörde. Er trägt die Verantwortung
+
+a)
+
+für die laufende Verwaltung der Behörde,
+
+b)
+
+für die Erstellung eines Vorschlags für die Arbeitsprogramme der Behörde im Benehmen mit der Kommission,
+
+c)
+
+für die Umsetzung des Arbeitsprogramms und der vom Verwaltungsrat angenommenen Beschlüsse,
+
+d)
+
+für die Bereitstellung angemessener wissenschaftlicher, technischer und administrativer Unterstützung für den Wissenschaftlichen Ausschuss und die Wissenschaftlichen Gremien,
+
+e)
+
+dafür, dass die Behörde ihre Aufgaben gemäß den Erfordernissen ihrer Nutzer wahrnimmt, insbesondere, dass die erbrachten Dienstleistungen und die dafür aufgewendete Zeit angemessen sind,
+
+▼M1
+
+f)
+
+für die Vorbereitung des Entwurfs eines Voranschlags der Einnahmen und Ausgaben sowie für die Ausführung des Haushaltsplans der Behörde,
+
+▼B
+
+g)
+
+für sämtliche Personalangelegenheiten,
+
+h)
+
+für die Entwicklung und Unterhaltung der Kontakte zum Europäischen Parlament und die Sicherstellung eines regelmäßigen Dialogs mit dessen zuständigen Ausschüssen.
+
+▼M1
+
+(3)
+
+Der Geschäftsführende Direktor legt dem Verwaltungsrat jährlich
+
+a)
+
+den Entwurf eines allgemeinen Berichts über sämtliche Tätigkeiten der Behörde im abgelaufenen Jahr,
+
+b)
+
+den Entwurf der Arbeitsprogramme
+
+zur Genehmigung vor.
+
+Nach Annahme durch den Verwaltungsrat übermittelt der Geschäftsführende Direktor die Arbeitsprogramme dem Europäischen Parlament, dem Rat, der Kommission und den Mitgliedstaaten und sorgt für ihre Veröffentlichung.
+
+Spätestens am 15. Juni und nach Annahme durch den Verwaltungsrat übermittelt der Geschäftsführende Direktor den allgemeinen Bericht über die Tätigkeiten der Behörde dem Europäischen Parlament, dem Rat, der Kommission, dem Rechnungshof, dem Europäischen Wirtschafts- und Sozialausschuss sowie dem Ausschuss der Regionen und sorgt für seine Veröffentlichung.
+
+Der Geschäftsführende Direktor übermittelt der Haushaltsbehörde jährlich alle einschlägigen Informationen zu den Ergebnissen der Bewertungsverfahren.
+
+▼M1
+—————
+
+▼B
+
+Artikel 27
+
+Beirat
+
+(1)
+
+Der Beirat setzt sich aus Vertretern zuständiger, ähnliche Aufgaben wie die Behörde wahrnehmender Stellen der Mitgliedstaaten zusammen, wobei jeder Mitgliedstaat einen Vertreter benennt. Die Mitglieder können durch zur selben Zeit ernannte Stellvertreter vertreten werden.
+
+(2)
+
+Die Mitglieder des Beirats dürfen nicht dem Verwaltungsrat angehören.
+
+(3)
+
+Der Beirat berät den Geschäftsführenden Direktor bei der Ausübung seines Amtes gemäß dieser Verordnung, insbesondere bei der Erstellung eines Vorschlags für das Arbeitsprogramm der Behörde. Der Geschäftsführende Direktor kann den Beirat ferner ersuchen, ihn bei der Festlegung von Prioritäten bei den Ersuchen um wissenschaftliche Gutachten zu beraten.
+
+(4)
+
+Der Beirat dient als Einrichtung für den Austausch von Informationen über potenzielle Risiken und die Zusammenführung von Erkenntnissen. Er sorgt für eine enge Zusammenarbeit zwischen der Behörde und den zuständigen Stellen in den Mitgliedstaaten insbesondere in Bezug auf Folgendes:
+
+a)
+
+Vermeidung von Überschneidungen bei von der Behörde in Auftrag gegebenen wissenschaftlichen Studien mit entsprechenden Programmen der Mitgliedstaaten gemäß Artikel 32,
+
+▼M11
+
+b)
+
+die in Artikel 30 Absatz 2 genannten Fälle, in denen die Behörde und eine Stelle eines Mitgliedstaats verpflichtet sind, zusammenzuarbeiten,
+
+▼B
+
+c)
+
+Förderung der Vernetzung von Organisationen, die in den Bereichen des Auftrags der Behörde tätig sind, gemäß Artikel 36 Absatz 1,
+
+d)
+
+Fälle, in denen die Behörde oder ein Mitgliedstaat ein neu auftretendes Risiko identifiziert.
+
+(5)
+
+Den Vorsitz im Beirat führt der Geschäftsführende Direktor. Der Beirat tritt nach Einberufung durch den Vorsitzenden oder auf Antrag von mindestens einem Drittel seiner Mitglieder mindestens vier Mal im Jahr zusammen. Die Arbeitsweise des Beirats wird in den internen Regeln der Behörde festgelegt und veröffentlicht.
+
+(6)
+
+Die Behörde stellt die für den Beirat erforderliche technische und logistische Unterstützung bereit und nimmt die Sekretariatsgeschäfte im Zusammenhang mit den Beiratssitzungen wahr.
+
+(7)
+
+Vertreter der zuständigen Dienststellen der Kommission können sich an der Arbeit des Beirats beteiligen. Der Geschäftsführende Direktor kann Vertreter des Europäischen Parlaments und andere einschlägige Einrichtungen zur Teilnahme einladen.
+
+Berät der Beirat über Fragen gemäß Artikel 22 Absatz 5 Buchstabe b), so können sich Vertreter einschlägiger Einrichtungen der Mitgliedstaaten, die ähnliche Aufgaben wie die in Artikel 22 Absatz 5 Buchstabe b) genannten wahrnehmen, an der Arbeit des Beirats beteiligen; hierfür kann jeder Mitgliedstaat einen Vertreter entsenden.
+
+Artikel 28
+
+Wissenschaftlicher Ausschuss und Wissenschaftliche Gremien
+
+(1)
+
+Der Wissenschaftliche Ausschuss und die ständigen Wissenschaftlichen Gremien sind in ihrem jeweiligen Zuständigkeitsbereich verantwortlich für die Erstellung der wissenschaftlichen Gutachten der Behörde und haben die Möglichkeit, bei Bedarf öffentliche Anhörungen zu veranstalten.
+
+(2)
+
+Der Wissenschaftliche Ausschuss ist für die allgemeine Koordinierung verantwortlich, die zur Gewährleistung der Kohärenz der Verfahren zur Erstellung der wissenschaftlichen Gutachten erforderlich ist, insbesondere für die Festlegung der Arbeitsverfahren und die Harmonisierung der Arbeitsmethoden. Er gibt Gutachten zu interdisziplinären Fragen ab, die in die Zuständigkeit von mehr als einem Wissenschaftlichen Gremium fallen, sowie zu Fragen, für die kein Wissenschaftliches Gremium zuständig ist.
+
+Im Bedarfsfall setzt er Arbeitsgruppen ein, insbesondere für Fragen, für die kein wissenschaftliches Gremium zuständig ist. In diesem Fall stützt er sich bei der Erstellung der wissenschaftlichen Gutachten auf das Fachwissen dieser Arbeitsgruppen.
+
+(3)
+
+Der Wissenschaftliche Ausschuss setzt sich aus den Vorsitzenden der Wissenschaftlichen Gremien sowie sechs unabhängigen Wissenschaftlern, die keinem der Wissenschaftlichen Gremien angehören, zusammen.
+
+(4)
+
+Die Wissenschaftlichen Gremien setzen sich aus unabhängigen Wissenschaftlern zusammen. Zum Zeitpunkt der Errichtung der Behörde werden folgende Wissenschaftliche Gremien eingesetzt:
+
+▼M6
+
+a)
+
+das Gremium für Lebensmittelzusatzstoffe und Aromastoffe,
+
+▼B
+
+b)
+
+das Gremium für Zusatzstoffe, Erzeugnisse und Stoffe in der Tierernährung,
+
+▼M2
+
+c)
+
+das Gremium für Pflanzenschutzmittel und ihre Rückstände,
+
+▼B
+
+d)
+
+das Gremium für genetisch veränderte Organismen,
+
+▼M6
+
+e)
+
+das Gremium für Ernährung, neuartige Lebensmittel und Lebensmittelallergene,
+
+▼B
+
+f)
+
+das Gremium für biologische Gefahren,
+
+g)
+
+das Gremium für Kontaminanten in der Lebensmittelkette,
+
+h)
+
+das Gremium für Tiergesundheit und Tierschutz,
+
+▼M2
+
+i)
+
+das Gremium für Pflanzengesundheit,
+
+▼M10
+
+j)
+
+das Gremium für Lebensmittelenzyme,
+
+▼M10
+
+k)
+
+das Gremium für Lebensmittelkontaktmaterialien.
+
+▼M8
+
+Der Kommission wird die Befugnis übertragen, gemäß Artikel 57a delegierte Rechtsakte zur Änderung von Unterabsatz 1 in Bezug auf die Anzahl und die Bezeichnungen der Wissenschaftlichen Gremien zu erlassen, um sie auf Antrag der Behörde an die technische und wissenschaftliche Entwicklung anzupassen.
+
+▼M9
+
+(5)
+
+Die Mitglieder des Wissenschaftlichen Ausschusses, die keinem Wissenschaftlichen Gremium angehören, und die Mitglieder der Wissenschaftlichen Gremien werden im Anschluss an die Veröffentlichung eines Aufrufs zur Interessenbekundung im
+Amtsblatt der Europäischen Union
+, in den einschlägigen führenden wissenschaftlichen Publikationen und auf der Website der Behörde vom Verwaltungsrat auf Vorschlag des Geschäftsführenden Direktors für eine Amtszeit von fünf Jahren ernannt, die verlängert werden kann. Die Behörde veröffentlicht diesen Aufruf zur Interessenbekundung, nachdem sie die Mitgliedstaaten über die erforderlichen Kriterien und Fachwissensbereiche informiert hat.
+
+Die Mitgliedstaaten
+
+a)
+
+veröffentlichen den Aufruf zur Interessenbekundung auf den Websites ihrer zuständigen Behörden und ihrer mit vergleichbaren Aufgaben wie die Behörde betrauten zuständigen Behörden,
+
+b)
+
+informieren die in ihrem Hoheitsgebiet ansässigen einschlägigen wissenschaftlichen Organisationen,
+
+c)
+
+fordern potenzielle Bewerber zur Bewerbung auf und
+
+d)
+
+treffen andere geeignete Maßnahmen zur Unterstützung des Aufrufs zur Interessenbekundung.
+
+▼M9
+
+(5a)
+
+Die Auswahl und die Ernennung der Mitglieder des Wissenschaftlichen Ausschusses, die keinem Wissenschaftlichen Gremium angehören, und der Mitglieder der Wissenschaftlichen Gremien erfolgt nach dem folgenden Verfahren:
+
+a)
+
+Der Geschäftsführende Direktor erstellt auf der Grundlage der Bewerbungen, die infolge eines Aufrufs zur Interessenbekundung eingegangen sind, den Entwurf einer Liste geeigneter Bewerber, die mindestens die doppelte Anzahl an Bewerbern umfasst, die zur Besetzung der Stellen im Wissenschaftlichen Ausschuss und in den Wissenschaftlichen Gremien benötigt wird, und übermittelt diesen Entwurf einer Liste dem Verwaltungsrat, wobei er angibt, welches fachübergreifende Fachwissen für die einzelnen Wissenschaftlichen Gremien erforderlich ist,
+
+b)
+
+Gestützt auf diesen Entwurf einer Liste ernennt der Verwaltungsrat die Mitglieder des Wissenschaftlichen Ausschusses, die keinem Wissenschaftlichen Gremium angehören, und die Mitglieder der Wissenschaftlichen Gremien und stellt die Reserveliste der Bewerber für den Wissenschaftlichen Ausschuss und die Wissenschaftlichen Gremien auf,
+
+c)
+
+Das Auswahlverfahren und die Ernennung der Mitglieder des Wissenschaftlichen Ausschusses, die keinem Wissenschaftlichen Gremium angehören, und der Mitglieder der Wissenschaftlichen Gremien erfolgt auf Grundlage der folgenden Kriterien:
+
+i)
+
+herausragendes wissenschaftliches Fachwissen,
+
+ii)
+
+Unabhängigkeit und Nichtbestehen von Interessenkonflikten gemäß Artikel 37 Absatz 2 sowie Unabhängigkeitspolitik der Behörde und Durchführung dieser Politik in Bezug auf die Mitglieder der Wissenschaftlichen Gremien,
+
+iii)
+
+Deckung des Bedarfs des ins Auge gefassten Wissenschaftlichen Gremiums an fachübergreifendem Fachwissen sowie geltende Sprachregelung.
+
+d)
+
+Wenn Bewerber über gleichwertiges wissenschaftliches Fachwissen verfügen, sorgt der Verwaltungsrat bei den Ernennungen für die größtmögliche geografische Streuung.
+
+(5b)
+
+Wenn die Behörde feststellt, dass in einem Wissenschaftlichen Gremium oder in mehreren Wissenschaftlichen Gremien Fachwissen fehlt, schlägt der Geschäftsführende Direktor dem Verwaltungsrat die Ernennung zusätzlicher Mitglieder für das betreffende Wissenschaftliche Gremium/die betreffenden Wissenschaftlichen Gremien in Übereinstimmung mit dem Verfahren gemäß den Absätzen 5 und 5a vor.
+
+(5c)
+
+Der Verwaltungsrat beschließt auf der Grundlage eines Vorschlags des Geschäftsführenden Direktors Vorschriften für den genauen organisatorischen und zeitlichen Ablauf der in den Absätzen 5a und 5b festgelegten Verfahren.
+
+(5d)
+
+Die Mitgliedstaaten und die Arbeitgeber der Mitglieder des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien verzichten darauf, diesen Mitgliedern oder den an den Arbeitsgruppen des Wissenschaftlichen Ausschusses und den Wissenschaftlichen Gremien beteiligten externen Sachverständigen Anweisungen zu erteilen, die mit den Aufgaben dieser Mitglieder und Sachverständigen oder mit den Aufgaben, den Zuständigkeiten und der Unabhängigkeit der Behörde nichtvereinbar sind.
+
+(5e)
+
+Die Behörde unterstützt die Aufgaben des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien, indem sie deren Arbeit organisiert, insbesondere die vorbereitenden Arbeiten, die von Mitarbeitern der Behörde oder den benannten nationalen wissenschaftlichen Organisationen im Sinne des Artikels 36 durchgeführt werden; dazu zählt auch die Schaffung einer Grundlage für die Ausarbeitung wissenschaftlicher Stellungnahmen, die die Wissenschaftlichen Gremien einem Peer-Review unterziehen, bevor sie diese genehmigen.
+
+(5f)
+
+Ein Wissenschaftliches Gremium umfasst höchstens 21 Mitglieder.
+
+(5g)
+
+Den Mitgliedern Wissenschaftlicher Gremien werden ausführliche Schulungen zur Risikobewertung angeboten.
+
+▼B
+
+(6)
+
+Der Wissenschaftliche Ausschuss und die Wissenschaftlichen Gremien wählen aus dem Kreis ihrer Mitglieder je einen Vorsitzenden und zwei Stellvertretende Vorsitzende.
+
+(7)
+
+Für die Beschlüsse des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien ist die Mehrheit ihrer Mitglieder erforderlich. Positionen von Minderheiten werden aufgezeichnet.
+
+(8)
+
+Die Vertreter der zuständigen Dienststellen der Kommission sind berechtigt, an den Sitzungen des Wissenschaftlichen Ausschusses, der Wissenschaftlichen Gremien und ihrer Arbeitsgruppen teilzunehmen. Wenn sie darum gebeten werden, können sie Klarstellungen und Informationen liefern, dürfen jedoch nicht versuchen, auf die Diskussionen Einfluss zu nehmen.
+
+(9)
+
+Die Verfahren für die Tätigkeit und Zusammenarbeit des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien werden in den internen Regeln der Behörde festgelegt.
+
+Geregelt werden insbesondere
+
+a)
+
+die Frage, wie oft die Mitgliedschaft im Wissenschaftlichen Ausschuss und in den Wissenschaftlichen Gremien verlängert werden kann,
+
+▼M9
+
+b)
+
+die Anzahl der Mitglieder jedes Wissenschaftlichen Gremiums, die jedoch nicht die in Absatz 5f genannte Höchstzahl überschreiten darf,
+
+▼B
+
+c)
+
+die Erstattung von Auslagen der Mitglieder des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien,
+
+d)
+
+das Verfahren für die Zuweisung der Aufgaben und der angeforderten wissenschaftlichen Gutachten an den Wissenschaftlichen Ausschuss und die Wissenschaftlichen Gremien,
+
+e)
+
+die Einsetzung und Organisation der Arbeitsgruppen des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien sowie die Möglichkeit, externe Sachverständige an diesen Arbeitsgruppen zu beteiligen,
+
+f)
+
+die Möglichkeit, Beobachter zu den Sitzungen des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien einzuladen,
+
+g)
+
+die Möglichkeit, öffentliche Anhörungen zu veranstalten.
+
+ABSCHNITT 3
+
+ARBEITSWEISE
+
+Artikel 29
+
+Wissenschaftliche Gutachten
+
+(1)
+
+Die Behörde gibt wissenschaftliche Gutachten ab
+
+a)
+
+auf Ersuchen der Kommission zu jeder Frage in den Bereichen ihres Auftrags und in allen Fällen, in denen das Gemeinschaftsrecht die Anhörung der Behörde vorsieht;
+
+b)
+
+auf eigene Initiative zu Fragen in den Bereichen ihres Auftrags.
+
+Das Europäische Parlament oder ein Mitgliedstaat kann von der Behörde zu Fragen in den Bereichen ihres Auftrags ein wissenschaftliches Gutachten anfordern.
+
+(2)
+
+Ersuchen um Gutachten gemäß Absatz 1 müssen Hintergrundinformationen zur Erläuterung der wissenschaftlichen Problemstellung sowie des Gemeinschaftsinteresses enthalten.
+
+(3)
+
+Sieht das Gemeinschaftsrecht nicht bereits eine Frist für die Abgabe eines wissenschaftlichen Gutachtens vor, so gibt die Behörde außer in hinreichend begründeten Fällen ihre wissenschaftlichen Gutachten innerhalb der in den jeweiligen Ersuchen angegebenen Frist ab.
+
+(4)
+
+Gehen verschiedene Ersuchen um ein Gutachten zu den gleichen Fragen ein oder entspricht ein Ersuchen nicht den Anforderungen von Absatz 2 oder ist es unklar abgefasst, so kann die Behörde das Ersuchen entweder ablehnen oder im Benehmen mit der ersuchenden Einrichtung bzw. dem/den ersuchenden Mitgliedstaat(en) Änderungen an dem betreffenden Ersuchen vorschlagen. Der ersuchenden Einrichtung bzw. dem/den ersuchenden Mitgliedstaat(en) werden die Gründe für die Ablehnung mitgeteilt.
+
+(5)
+
+Hat die Behörde zu einem speziellen Punkt eines Ersuchens bereits ein wissenschaftliches Gutachten abgegeben, so kann sie das Ersuchen ablehnen, wenn sie zu dem Schluss kommt, dass keine neuen wissenschaftlichen Erkenntnisse vorliegen, die eine erneute Überprüfung rechtfertigen würden. Der ersuchenden Einrichtung bzw. dem/den ersuchenden Mitgliedstaat(en) werden die Gründe für die Ablehnung mitgeteilt.
+
+▼M8
+
+(6)
+
+Zur Anwendung dieses Artikels erlässt die Kommission nach Anhörung der Behörde
+
+a)
+
+Delegierte Rechtsakte gemäß Artikel 57a, um diese Verordnung durch Festlegung des von der Behörde bei den an sie gerichteten Ersuchen um ein wissenschaftliches Gutachten anzuwendenden Verfahrens zu ergänzen,
+
+b)
+
+Durchführungsrechtsakte zur Festlegung der Leitlinien für die wissenschaftliche Beurteilung von Stoffen, Produkten oder Verfahren, die nach dem Unionsrecht einer vorherigen Zulassung oder der Aufnahme in eine Positivliste bedürfen, vor allem in den Fällen, in denen das Unionsrecht vorsieht oder zulässt, dass der Antragsteller zu diesem Zweck Unterlagen vorlegt. Diese Durchführungsrechtsakte werden gemäß dem in Artikel 58 Absatz 2 genannten Verfahren erlassen.
+
+▼B
+
+(7)
+
+Die Geschäftsordnung der Behörde regelt die Anforderungen an Format, begleitende Erläuterungen und Veröffentlichung von wissenschaftlichen Gutachten.
+
+▼M11
+
+Artikel 30
+
+Divergenzen zwischen wissenschaftlichen Gutachten
+
+(1)
+
+Die Behörde trifft die erforderlichen und geeigneten Maßnahmen, um potenzielle Quellen von Divergenzen zwischen ihren wissenschaftlichen Gutachten und den wissenschaftlichen Gutachten anderer Stellen mit ähnlichen Aufgaben zu überwachen und zu einem frühen Zeitpunkt festzustellen.
+
+(2)
+
+Stellt die Behörde eine in Absatz 1 genannte potenzielle Quelle von Divergenzen fest, so nimmt sie Kontakt zu der anderen Stelle auf, damit alle relevanten wissenschaftlichen oder technischen Informationen weitergegeben und die möglicherweise strittigen wissenschaftlichen oder technischen Fragen ermittelt werden.
+
+Die Behörde und die andere Stelle arbeiten zusammen, um Divergenzen zu beseitigen, und tragen dabei dem Ziel eines hohen Niveaus beim Schutz von Gesundheit und Umwelt Rechnung. Gelingt es der Behörde und der anderen Stelle nicht, die Divergenz auszuräumen, so erstellen sie einen gemeinsamen Bericht. In dem Bericht sind die strittigen wissenschaftlichen oder technischen Fragen klar darzulegen, die entsprechenden Unsicherheiten in Bezug auf die Daten zu ermitteln und die zugrunde liegenden Ursachen für die Divergenz zwischen Gutachten einschließlich der Gründe in Bezug auf die methodischen Unterschiede anzugeben. Der Bericht ist öffentlich zugänglich zu machen.
+
+Handelt es sich bei der anderen Stelle um eine Agentur der Union oder einen wissenschaftlichen Ausschuss, so legt die Behörde auch der Kommission den gemeinsamen Bericht vor.
+
+(3)
+
+Sofern relevant und sofern die Divergenz widersprüchliche wissenschaftliche Gutachten der Behörde und einer anderen Einrichtung der Union zu der Frage betrifft, ob ein Stoff die Kriterien in Anhang I der Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates (
+
+8
+
+) erfüllt, so kann die Kommission die Europäische Chemikalienagentur ersuchen, einen Vorschlag für eine harmonisierte Einstufung und Kennzeichnung von Stoffen und, falls angezeigt, für spezifische Konzentrationsgrenzwerte oder M-Faktoren oder Schätzwerte der akuten Toxizität oder einen Vorschlag zur Überprüfung dieser Einstufung und Kennzeichnung und, falls angezeigt, dieser Grenzwerte, Faktoren oder Schätzwerte nach dem Verfahren des Artikels 37 der Verordnung (EG) Nr. 1272/2008 auszuarbeiten. Die Behörde und die andere Einrichtung der Union arbeiten bei der Ausarbeitung dieses Vorschlags mit der Europäischen Chemikalienagentur zusammen.
+
+▼B
+
+Artikel 31
+
+Wissenschaftliche und technische Unterstützung
+
+(1)
+
+Die Kommission kann bei der Behörde wissenschaftliche oder technische Unterstützung in den Bereichen ihres Auftrags anfordern. Die Aufgabe der wissenschaftlichen und technischen Unterstützung besteht in wissenschaftlicher oder technischer Arbeit unter Anwendung anerkannter wissenschaftlicher oder technischer Grundsätze, die keine wissenschaftliche Beurteilung durch den Wissenschaftlichen Ausschuss oder ein Wissenschaftliches Gremium erfordert. Zu diesen Aufgaben zählen insbesondere die Unterstützung der Kommission bei der Festlegung oder Bewertung technischer Kriterien wie auch bei der Konzipierung technischer Leitlinien.
+
+(2)
+
+Fordert die Kommission wissenschaftliche oder technische Unterstützung bei der Behörde an, so setzt sie im Einvernehmen mit der Behörde die Frist fest, innerhalb deren die Aufgabe ausgeführt werden muss.
+
+Artikel 32
+
+Wissenschaftliche Studien
+
+(1)
+
+Die Behörde gibt für die Erfüllung ihres Auftrags erforderliche wissenschaftliche Studien in Auftrag und bedient sich dabei der besten verfügbaren unabhängigen wissenschaftlichen Ressourcen. Die Studien werden auf offene und transparente Weise in Auftrag gegeben. Die Behörde achtet darauf, Überschneidungen mit Forschungsprogrammen der Mitgliedstaaten oder der Gemeinschaft zu vermeiden und fördert die Zusammenarbeit durch geeignete Koordination.
+
+(2)
+
+Die Behörde informiert das Europäische Parlament, die Kommission und die Mitgliedstaaten über die Ergebnisse ihrer wissenschaftlichen Studien.
+
+▼M9
+
+Artikel 32a
+
+Beratung vor Antragstellung
+
+(1)
+
+Sind im Unionsrecht Vorschriften enthalten, wonach die Behörde wissenschaftliche Ergebnisse, einschließlich wissenschaftlicher Gutachten vorlegen muss, bieten die Mitarbeiter der Behörde auf Ersuchen eines potenziellen Antragstellers oder Anmelders vor der Antragstellung Beratung zu den für den Antrag oder die Meldung geltenden Vorschriften und zu den darin erforderlichen Angaben an. Eine solche von den Mitarbeitern der Behörde erteilte Beratung ist unverbindlich und greift keiner späteren Bewertung von Anträgen oder Meldungen durch die Wissenschaftlichen Gremien vor. Die Mitarbeiter der Behörde, die den Rat erteilen, dürfen nicht an wissenschaftlichen oder technischen Arbeiten beteiligt sein, die direkt oder indirekt für den Antrag oder die Meldung, der oder die Gegenstand der Beratung ist, relevant sind.
+
+(2)
+
+Die Behörde veröffentlicht auf ihrer Website allgemeine Leitlinien zu den für die Anträge und Meldungen geltenden Vorschriften und zu den darin erforderlichen Angaben, gegebenenfalls auch zum Design der erforderlichen Studien.
+
+Artikel 32b
+
+Meldung von Studien
+
+(1)
+
+Die Behörde richtet eine Datenbank der Studien ein, die von Unternehmern in Auftrag gegeben oder durchgeführt wurden, um einen Antrag oder eine Meldung zu stützen, für die im Unionsrecht Vorschriften enthalten sind, wonach die Behörde ein wissenschaftliches Ergebnis, einschließlich eines wissenschaftlichen Gutachtens, vorlegen muss, und verwaltet diese Datenbank.
+
+(2)
+
+Für die Zwecke des Absatzes 1 melden die Unternehmer der Behörde unverzüglich auch den Titel und den Anwendungsbereich jeder Studie, die sie zur Stützung eines Antrags oder einer Meldung in Auftrag gegeben oder selbst durchgeführt haben, sowie die Labore oder Untersuchungseinrichtungen, die diese Studie durchführen, und das Datum ihres Beginns und ihres geplanten Abschlusses.
+
+(3)
+
+Für die Zwecke des Absatzes 1 melden die Labore und Untersuchungseinrichtungen in der Union der Behörde unverzüglich auch den Titel und den Anwendungsbereich jeder Studie, die von einem Unternehmer Auftrag gegeben wurde und die von ihnen zur Stützung eines Antrags oder einer Meldung durchgeführt wurde, sowie den Namen des Unternehmers, der die Studie in Auftrag gegeben hat.
+
+Dieser Absatz gilt entsprechend auch für Labore und andere Untersuchungseinrichtungen in Drittländern, sofern das in den einschlägigen Abkommen oder Vereinbarungen mit diesen Drittländern, auch im Sinne von Artikel 49, vorgesehen ist.
+
+(4)
+
+Ein Antrag oder eine Meldung wird nicht für gültig oder zulässig befunden, wenn sie sich auf Studien stützt, die zuvor nicht gemäß den Absätzen 2 oder 3 gemeldet wurden, es sei denn der Antragsteller oder Anmelder legt eine stichhaltige Begründung dafür vor, dass diese Studien nicht gemeldet wurden.
+
+Wurden Studien zuvor nicht gemäß den Absätzen 2 oder 3 gemeldet und wurde keine stichhaltige Begründung vorgelegt, kann ein Antrag oder eine Meldung erneut eingereicht werden, wenn der Antragsteller oder Anmelder der Behörde diese Studien — und insbesondere deren Titel und Anwendungsbereich, die Labore oder Untersuchungseinrichtungen, die die Studien durchführen, sowie das Datum ihres Beginns und ihres geplanten Abschlusses — meldet.
+
+Die Bewertung der Gültigkeit oder der Zulässigkeit eines solchen erneut eingereichten Antrags oder einer erneut eingereichten Meldung beginnt sechs Monate nach dem Tag, an dem die Studien gemäß Unterabsatz 2 gemeldet wurden.
+
+(5)
+
+Ein Antrag oder eine Meldung wird nicht für gültig oder zulässig befunden, wenn Studien, die zuvor gemäß den Absätzen 2 oder 3 gemeldet wurden, nicht im Antrag oder in der Meldung enthalten sind, es sei denn, der Antragsteller oder Anmelder legt eine stichhaltige Begründung dafür vor, dass diese Studien nicht enthalten sind.
+
+Sind Studien, die zuvor gemäß den Absätzen 2 oder 3 gemeldet wurden, nicht in dem Antrag oder der Meldung enthalten und wurde keine stichhaltige Begründung vorgelegt, kann ein Antrag oder eine Meldung erneut eingereicht werden, wenn der Antragsteller oder Anmelder alle Studien einreicht, die gemäß den Absätzen 2 oder 3 gemeldet wurden.
+
+Die Bewertung der Gültigkeit oder der Zulässigkeit des erneut eingereichten Antrags oder der erneut eingereichten Meldung beginnt sechs Monate nach dem Tag, an dem die Studien gemäß Unterabsatz 2 eingereicht wurden.
+
+(6)
+
+Stellt die Behörde während der Risikobewertung fest, dass Studien, die gemäß den Absätzen 2 oder 3 gemeldet wurden, nicht vollständig in dem entsprechenden Antrag oder der Meldung enthalten sind und dass keine stichhaltige Begründung des Antragstellers oder Anmelders dafür vorliegt, wird die Frist, in der die Behörde ein wissenschaftliches Ergebnis vorlegen muss, ausgesetzt. Diese Aussetzung endet sechs Monate nach der Einreichung aller Daten dieser Studien.
+
+(7)
+
+Die Behörde veröffentlicht die gemeldeten Angaben nur dann, wenn ein entsprechender Antrag oder eine entsprechende Meldung eingegangen ist, und nachdem sie gemäß den Artikeln 38 bis 39e über die Offenlegung der begleitenden Studien entschieden hat.
+
+(8)
+
+Die Behörde legt die praktischen Vorkehrungen zur Umsetzung der Bestimmungen dieses Artikels fest; dazu zählen auch die Vorkehrungen für die Anforderung und Veröffentlichung der stichhaltigen Begründungen in den Fällen gemäß den Absätzen 4, 5 und 6. Diese Vorkehrungen müssen mit dieser Verordnung und anderen einschlägigen Bestimmungen des Unionsrechts in Einklang stehen.
+
+Artikel 32c
+
+Konsultation Dritter
+
+(1)
+
+Bei Genehmigungen oder Zulassungen, auch durch Meldung, die nach den einschlägigen Vorschriften des Unionsrechts verlängert werden können, meldet der potenzielle Antragstellers oder Anmelder, der eine Verlängerung zu beantragen beabsichtigt, der Behörde die Studien, die er zu diesem Zweck durchführen will, wobei er angibt, wie bei der Durchführung der verschiedenen Studien die Einhaltung der rechtlichen Anforderungen sichergestellt wird. Nach dieser Meldung der Studien leitet die Behörde eine Konsultation der Interessenträger und der Öffentlichkeit zu den zum Zweck einer Verlängerung geplanten Studien sowie der vorgeschlagenen Studiendesigns ein. Die Behörde bietet unter Berücksichtigung der von den Interessenträgern und der Öffentlichkeit übermittelten Anmerkungen, die für die Risikobewertung der angestrebten Verlängerung von Bedeutung sind, eine Beratung zum Inhalt des geplanten Antrags auf Verlängerung sowie zum Studiendesign an. Der von der Behörde erteilte Rat ist unverbindlich und greift der späteren Bewertung des Antrags oder der Anmeldung auf Verlängerung einer Zulassung durch die Wissenschaftlichen Gremien nicht vor.
+
+(2)
+
+Die Behörde konsultiert die Interessenträger und die Öffentlichkeit auf der Grundlage der nicht vertraulichen Fassung des Antrags oder der Anmeldung, die von der Behörde gemäß den Artikeln 38 bis 39e öffentlich gemacht wurde, unverzüglich nach dieser Offenlegung, um festzustellen, ob zu dem Gegenstand des Antrags oder der Anmeldung andere relevante wissenschaftliche Daten oder Studien verfügbar sind. Wenn in gebührend begründeten Fällen die Gefahr besteht, dass die Ergebnisse der nach diesem Absatz durchgeführten öffentlichen Konsultation wegen der Frist, in der die Behörde ein wissenschaftliches Ergebnis vorlegen muss, nicht angemessen berücksichtigt werden können, dürfen diese Fristen um höchstens sieben Wochen verlängert werden. Dieser Absatz berührt nicht die Verpflichtungen der Behörde gemäß Artikel 33 und gilt nicht für ergänzende Informationen, die die Antragsteller oder Anmelder während des Risikobewertungsprozesses vorlegen.
+
+(3)
+
+Die Behörde legt die praktischen Vorkehrungen zur Umsetzung der in diesem Artikel und in Artikel 32a genannten Verfahren fest.
+
+Artikel 32d
+
+Studien zu Überprüfungszwecken
+
+Wenn außergewöhnliche Umstände in Form gravierender Kontroversen oder widersprüchlicher Ergebnisse vorliegen, kann die Kommission die Behörde ersuchen, wissenschaftliche Studien in Auftrag zu geben, um die Nachweise zu überprüfen, die sie bei ihrem Risikobewertungsprozess verwendet; dies geschieht unbeschadet der Pflicht der Antragsteller, die Sicherheit eines zur Zulassung vorgelegten Gegenstands nachzuweisen. Die in Auftrag gegebenen Studien können einen breiteren Anwendungsbereich haben als die zu überprüfenden Nachweise.
+
+▼B
+
+Artikel 33
+
+Datenerhebung
+
+(1)
+
+Die Behörde macht in den Bereichen ihres Auftrags relevante wissenschaftliche und technische Daten ausfindig, sammelt sie, stellt sie zusammen, analysiert sie und fasst sie zusammen. Dies betrifft insbesondere die Erhebung von Daten über
+
+a)
+
+den Verzehr von Lebensmitteln und die Exposition von Menschen gegenüber den damit verbundenen Risiken,
+
+b)
+
+die Inzidenz und Prävalenz biologischer Risiken,
+
+c)
+
+Kontaminanten in Lebensmitteln und Futtermitteln,
+
+d)
+
+Rückstände.
+
+(2)
+
+Für die Zwecke von Absatz 1 arbeitet die Behörde eng mit allen im Bereich der Datenerhebung tätigen Organisationen zusammen, auch solchen in beitrittswilligen Ländern und Drittländern, sowie mit internationalen Stellen.
+
+(3)
+
+Die Mitgliedstaaten treffen die erforderlichen Maßnahmen, damit die Daten, die in den unter die Absätze 1 und 2 fallenden Bereichen von ihnen erhoben werden, an die Behörde übermittelt werden können.
+
+(4)
+
+Die Behörde legt den Mitgliedstaaten und der Kommission geeignete Empfehlungen für mögliche Verbesserungen in Bezug auf die technische Vergleichbarkeit der Daten vor, die sie erhält und analysiert, um eine Konsolidierung auf Gemeinschaftsebene zu erleichtern.
+
+(5)
+
+Innerhalb eines Jahres nach dem Inkrafttreten dieser Verordnung veröffentlicht die Kommission ein Verzeichnis der auf Gemeinschaftsebene in den Bereichen des Auftrags der Behörde existierenden Datenerhebungssysteme.
+
+Der Bericht, dem gegebenenfalls entsprechende Vorschläge beizufügen sind, gibt insbesondere an:
+
+a)
+
+die Funktion, die der Behörde im Rahmen jedes einzelnen Systems zugewiesen werden soll, sowie etwa erforderliche Veränderungen oder Verbesserungen, damit die Behörde in Zusammenarbeit mit den Mitgliedstaaten ihren Auftrag erfüllen kann;
+
+b)
+
+die Mängel, die behoben werden sollen, damit die Behörde auf Gemeinschaftsebene relevante wissenschaftliche und technische Daten in den Bereichen ihres Auftrags erheben und zusammenfassen kann.
+
+(6)
+
+Die Behörde übermittelt dem Europäischen Parlament, der Kommission und den Mitgliedstaaten die Ergebnisse ihrer Tätigkeit im Bereich der Datenerhebung.
+
+Artikel 34
+
+Identifizierung neu auftretender Risiken
+
+(1)
+
+Die Behörde erarbeitet Überwachungsverfahren für das systematische Ermitteln, Sammeln, Zusammenstellen und Analysieren von Informationen und Daten, um neu auftretende Risiken in den Bereichen ihres Auftrags zu identifizieren.
+
+(2)
+
+Liegen der Behörde Informationen vor, die ein neu auftretendes ernstes Risiko vermuten lassen, so fordert sie zusätzliche Informationen bei den Mitgliedstaaten, bei anderen Einrichtungen der Gemeinschaft und bei der Kommission an. Die Mitgliedstaaten, die betroffenen Einrichtungen der Gemeinschaft und die Kommission reagieren hierauf unverzüglich und übermitteln sämtliche relevanten Informationen, über die sie verfügen.
+
+(3)
+
+Die Behörde verwendet in Erfüllung ihres Auftrags sämtliche ihr zugehenden Informationen zur Identifizierung neu auftretender Risiken.
+
+(4)
+
+Die Behörde leitet die Bewertung und die erhobenen Informationen über neu auftretende Risiken an das Europäische Parlament, die Kommission und die Mitgliedstaaten weiter.
+
+Artikel 35
+
+Schnellwarnsystem
+
+Die im Rahmen des Schnellwarnsystems übermittelten Informationen werden an die Behörde gerichtet, damit diese ihrem Auftrag, die gesundheitlichen und ernährungsphysiologischen Risiken von Lebensmitteln zu überwachen, optimal nachkommen kann. Sie analysiert den Inhalt dieser Informationen, um der Kommission und den Mitgliedstaaten alle zur Risikoanalyse erforderlichen Angaben mitteilen zu können.
+
+Artikel 36
+
+Vernetzung von Organisationen, die in den Bereichen, auf die sich der Auftrag der Behörde erstreckt, tätig sind
+
+(1)
+
+Die Behörde fördert die Vernetzung von Organisationen, die in den Bereichen ihres Auftrags tätig sind, auf europäischer Ebene. Ziel einer solchen Vernetzung ist es insbesondere, durch die Koordinierung von Tätigkeiten, den Informationsaustausch, die Konzipierung und Durchführung gemeinsamer Projekte sowie den Austausch von Erfahrungen und bewährten Praktiken in den Bereichen des Auftrags der Behörde einen Rahmen für die wissenschaftliche Zusammenarbeit zu schaffen.
+
+(2)
+
+Auf Vorschlag des Geschäftsführenden Direktors erstellt der Verwaltungsrat ein zu veröffentlichendes Verzeichnis der von den Mitgliedstaaten benannten zuständigen Organisationen, die die Behörde einzeln oder im Rahmen von Netzen bei der Erfüllung ihres Auftrags unterstützen können. Die Behörde kann diese Organisationen mit bestimmten Aufgaben betrauen, insbesondere mit vorbereitenden Arbeiten für wissenschaftliche Gutachten, mit wissenschaftlicher und technischer Unterstützung, mit der Erhebung von Daten und der Identifizierung neu auftretender Risiken. Für einige der Aufgaben kann eine finanzielle Unterstützung in Betracht gezogen werden.
+
+▼M4
+
+(3)
+
+►M8
+
+Der Kommission wird die Befugnis übertragen, gemäß Artikel 57a delegierte Rechtsakte zur Ergänzung dieser Verordnung durch Festlegung der Kriterien für die Aufnahme einer Einrichtung in das Verzeichnis der von den Mitgliedstaaten benannten zuständigen Organisationen, der Regelungen für die Aufstellung harmonisierter Qualitätsanforderungen sowie der finanziellen Bestimmungen für eine etwaige finanzielle Unterstützung zu erlassen.
+◄
+
+Sonstige Durchführungsvorschriften zu den Absätzen 1 und 2 werden von der Kommission nach Anhörung der Behörde nach dem in Artikel 58 Absatz 2 genannten Regelungsverfahren aufgestellt.
+
+▼B
+
+(4)
+
+Innerhalb eines Jahres nach Inkrafttreten dieser Verordnung veröffentlicht die Kommission ein Verzeichnis der in den Bereichen des Auftrags der Behörde existierenden gemeinschaftlichen Systeme, welche vorsehen, dass die Mitgliedstaaten bestimmte Aufgaben im Bereich der wissenschaftlichen Beurteilung ausführen, insbesondere die Prüfung von Zulassungsunterlagen. Der Bericht, dem gegebenenfalls entsprechende Vorschläge beizufügen sind, gibt insbesondere für jedes System an, welche Veränderungen oder Verbesserungen möglicherweise erforderlich sind, damit die Behörde in Zusammenarbeit mit den Mitgliedstaaten ihren Auftrag erfüllen kann.
+
+ABSCHNITT 4
+
+UNABHÄNGIGKEIT, TRANSPARENZ, VERTRAULICHKEIT UND INFORMATION
+
+Artikel 37
+
+Unabhängigkeit
+
+(1)
+
+Die Mitglieder des Verwaltungsrats, die Mitglieder des Beirats und der Geschäftsführende Direktor verpflichten sich, im öffentlichen Interesse unabhängig zu handeln.
+
+Zu diesem Zweck geben sie eine Verpflichtungserklärung sowie eine Interessenerklärung ab, aus der entweder hervorgeht, dass keinerlei Interessen bestehen, die als ihre Unabhängigkeit beeinträchtigend angesehen werden könnten, oder dass unmittelbare oder mittelbare Interessen vorhanden sind, die als ihre Unabhängigkeit beeinträchtigend angesehen werden könnten. Diese Erklärungen werden jedes Jahr schriftlich abgegeben.
+
+(2)
+
+Die Mitglieder des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien verpflichten sich, unabhängig von jedem äußeren Einfluss zu handeln.
+
+Zu diesem Zweck geben sie eine Verpflichtungserklärung sowie eine Interessenerklärung ab, aus der entweder hervorgeht, dass keinerlei Interessen bestehen, die als ihre Unabhängigkeit beeinträchtigend angesehen werden könnten, oder dass unmittelbare oder mittelbare Interessen vorhanden sind, die als ihre Unabhängigkeit beeinträchtigend angesehen werden könnten. Diese Erklärungen werden jedes Jahr schriftlich abgegeben.
+
+(3)
+
+Die Mitglieder des Verwaltungsrats, der Geschäftsführende Direktor, die Mitglieder des Beirats, die Mitglieder des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien sowie die externen Sachverständigen, die an deren Arbeitsgruppen beteiligt sind, geben auf jeder Sitzung etwaige Interessen an, die bezüglich der jeweiligen Tagesordnungspunkte als ihre Unabhängigkeit beeinträchtigend angesehen werden könnten.
+
+Artikel 38
+
+Transparenz
+
+▼M9
+
+(1)
+
+Die Behörde übt ihre Tätigkeiten mit einem hohen Maß an Transparenz aus. Sie macht insbesondere Folgendes öffentlich zugänglich:
+
+a)
+
+die Tagesordnungen, Teilnehmerlisten und Protokolle der Sitzungen des Verwaltungsrats, des Beirats, des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien und deren Arbeitsgruppen;
+
+b)
+
+alle ihre wissenschaftlichen Ergebnisse, einschließlich der Gutachten des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien nach ihrer Annahme, immer unter Beifügung der Positionen von Minderheiten und der Ergebnisse der während des Risikobewertungsprozesses durchgeführten Konsultationen;
+
+c)
+
+wissenschaftliche Daten, Studien und sonstige Informationen zur Stützung von Anträgen; dazu zählen von den Antragstellern vorgelegte ergänzende Informationen sowie sonstige wissenschaftliche Daten und Informationen zur Stützung von Ersuchen des Europäischen Parlaments, der Kommission oder eines Mitgliedstaats um ein wissenschaftliches Ergebnis, auch ein wissenschaftliches Gutachten, unter Berücksichtigung des Schutzes vertraulicher Informationen und der personenbezogenen Daten gemäß den Artikeln 39 bis 39e;
+
+d)
+
+die Informationen, auf denen ihre wissenschaftlichen Ergebnisse, auch die wissenschaftlichen Gutachten, beruhen, unter Berücksichtigung des Schutzes vertraulicher Informationen und personenbezogener Daten gemäß den Artikeln 39 bis 39e;
+
+e)
+
+die von den Mitgliedern des Verwaltungsrats, vom Geschäftsführenden Direktor und von den Mitgliedern des Beirats, des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien sowie von den Mitgliedern der Arbeitsgruppen jährlich abgegebenen Interessenerklärungen und die Interessenerklärungen in Bezug auf Tagesordnungspunkte von Sitzungen;
+
+f)
+
+ihre wissenschaftlichen Studien gemäß den Artikeln 32 und 32d;
+
+g)
+
+ihren jährlichen Tätigkeitsbericht;
+
+h)
+
+abgelehnte oder geänderte Ersuchen des Europäischen Parlaments, der Kommission oder eines Mitgliedstaats um wissenschaftliche Gutachten sowie die Gründe für die Ablehnung bzw. Änderung;
+
+i)
+
+eine Zusammenfassung der Beratung gemäß den Artikeln 32a und 32c, die die Behörde Unternehmern vor der Antragstellung erteilt hat.
+
+Die in Unterabsatz 1 genannten Informationen werden unverzüglich veröffentlicht, mit Ausnahme der unter den Buchstaben c (in Zusammenhang mit Anträgen) und i erwähnten Informationen, die veröffentlicht werden, sobald ein Antrag für gültig oder zulässig befunden wurde.
+
+Die in Unterabsatz 2 genannten Informationen werden in einem gesonderten Bereich auf der Website der Behörde öffentlich gemacht. Dieser gesonderte Bereich steht der Öffentlichkeit zur Verfügung und ist leicht zugänglich. Diese Informationen können in einem elektronischen Format heruntergeladen, ausgedruckt und durchsucht werden.
+
+▼M9
+
+(1a)
+
+Die Veröffentlichung der Informationen gemäß Absatz 1 Unterabsatz 1 Buchstaben c, d und i berührt weder
+
+a)
+
+bestehende Vorschriften betreffend die Rechte des geistigen Eigentums, die die Verwendung der veröffentlichten Dokumente oder ihres Inhalts zu bestimmten Zwecken einschränken, noch
+
+b)
+
+die Bestimmungen des Unionsrechts zum Schutz der Investitionen, die Innovatoren zur Beschaffung von Informationen und Daten im Zusammenhang mit Zulassungsanträgen getätigt haben („Unterlagenschutz“).
+
+Die Offenlegung der Informationen gemäß Absatz 1 Unterabsatz 1 Buchstabe c kann nicht als ausdrückliche oder stillschweigende Erlaubnis oder Genehmigung betrachtet werden, die relevanten Daten und Informationen und ihren Inhalt unter Missachtung von Rechten des geistigen Eigentums oder des Unterlagenschutzes zu verwenden, zu kopieren oder anderweitig auszuwerten, und die Union übernimmt bei Verwendung durch Dritte keine Verantwortung. Die Behörde stellt sicher, dass diejenigen, denen der Zugriff auf die einschlägigen Informationen gewährt wird, zuvor klare Zusicherungen oder unterzeichnete Erklärungen abgeben.
+
+▼B
+
+(2)
+
+Der Verwaltungsrat hält seine Sitzungen öffentlich ab, soweit er nicht für bestimmte Verwaltungsfragen betreffende Tagesordnungspunkte auf Vorschlag des Geschäftsführenden Direktors anders entscheidet, und er kann Vertreter der Verbraucher oder sonstige Beteiligte ermächtigen, bestimmte Tätigkeiten der Behörde zu beobachten.
+
+▼M9
+
+(3)
+
+Die Behörde legt die praktischen Vorkehrungen zur Umsetzung der Transparenzregeln gemäß den Absätzen 1, 1a und 2 dieses Artikels fest; dabei berücksichtigt sie die Artikel 39 bis 39g sowie Artikel 41.
+
+Artikel 39
+
+Vertraulichkeit
+
+(1)
+
+Abweichend von Artikel 38 gibt die Behörde keine Informationen öffentlich bekannt, für die gemäß den Bedingungen dieses Artikels um vertrauliche Behandlung ersucht wurde.
+
+(2)
+
+Auf Ersuchen eines Antragstellers darf die Behörde eine vertrauliche Behandlung nur für die folgenden Informationen gewähren, wenn der Antragsteller darlegt, dass die Offenlegung dieser Informationen seinen Interessen erheblich schaden könnte:
+
+a)
+
+den Herstellungs- oder Erzeugungsprozess, einschließlich des Verfahrens und dessen innovativer Aspekte, sowie sonstiger technischer und betrieblicher Spezifikationen für diesen Prozess oder dieses Verfahren, mit Ausnahme der für die Sicherheitsbewertung wichtigen Informationen;
+
+b)
+
+Geschäftsbeziehungen zwischen einem Hersteller oder Importeur und dem Antragsteller bzw. Zulassungsinhaber;
+
+c)
+
+Geschäftsinformationen, aus denen Bezugsquellen, Marktanteile oder die Geschäftsstrategie des Antragstellers hervorgehen und
+
+d)
+
+die quantitative Zusammensetzung des Gegenstands des Ersuchens mit Ausnahme der für die Sicherheitsbewertung relevanten Informationen.
+
+(3)
+
+Die Liste der Informationen gemäß Absatz 2 lässt sektorspezifische Bestimmungen des Unionsrechts unberührt.
+
+(4)
+
+Ungeachtet der Absätze 2 und 3 gilt:
+
+a)
+
+Wenn dringend gehandelt werden muss, um die Gesundheit von Mensch oder Tier oder die Umwelt zu schützen, beispielsweise in einer Notfallsituation, kann die Behörde die Informationen gemäß den Absätzen 2 und 3 offenlegen.
+
+b)
+
+Informationen, die Teil der Schlussfolgerungen wissenschaftlicher Ergebnisse, auch wissenschaftlicher Gutachten, der Behörde sind und sich auf vorhersehbare Auswirkungen auf die Gesundheit von Mensch oder Tier oder die Umwelt beziehen, werden dennoch offengelegt.
+
+▼M9
+
+Artikel 39a
+
+Ersuchen um vertrauliche Behandlung
+
+(1)
+
+Wenn ein Antragsteller einen Antrag, stützende wissenschaftliche Daten und andere ergänzende Informationen gemäß dem Unionsrecht übermittelt, kann er darum ersuchen, dass Teile der vorgelegten Informationen gemäß Artikel 39 Absätze 2 und 3 vertraulich behandelt werden. Diesem Ersuchen sind nachprüfbare Belege beizulegen, aus denen hervorgeht, wie die Offenlegung der betreffenden Informationen den betroffenen Interessen gemäß Artikel 39 Absätze 2 und 3 erheblich schaden könnte.
+
+(2)
+
+Bei einem Ersuchen um vertrauliche Behandlung legt der Antragsteller eine nicht vertrauliche und eine vertrauliche Fassung der in den Standarddatenformaten gemäß Artikel 39f — soweit vorhanden — übermittelten Informationen vor. In der nicht vertraulichen Fassung sind keine Informationen enthalten, die der Antragsteller auf der Grundlage von Artikel 39 Absätze 2 und 3 als vertraulich einstuft, und werden die Stellen, an denen Informationen entfernt wurden, als solche gekennzeichnet. Die vertrauliche Fassung enthält alle übermittelten Informationen, auch die Informationen, die der Antragsteller als vertraulich einstuft. Die Informationen, die in der vertraulichen Fassung vertraulich behandelt werden sollen, sind eindeutig zu kennzeichnen. Der Antragsteller muss eindeutig angeben, aus welchen Gründen er die vertrauliche Behandlung der verschiedenen Informationen beantragt.
+
+Artikel 39b
+
+Entscheidung über die vertrauliche Behandlung
+
+(1)
+
+Die Behörde
+
+a)
+
+macht die nicht vertrauliche Fassung des Antrags, wie sie vom Antragsteller vorgelegt wurde, unverzüglich öffentlich zugänglich, sobald der Antrag für gültig oder zulässig befunden wurde;
+
+b)
+
+nimmt unverzüglich eine konsequente und gezielte Untersuchung des Ersuchens um vertrauliche Behandlung in Übereinstimmung mit diesem Artikel vor;
+
+c)
+
+unterrichtet den Antragsteller schriftlich darüber, dass und warum sie Informationen offenlegen möchte, bevor sie förmlich über das Vertraulichkeitsersuchen befindet. Ist der Antragsteller nicht mit der Einschätzung der Behörde einverstanden, kann er dazu Stellung nehmen oder seinen Antrag innerhalb von zwei Wochen ab dem Datum, an dem ihm die Position der Behörde mitgeteilt wurde, zurückziehen;
+
+d)
+
+trifft unter Berücksichtigung der Bemerkungen des Antragstellers eine begründete Entscheidung über das Vertraulichkeitsersuchen, und zwar innerhalb von zehn Wochen ab dem Datum des Eingangs des Vertraulichkeitsersuchens im Fall von Anträgen und unverzüglich im Fall ergänzender Daten und Informationen; sie gibt dem Antragsteller ihre Entscheidung bekannt, stellt ihm Informationen zu seinem Recht auf Zweitantragstellung gemäß Absatz 2 zur Verfügung und unterrichtet die Kommission und gegebenenfalls die Mitgliedstaaten über ihre Entscheidung und
+
+e)
+
+macht alle zusätzlichen Daten und Informationen öffentlich zugänglich, für die eine vertrauliche Behandlung als unbegründet abgelehnt wurde, und zwar frühestens zwei Wochen, nachdem sie dem Antragsteller ihre Entscheidung gemäß Buchstabe d bekannt gegeben hat.
+
+(2)
+
+Binnen zwei Wochen ab Unterrichtung des Antragstellers über die Entscheidung der Behörde über sein Vertraulichkeitsersuchen gemäß Absatz 1 kann der Antragsteller einen Zweitantrag stellen, um die Behörde um die Überprüfung ihrer Entscheidung zu ersuchen. Der Zweitantrag hat aufschiebende Wirkung. Die Behörde prüft die Gründe für den Zweitantrag und trifft eine begründete Entscheidung über diesen Zweitantrag. Sie unterrichtet den Antragsteller binnen drei Wochen nach Zweitantragstellung über ihre Entscheidung und unterrichtet den Antragsteller gleichzeitig über mögliche Rechtsbehelfe, das heißt die Erhebung einer Klage beim Gerichtshof der Europäischen Union (Gerichtshof) gegen die Behörde gemäß Absatz 3. Die Behörde macht alle zusätzlichen Daten und Informationen öffentlich zugänglich, für die sie das Vertraulichkeitsersuchen als unbegründet abgelehnt hat, und zwar frühestens zwei Wochen, nachdem sie den Antragsteller gemäß diesem Absatz über ihre begründete Entscheidung über den Zweitantrag unterrichtet hat.
+
+(3)
+
+Gegen Entscheidungen der Behörde gemäß diesem Artikel kann beim Gerichtshof unter den in den Artikeln 263 und 278 des Vertrags über die Arbeitsweise der Europäischen Union (AEUV) festgelegten Bedingungen Klage erhoben werden.
+
+Artikel 39c
+
+Überprüfung der Vertraulichkeit
+
+Vor der Herausgabe ihrer wissenschaftlichen Ergebnisse, auch ihrer wissenschaftlichen Gutachten, überprüft die Behörde, ob bereits früher als vertraulich akzeptierte Informationen dennoch gemäß Artikel 39 Absatz 4 Buchstabe b öffentlich zugänglich gemacht werden können. Sollte dies der Fall sein, befolgt die Behörde entsprechend das Verfahren gemäß Artikel 39b.
+
+Artikel 39d
+
+Pflichten im Hinblick auf die Vertraulichkeit
+
+(1)
+
+Die Behörde stellt der Kommission und den Mitgliedstaaten alle in ihrem Besitz befindlichen Informationen im Zusammenhang mit einem Antrag oder einem Ersuchen des Europäischen Parlaments, der Kommission oder der Mitgliedstaaten um ein wissenschaftliches Ergebnis, auch ein wissenschaftliches Gutachten, zur Verfügung, sofern dies nicht in Bestimmungen des Unionsrechts anders angegeben ist.
+
+(2)
+
+Die Kommission und die Mitgliedstaaten sorgen mit den erforderlichen Maßnahmen dafür, dass nach dem Unionsrecht bei ihnen eingegangene Informationen, deren vertrauliche Behandlung beantragt wird, erst dann öffentlich zugänglich gemacht werden, wenn die Behörde eine Entscheidung über die vertrauliche Behandlung getroffen hat und diese endgültig ist. Die Kommission und die Mitgliedstaaten sorgen des Weiteren mit den erforderlichen Maßnahmen dafür, dass Informationen, deren vertrauliche Behandlung die Behörde gewährt hat, nicht öffentlich zugänglich gemacht werden.
+
+(3)
+
+Zieht ein Antragsteller seinen Antrag zurück oder hat er ihn zurückgezogen, so wahren die Behörde, die Kommission und die Mitgliedstaaten die Vertraulichkeit von Informationen, die die Behörde in Übereinstimmung mit den Artikeln 39 bis 39e gewährt hat. Der Antrag gilt als zurückgezogen, sobald bei der zuständigen Einrichtung, bei der der Antrag zuerst eingereicht wurde, das entsprechende schriftliche Ersuchen eingegangen ist. Wird der Antrag zurückgezogen, bevor die Behörde gegebenenfalls gemäß Artikel 39b Absätze 1 oder 2 endgültig über das Vertraulichkeitsersuchen befunden hat, sehen die Kommission, die Mitgliedstaaten und die Behörde davon ab, die Informationen, deren vertrauliche Behandlung beantragt wurde, öffentlich zugänglich zu machen.
+
+(4)
+
+Die Mitglieder des Verwaltungsrats, der Geschäftsführende Direktor, die Mitglieder des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien sowie die an deren Arbeitsgruppen beteiligten externen Sachverständigen, die Mitglieder des Beirats sowie die Beamten und sonstigen Bediensteten der Behörde unterliegen auch nach ihrem Ausscheiden aus der jeweiligen Funktion dem Berufsgeheimnis gemäß Artikel 339 AEUV.
+
+(5)
+
+Die Behörde legt im Benehmen mit der Kommission die praktischen Vorkehrungen zur Umsetzung der Vertraulichkeitsregeln gemäß den Artikeln 39, 39a, 39b, 39e und diesem Artikel fest, auch Vorkehrungen betreffend die Übermittlung und Behandlung von Ersuchen um vertrauliche Behandlung von Informationen, die gemäß Artikel 38 öffentlich zugänglich zu machen sind; dabei berücksichtigt sie die Artikel 39f und 39g. Für die Beurteilung von Zweitanträgen gemäß Artikel 39b Absatz 2 stellt die Behörde eine angemessene Arbeitsteilung sicher.
+
+Artikel 39e
+
+Schutz personenbezogener Daten
+
+(1)
+
+Bei Ersuchen um wissenschaftliche Ergebnisse, auch wissenschaftliche Gutachten nach dem Unionsrecht, gibt die Behörde in jedem Fall Folgendes bekannt:
+
+a)
+
+den Namen und die Anschrift des Antragstellers,
+
+b)
+
+die Namen der Verfasser der veröffentlichten oder öffentlich verfügbaren Studien, die solche Ersuchen unterstützen, und
+
+c)
+
+die Namen aller Teilnehmer und Beobachter in Sitzungen des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien, deren Arbeitsgruppen oder jeder anderen Ad-hoc-Gruppe, die zu diesem Thema zusammentritt.
+
+(2)
+
+Ungeachtet des Absatzes 1 wird davon ausgegangen, dass die Offenlegung der Namen und Anschriften natürlicher Personen, die an Versuchen mit Wirbeltieren oder an der Beschaffung toxikologischer Informationen beteiligt sind, die Privatsphäre und die Integrität dieser natürlichen Personen erheblich verletzt, weshalb diese Informationen nicht offengelegt werden, sofern in den Verordnungen (EU) 2016/679 (
+
+9
+
+) und (EU) 2018/1725 (
+
+10
+
+) des Europäischen Parlaments und des Rates nichts anderes festgelegt ist.
+
+(3)
+
+Die Verordnung (EU) 2016/679 und die Verordnung (EU) 2018/1725 gelten für die Verarbeitung personenbezogener Daten gemäß der vorliegenden Verordnung. Alle gemäß Artikel 38 der vorliegenden Verordnung und gemäß dem vorliegenden Artikel veröffentlichten personenbezogenen Daten dürfen nur verwendet werden, um die Transparenz der Risikobewertung gemäß der vorliegenden Verordnung zu gewährleisten, und sie dürfen nicht in einer Weise weiter verarbeitet werden, die gemäß Artikel 5 Absatz 1 Buchstabe b der Verordnung (EU) 2016/679 bzw. Artikel 4 Absatz 1 Buchstabe b der Verordnung (EU) 2018/1725 nicht mit diesem Zweck vereinbar ist.
+
+Artikel 39f
+
+Standarddatenformate
+
+(1)
+
+Für die Zwecke von Artikel 38 Absatz 1 Buchstabe c und im Interesse der effizienten Verarbeitung der an die Behörde gerichteten Ersuchen um wissenschaftliche Ergebnisse werden Standarddatenformate gemäß Absatz 2 des vorliegenden Artikels festgelegt, um Dokumente übermitteln, durchsuchen, kopieren und ausdrucken zu können; dabei wird auf die Übereinstimmung mit den rechtlichen Anforderungen der Union geachtet. Diese Standarddatenformate
+
+a)
+
+stützen sich nicht auf herstellerspezifische Standards;
+
+b)
+
+gewährleisten nach Möglichkeit die Interoperabilität mit bestehenden Datenübermittlungssystemen;
+
+c)
+
+sind benutzerfreundlich und auf die Nutzung durch kleine und mittlere Unternehmen zugeschnitten.
+
+(2)
+
+Bei der Festlegung der in Absatz 1 genannten Standarddatenformate ist folgendes Verfahren zu befolgen:
+
+a)
+
+Die Behörde schlägt für die verschiedenen Zulassungsverfahren und relevanten Ersuchen des Europäischen Parlaments, der Kommission und der Mitgliedstaaten um ein wissenschaftliches Ergebnis Standarddatenformate vor.
+
+b)
+
+Die Kommission genehmigt die Standarddatenformate im Wege von Durchführungsrechtsakten, wobei sie die geltenden Anforderungen der verschiedenen Zulassungsverfahren und anderen Rechtsrahmen berücksichtigt und alle erforderlichen Anpassungen vornimmt. Diese Durchführungsrechtsakte werden nach dem in Artikel 58 Absatz 2 genannten Verfahren erlassen.
+
+c)
+
+Die Behörde stellt die Standarddatenformate nach ihrer Genehmigung auf ihrer Website zur Verfügung.
+
+d)
+
+Sobald Standarddatenformate gemäß diesem Artikel genehmigt worden sind, können Anträge sowie Ersuchen des Europäischen Parlaments, der Kommission und der Mitgliedstaaten um ein wissenschaftliches Ergebnis, auch ein wissenschaftliches Gutachten, nur noch in Übereinstimmung mit diesen Standarddatenformaten übermittelt werden.
+
+Artikel 39g
+
+Informationssysteme
+
+Die von der Behörde zum Speichern ihrer Daten, auch vertraulichen und personenbezogenen Daten, verwalteten Informationssysteme sind so konzipiert, dass gewährleistet ist, dass jeder Zugriff vollständig nachprüfbar ist und dass sie die den bestehenden Sicherheitsrisiken angemessenen höchsten Sicherheitsstandards erfüllen, wobei sie Artikel 39 bis 39f Rechnung tragen.
+
+▼B
+
+Artikel 40
+
+Information seitens der Behörde
+
+(1)
+
+Unbeschadet der Zuständigkeit der Kommission für die Bekanntgabe ihrer Risikomanagemententscheidungen sorgt die Behörde in den Bereichen ihres Auftrags von sich aus für Information.
+
+(2)
+
+Die Behörde stellt sicher, dass die Öffentlichkeit und die Beteiligten rasch objektive, zuverlässige und leicht zugängliche Informationen erhalten, insbesondere über die Ergebnisse ihrer Arbeit. Um dieses Ziel zu erreichen, erstellt und verbreitet die Behörde Informationsmaterial für die Allgemeinheit.
+
+(3)
+
+Die Behörde arbeitet eng mit der Kommission und den Mitgliedstaaten zusammen, um die erforderliche Kohärenz bei der Risikokommunikation herbeizuführen.
+
+▼M9
+
+Die Behörde macht alle gemäß den Artikeln 38 bis 39e von ihr herausgegebenen wissenschaftlichen Ergebnisse, auch die wissenschaftlichen Gutachten, sowie die stützenden wissenschaftlichen Daten und sonstigen Informationen, öffentlich zugänglich.
+
+▼B
+
+(4)
+
+Die Behörde sorgt bei Informationskampagnen für eine angemessene Zusammenarbeit mit den zuständigen Stellen in den Mitgliedstaaten und sonstigen Beteiligten.
+
+▼M1
+
+Artikel 41
+
+Zugang zu den Dokumenten
+
+▼M9
+
+(1)
+
+Ungeachtet der Vertraulichkeitsvorschriften gemäß den Artikeln 39 bis 39d der vorliegenden Verordnung gilt für Dokumente im Besitz der Behörde die Verordnung (EG) Nr. 1049/2001 (
+
+11
+
+) des Europäischen Parlaments und des Rates.
+
+Bei Umweltinformationen findet auch die Verordnung (EG) Nr. 1367/2006 des Europäischen Parlaments und des Rates (
+
+12
+
+) Anwendung. In Bezug auf Umweltinformationen in Besitz der Mitgliedstaaten findet — ungeachtet der Vertraulichkeitsvorschriften gemäß den Artikeln 39 bis 39d der vorliegenden Verordnung — die Richtlinie 2003/4/EG des Europäischen Parlaments und des Rates (
+
+13
+
+) Anwendung.
+
+(2)
+
+Der Verwaltungsrat erlässt bis zum 27. März 2020 die praktischen Durchführungsbestimmungen für die Verordnung (EG) Nr. 1049/2001 und die Artikel 6 und 7 der Verordnung (EG) Nr. 1367/2006, wobei ein größtmöglicher Zugang zu den Dokumenten in seinem Besitz gewährleistet wird.
+
+▼M1
+
+(3)
+
+Gegen die Entscheidungen der Behörde gemäß Artikel 8 der Verordnung (EG) Nr. 1049/2001 kann Beschwerde beim Bürgerbeauftragten oder Klage beim Gerichtshof nach Maßgabe von Artikel 195 bzw. 230 des Vertrags erhoben werden.
+
+▼B
+
+Artikel 42
+
+Verbraucher, Erzeuger und sonstige Beteiligte
+
+Die Behörde unterhält effektive Kontakte mit Vertretern der Verbraucher, der Erzeuger, der verarbeitenden Industrie und sonstigen Beteiligten.
+
+ABSCHNITT 5
+
+FINANZBESTIMMUNGEN
+
+Artikel 43
+
+Feststellung des Haushalts der Behörde
+
+(1)
+
+Die Einnahmen der Behörde bestehen aus einem Beitrag der Gemeinschaft und Beiträgen der Staaten, mit denen die Gemeinschaft Abkommen im Sinne von Artikel 49 geschlossen hat, sowie Gebühren für Veröffentlichungen, Konferenzen, Ausbildungsveranstaltungen und andere derartige von der Behörde angebotene Tätigkeiten.
+
+(2)
+
+Die Ausgaben der Behörde umfassen die Personal-, Verwaltungs-, Infrastruktur- und Betriebskosten sowie Verpflichtungen, die durch Verträge mit Dritten oder durch die finanzielle Unterstützung gemäß Artikel 36 entstehen.
+
+▼M1
+
+(3)
+
+Rechtzeitig vor dem in Absatz 5 genannten Zeitpunkt erstellt der Geschäftsführende Direktor einen Entwurf eines Voranschlags der Einnahmen und Ausgaben der Behörde für das folgende Haushaltsjahr, den er zusammen mit einem vorläufigen Stellenplan dem Verwaltungsrat übermittelt.
+
+(4)
+
+Einnahmen und Ausgaben müssen ausgeglichen sein.
+
+(5)
+
+Auf der Grundlage des vom Geschäftsführenden Direktor vorgelegten Entwurfs eines Voranschlags der Einnahmen und Ausgaben stellt der Verwaltungsrat jedes Jahr den Voranschlag der Einnahmen und Ausgaben der Behörde für das folgende Haushaltsjahr auf. Dieser Voranschlag umfasst auch einen vorläufigen Stellenplan zusammen mit vorläufigen Arbeitsprogrammen und wird der Kommission und den Staaten, mit denen die Gemeinschaft Abkommen gemäß Artikel 49 geschlossen hat, spätestens am 31. März durch den Verwaltungsrat zugeleitet.
+
+(6)
+
+Die Kommission übermittelt den Voranschlag zusammen mit dem Vorentwurf des Gesamthaushaltsplans der Europäischen Union dem Europäischen Parlament und dem Rat (nachstehend „Haushaltsbehörde“ genannt).
+
+▼M1
+
+(7)
+
+Die Kommission setzt auf der Grundlage des Voranschlags die von ihr für erforderlich erachteten Mittelansätze für den Stellenplan und den Betrag des Zuschusses aus dem Gesamthaushaltsplan in den Vorentwurf des Gesamthaushaltsplans der Europäischen Union ein, den sie gemäß Artikel 272 des Vertrags der Haushaltsbehörde vorlegt.
+
+(8)
+
+Die Haushaltsbehörde bewilligt die Mittel für den Zuschuss für die Behörde.
+
+Die Haushaltsbehörde stellt den Stellenplan der Behörde fest.
+
+(9)
+
+Der Haushaltsplan wird vom Verwaltungsrat festgestellt. Er wird endgültig, wenn der Gesamthaushaltsplan der Europäischen Union endgültig festgestellt ist. Er wird gegebenenfalls entsprechend angepasst.
+
+(10)
+
+Der Verwaltungsrat unterrichtet die Haushaltsbehörde schnellstmöglich über alle von ihm geplanten Vorhaben, die erhebliche finanzielle Auswirkungen auf die Finanzierung des Haushaltsplans haben könnten, was insbesondere für Immobilienvorhaben wie die Anmietung oder den Erwerb von Gebäuden gilt. Er setzt die Kommission von diesen Vorhaben in Kenntnis.
+
+Hat ein Teil der Haushaltsbehörde mitgeteilt, dass er eine Stellungnahme abgeben will, übermittelt er diese Stellungnahme dem Verwaltungsrat innerhalb von sechs Wochen nach der Unterrichtung über das Vorhaben.
+
+▼M1
+
+Artikel 44
+
+Ausführung des Haushaltsplans der Behörde
+
+(1)
+
+Der Geschäftsführende Direktor führt den Haushaltsplan der Behörde aus.
+
+(2)
+
+Spätestens zum 1. März nach dem Ende des Haushaltsjahrs übermittelt der Rechnungsführer der Behörde dem Rechnungsführer der Kommission die vorläufigen Rechnungen zusammen mit dem Bericht über die Haushaltsführung und das Finanzmanagement für das abgeschlossene Haushaltsjahr. Der Rechnungsführer der Kommission konsolidiert die vorläufigen Rechnungen der Organe und dezentralisierten Einrichtungen gemäß Artikel 128 der Haushaltsordnung.
+
+(3)
+
+Spätestens am 31. März nach dem Ende des Haushaltsjahrs übermittelt der Rechnungsführer der Kommission dem Rechnungshof die vorläufigen Rechnungen der Behörde zusammen mit dem Bericht über die Haushaltsführung und das Finanzmanagement für das abgeschlossene Haushaltsjahr. Dieser Bericht geht auch dem Europäischen Parlament und dem Rat zu.
+
+(4)
+
+Nach Eingang der Bemerkungen des Rechnungshofes zu den vorläufigen Rechnungen der Behörde gemäß Artikel 129 der Haushaltsordnung stellt der Geschäftsführende Direktor in eigener Verantwortung die endgültigen Jahresabschlüsse der Behörde auf und legt sie dem Verwaltungsrat zur Stellungnahme vor.
+
+(5)
+
+Der Verwaltungsrat gibt eine Stellungnahme zu den endgültigen Jahresabschlüssen der Behörde ab.
+
+(6)
+
+Der Geschäftsführende Direktor leitet diese endgültigen Jahresabschlüsse zusammen mit der Stellungnahme des Verwaltungsrats spätestens am 1. Juli nach dem Ende des Haushaltsjahrs dem Europäischen Parlament, dem Rat, der Kommission und dem Rechnungshof zu.
+
+(7)
+
+Die endgültigen Jahresabschlüsse werden veröffentlicht.
+
+(8)
+
+Der Geschäftsführende Direktor übermittelt dem Rechnungshof spätestens am 30. September eine Antwort auf seine Bemerkungen. Diese Antwort geht auch dem Verwaltungsrat zu.
+
+(9)
+
+Der Geschäftsführende Direktor unterbreitet dem Europäischen Parlament auf dessen Anfrage hin gemäß Artikel 146 Absatz 3 der Haushaltsordnung alle Informationen, die für die ordnungsgemäße Abwicklung des Entlastungsverfahrens für das betreffende Haushaltsjahr erforderlich sind.
+
+(10)
+
+Auf Empfehlung des Rates, der mit qualifizierter Mehrheit beschließt, erteilt das Europäische Parlament dem Geschäftsführenden Direktor vor dem 30. April des Jahres n + 2 Entlastung zur Ausführung des Haushaltsplans für das Jahr n.
+
+▼B
+
+Artikel 45
+
+Von der Behörde eingenommene Gebühren
+
+Innerhalb von drei Jahren nach Inkrafttreten dieser Verordnung veröffentlicht die Kommission nach Konsultation der Behörde, der Mitgliedstaaten und der Beteiligten einen Bericht zu der Frage, ob es möglich und ratsam ist, gemäß dem Mitentscheidungsverfahren und im Einklang mit dem Vertrag einen Legislativvorschlag für sonstige Dienstleistungen der Behörde vorzulegen.
+
+ABSCHNITT 6
+
+ALLGEMEINE BESTIMMUNGEN
+
+Artikel 46
+
+Rechtspersönlichkeit und Vorrechte
+
+(1)
+
+Die Behörde besitzt Rechtspersönlichkeit. Sie genießt in allen Mitgliedstaaten die weitreichendsten Befugnisse, die die jeweilige Rechtsordnung juristischen Personen zuerkennt. Insbesondere kann sie bewegliches und unbewegliches Eigentum erwerben und veräußern wie auch gerichtliche Verfahren einleiten.
+
+(2)
+
+Das Protokoll über Vorrechte und Befreiungen der Europäischen Gemeinschaften findet auf die Behörde Anwendung.
+
+Artikel 47
+
+Haftung
+
+(1)
+
+Die vertragliche Haftung der Behörde unterliegt dem für den betreffenden Vertrag geltenden Recht. Der Gerichtshof der Europäischen Gemeinschaften ist für Entscheidungen aufgrund von Schiedsklauseln in den von der Behörde geschlossenen Verträgen zuständig.
+
+(2)
+
+Was die nicht vertragliche Haftung betrifft, so leistet die Behörde gemäß den allgemeinen Grundsätzen in den Rechtsordnungen der Mitgliedstaaten Ersatz für Schäden, die sie oder ihre Bediensteten in Ausübung ihres Amtes verursacht haben. Der Europäische Gerichtshof ist für Entscheidungen in Schadensersatzstreitigkeiten zuständig.
+
+(3)
+
+Die persönliche Haftung der Bediensteten gegenüber der Behörde unterliegt den einschlägigen Bestimmungen, die für das Personal der Behörde gelten.
+
+Artikel 48
+
+Personal
+
+(1)
+
+Das Personal der Behörde unterliegt den für die Beamten und sonstigen Bediensteten der Europäischen Gemeinschaften geltenden Regeln und Verordnungen.
+
+(2)
+
+Bezüglich ihres Personals übt die Behörde die Befugnisse aus, die der Anstellungsbehörde übertragen wurden.
+
+Artikel 49
+
+Beteiligung von Drittländern
+
+Die Behörde steht der Beteiligung von Ländern offen, die mit der Europäischen Gemeinschaft Abkommen geschlossen und zu deren Umsetzung gemeinschaftsrechtliche Vorschriften in dem unter diese Verordnung fallenden Bereich übernommen haben und anwenden.
+
+Gemäß den einschlägigen Bestimmungen jener Abkommen werden Vereinbarungen getroffen, die insbesondere die Natur, das Ausmaß und die Art und Weise einer Beteiligung dieser Länder an der Arbeit der Behörde festlegen; hierzu zählen auch Bestimmungen über die Mitwirkung in von der Behörde betriebenen Netzen, die Aufnahme in die Liste der einschlägigen Organisationen, denen die Behörde bestimmte Aufgaben übertragen kann, finanzielle Beiträge und Personal.
+
+KAPITEL IV
+
+SCHNELLWARNSYSTEM, KRISENMANAGEMENT UND NOTFÄLLE
+
+ABSCHNITT 1
+
+SCHNELLWARNSYSTEM
+
+Artikel 50
+
+Schnellwarnsystem
+
+(1)
+
+Es wird ein Schnellwarnsystem für die Meldung eines von Lebensmitteln oder Futtermitteln ausgehenden unmittelbaren oder mittelbaren Risikos für die menschliche Gesundheit als Netz eingerichtet. An ihm sind die Mitgliedstaaten, die Kommission und die Behörde beteiligt. Die Mitgliedstaaten, die Kommission und die Behörde ernennen jeweils eine Kontaktstelle, die Mitglied des Netzes ist. Die Kommission ist für die Verwaltung des Netzes zuständig.
+
+(2)
+
+Liegen einem Mitglied des Netzes Informationen über das Vorhandensein eines ernsten unmittelbaren oder mittelbaren Risikos für die menschliche Gesundheit vor, das von Lebensmitteln oder Futtermitteln ausgeht, so werden diese Informationen der Kommission unverzüglich über das Schnellwarnsystem gemeldet. Die Kommission leitet diese Informationen unverzüglich an die Mitglieder des Netzes weiter.
+
+Die Behörde kann die Meldung durch wissenschaftliche oder technische Informationen ergänzen, die den Mitgliedstaaten ein rasches und angemessenes Risikomanagement erleichtern.
+
+(3)
+
+Unbeschadet sonstiger Rechtsvorschriften der Gemeinschaft melden die Mitgliedstaaten der Kommission unverzüglich über das Schnellwarnsystem
+
+a)
+
+sämtliche von ihnen ergriffenen Maßnahmen zur Beschränkung des Inverkehrbringens von Lebensmitteln oder Futtermitteln oder zur Erzwingung ihrer Rücknahme vom Markt oder ihres Rückrufs aus Gründen des Gesundheitsschutzes in Fällen, in denen rasches Handeln erforderlich ist;
+
+b)
+
+sämtliche Empfehlungen oder Vereinbarungen mit der gewerblichen Wirtschaft, die zum Ziel haben, bei einem ernsten Risiko für die menschliche Gesundheit, das rasches Handeln erforderlich macht, das Inverkehrbringen oder die Verwendung von Lebensmitteln oder Futtermitteln auf freiwilliger Basis oder durch eine entsprechende Auflage zu verhindern, einzuschränken oder besonderen Bedingungen zu unterwerfen;
+
+c)
+
+jede mit einem unmittelbaren oder mittelbaren Risiko für die menschliche Gesundheit zusammenhängende Zurückweisung eines Postens, eines Behälters oder einer Fracht Lebensmittel oder Futtermittel durch eine zuständige Behörde an einer Grenzkontrollstelle innerhalb der Europäischen Union.
+
+Der Meldung ist eine eingehende Erläuterung der Gründe für die Maßnahme der zuständigen Behörden des meldenden Mitgliedstaats beizufügen. Die Meldung ist zu gegebener Zeit durch zusätzliche Informationen zu ergänzen, insbesondere wenn die Maßnahmen, die Anlass der Meldung waren, geändert oder aufgehoben werden.
+
+Die Kommission übermittelt den Mitgliedern des Netzes unverzüglich die Meldung und die gemäß den Unterabsätzen 1 und 2 erhaltenen zusätzlichen Informationen.
+
+Weist eine zuständige Behörde an einer Grenzkontrollstelle innerhalb der Europäischen Union einen Posten, einen Behälter oder eine Fracht zurück, so setzt die Kommission unverzüglich sämtliche Grenzkontrollstellen innerhalb der Europäischen Union sowie das Ursprungsdrittland hiervon in Kenntnis.
+
+(4)
+
+Wurde ein Lebensmittel oder Futtermittel, das Gegenstand einer Meldung über das Schnellwarnsystem war, in ein Drittland versendet, so übermittelt die Kommission diesem Land die entsprechenden Informationen.
+
+(5)
+
+Die Mitgliedstaaten setzen die Kommission unverzüglich davon in Kenntnis, welche Schritte oder Maßnahmen sie nach Erhalt der Meldungen und zusätzlichen Informationen, die über das Schnellwarnsystem übermittelt wurden, eingeleitet haben. Die Kommission leitet diese Informationen umgehend an die Mitglieder des Netzes weiter.
+
+(6)
+
+Die Teilnahme am Schnellwarnsystem kann beitrittswilligen Ländern, Drittländern und internationalen Organisationen durch Abkommen zwischen der Gemeinschaft und den betreffenden Ländern oder internationalen Organisationen ermöglicht werden; die Verfahren sind in diesen Abkommen festzulegen. Diese Abkommen müssen auf Gegenseitigkeit beruhen und Vertraulichkeitsregeln enthalten, die den in der Gemeinschaft geltenden Regeln gleichwertig sind.
+
+Artikel 51
+
+Durchführungsmaßnahmen
+
+Die Durchführungsmaßnahmen zu Artikel 50 werden von der Kommission nach Erörterung mit der Behörde gemäß dem in Artikel 58 Absatz 2 genannten Verfahren festgelegt. Sie regeln insbesondere die spezifischen Bedingungen und Verfahren für die Weiterleitung von Meldungen und zusätzlichen Informationen.
+
+Artikel 52
+
+Vertraulichkeitsregeln für das Schnellwarnsystem
+
+(1)
+
+Den Mitgliedern des Netzes vorliegende Informationen über Risiken für die menschliche Gesundheit aufgrund von Lebensmitteln und Futtermitteln sind in der Regel in Übereinstimmung mit dem Informationsprinzip nach Artikel 10 der Öffentlichkeit zugänglich zu machen. Die Öffentlichkeit muss in der Regel Zugang zu Informationen über die Identifizierung des fraglichen Produkts, die Art des Risikos und die ergriffenen Maßnahmen haben.
+
+Die Mitglieder des Netzes tragen jedoch dafür Sorge, dass ihre Mitarbeiter und sonstigen Bediensteten in hinreichend begründeten Fällen Informationen, die sie für die Zwecke dieses Abschnitts erhalten haben und die ihrer Natur gemäß der Geheimhaltung unterliegen, nicht weitergeben; hiervon ausgenommen sind Informationen, die aus Gründen des Gesundheitsschutzes öffentlich bekannt gegeben werden müssen, wenn die Umstände dies erfordern.
+
+(2)
+
+Der Schutz der Geheimhaltung darf die Weitergabe von Informationen, die für die Wirksamkeit der Marktüberwachung und der Durchsetzungsmaßnahmen im Bereich der Lebensmittel und Futtermittel relevant sind, an die zuständigen Behörden nicht verhindern. Behörden, die Informationen erhalten, welche der Geheimhaltung unterliegen, gewährleisten deren Vertraulichkeit gemäß Absatz 1.
+
+ABSCHNITT 2
+
+NOTFÄLLE
+
+Artikel 53
+
+Sofortmaßnahmen in Bezug auf Lebensmittel und Futtermittel mit Ursprung in der Gemeinschaft oder auf aus Drittländern eingeführte Lebensmittel und Futtermittel
+
+(1)
+
+Ist davon auszugehen, dass ein Lebensmittel oder Futtermittel mit Ursprung in der Gemeinschaft oder ein aus einem Drittland eingeführtes Lebensmittel oder Futtermittel wahrscheinlich ein ernstes Risiko für die Gesundheit von Mensch oder Tier oder für die Umwelt darstellt und dass diesem Risiko durch Maßnahmen des betreffenden Mitgliedstaats oder der betreffenden Mitgliedstaaten nicht auf zufrieden stellende Weise begegnet werden kann, so trifft die Kommission nach dem in Artikel 58 Absatz 2 genannten Verfahren von sich aus oder auf Verlangen eines Mitgliedstaats unverzüglich eine oder mehrere der folgenden Maßnahmen, je nachdem, wie ernst die Situation ist:
+
+a)
+
+bei einem Lebensmittel oder Futtermittel mit Ursprung in der Gemeinschaft:
+
+i)
+
+Aussetzung des Inverkehrbringens oder der Verwendung des fraglichen Lebensmittels,
+
+ii)
+
+Aussetzung des Inverkehrbringens oder der Verwendung des fraglichen Futtermittels,
+
+iii)
+
+Festlegung besonderer Bedingungen für das fragliche Lebensmittel oder Futtermittel,
+
+iv)
+
+jede sonst geeignete vorläufige Maßnahme;
+
+b)
+
+bei einem aus einem Drittland eingeführten Lebensmittel oder Futtermittel:
+
+i)
+
+Aussetzung der Einfuhr des fraglichen Lebensmittels oder Futtermittels aus dem gesamten betroffenen Drittland oder aus einem Gebiet dieses Landes sowie gegebenenfalls aus dem Durchfuhrdrittland,
+
+ii)
+
+Festlegung besonderer Bedingungen für das fragliche Lebensmittel oder Futtermittel aus dem gesamten betroffenen Drittland oder einem Gebiet dieses Landes,
+
+iii)
+
+jede sonst geeignete vorläufige Maßnahme.
+
+(2)
+
+In dringenden Fällen kann die Kommission die Maßnahmen nach Absatz 1 jedoch vorläufig erlassen, nachdem sie den oder die betroffenen Mitgliedstaaten angehört und die übrigen Mitgliedstaaten darüber unterrichtet hat.
+
+Die Maßnahmen werden nach dem in Artikel 58 Absatz 2 genannten Verfahren so rasch wie möglich, auf jeden Fall aber innerhalb von 10 Arbeitstagen bestätigt, geändert, aufgehoben oder verlängert; die Gründe für die Entscheidung der Kommission werden unverzüglich veröffentlicht.
+
+Artikel 54
+
+Sonstige Sofortmaßnahmen
+
+(1)
+
+Setzt ein Mitgliedstaat die Kommission offiziell von der Notwendigkeit in Kenntnis, Sofortmaßnahmen zu ergreifen, und hat die Kommission nicht gemäß Artikel 53 gehandelt, so kann der Mitgliedstaat vorläufige Schutzmaßnahmen ergreifen. In diesem Fall unterrichtet er die anderen Mitgliedstaaten und die Kommission unverzüglich.
+
+(2)
+
+Innerhalb von 10 Arbeitstagen befasst die Kommission den mit Artikel 58 Absatz 1 eingesetzten Ausschuss nach dem in Artikel 58 Absatz 2 genannten Verfahren mit der Frage der Verlängerung, der Änderung oder der Aufhebung der vorläufigen nationalen Schutzmaßnahmen.
+
+(3)
+
+Der Mitgliedstaat darf seine vorläufigen nationalen Schutzmaßnahmen so lange beibehalten, bis die Gemeinschaftsmaßnahmen erlassen sind.
+
+ABSCHNITT 3
+
+KRISENMANAGEMENT
+
+Artikel 55
+
+Allgemeiner Plan für das Krisenmanagement
+
+(1)
+
+Die Kommission erstellt in enger Zusammenarbeit mit der Behörde und den Mitgliedstaaten einen allgemeinen Plan für das Krisenmanagement im Bereich der Lebensmittel- und Futtermittelsicherheit (im Folgenden „der allgemeine Plan“ genannt).
+
+(2)
+
+Der allgemeine Plan legt insbesondere fest, in welchen Fällen auf Lebensmittel oder Futtermittel zurückzuführende unmittelbare oder mittelbare Risiken für die menschliche Gesundheit voraussichtlich nicht durch bereits vorhandene Vorkehrungen verhütet, beseitigt oder auf ein akzeptables Maß gesenkt werden oder ausschließlich durch Anwendung der in den Artikeln 53 und 54 genannten Maßnahmen angemessen bewältigt werden können.
+
+Der allgemeine Plan legt auch fest, welche praktischen Verfahren erforderlich sind, um eine Krise zu bewältigen, welche Transparenzgrundsätze hierbei Anwendung finden sollen und welche Kommunikationsstrategie gewählt werden soll.
+
+Artikel 56
+
+Krisenstab
+
+(1)
+
+Stellt die Kommission fest, dass ein Fall vorliegt, in dem ein von einem Lebensmittel oder Futtermittel ausgehendes ernstes unmittelbares oder mittelbares Risiko für die menschliche Gesundheit nicht durch die bereits getroffenen Vorkehrungen verhütet, beseitigt oder verringert werden oder ausschließlich durch Anwendung der in den Artikeln 53 und 54 genannten Maßnahmen angemessen bewältigt werden kann, so unterrichtet sie unverzüglich die Mitgliedstaaten und die Behörde; die Zuständigkeit der Kommission für die Sicherstellung der Anwendung des Gemeinschaftsrechts bleibt hiervon unberührt.
+
+(2)
+
+Die Kommission richtet unverzüglich einen Krisenstab ein, an welchem die Behörde beteiligt wird und dem diese erforderlichenfalls wissenschaftliche und technische Unterstützung gewährt.
+
+Artikel 57
+
+Aufgaben des Krisenstabs
+
+(1)
+
+Der Krisenstab ist verantwortlich für die Sammlung und Beurteilung sämtlicher relevanter Informationen und die Ermittlung der gangbaren Wege zu einer möglichst effektiven und raschen Verhütung oder Beseitigung des Risikos für die menschliche Gesundheit oder seiner Senkung auf ein akzeptables Maß.
+
+(2)
+
+Der Krisenstab kann die Unterstützung jeder juristischen oder natürlichen Person anfordern, deren Fachwissen er zur wirksamen Bewältigung der Krise für nötig hält.
+
+(3)
+
+Der Krisenstab informiert die Öffentlichkeit über die bestehenden Risiken und die getroffenen Maßnahmen.
+
+KAPITEL V
+
+VERFAHREN UND SCHLUSSBESTIMMUNGEN
+
+▼M8
+
+ABSCHNITT 1
+
+AUSÜBUNG DER BEFUGNISÜBERTRAGUNG, AUSSCHUSS- UND VERMITTLUNGSVERFAHREN
+
+▼M8
+
+Artikel 57a
+
+Ausübung der Befugnisübertragung
+
+(1)
+
+Die Befugnis zum Erlass delegierter Rechtsakte wird der Kommission unter den in diesem Artikel festgelegten Bedingungen übertragen.
+
+(2)
+
+Die Befugnis zum Erlass delegierter Rechtsakte gemäß Artikel 28 Absatz 4, Artikel 29 Absatz 6 und Artikel 36 Absatz 3 wird der Kommission für einen Zeitraum von fünf Jahren ab dem 26. Juli 2019 übertragen. Die Kommission erstellt spätestens neun Monate vor Ablauf des Zeitraums von fünf Jahren einen Bericht über die Befugnisübertragung. Die Befugnisübertragung verlängert sich stillschweigend um Zeiträume gleicher Länge, es sei denn, das Europäische Parlament oder der Rat widersprechen einer solchen Verlängerung spätestens drei Monate vor Ablauf des jeweiligen Zeitraums.
+
+(3)
+
+Die Befugnisübertragung gemäß Artikel 28 Absatz 4, Artikel 29 Absatz 6 und Artikel 36 Absatz 3 kann vom Europäischen Parlament oder vom Rat jederzeit widerrufen werden. Der Beschluss über den Widerruf beendet die Übertragung der in diesem Beschluss angegebenen Befugnis. Er wird am Tag nach seiner Veröffentlichung im
+Amtsblatt der Europäischen Union
+oder zu einem im Beschluss über den Widerruf angegebenen späteren Zeitpunkt wirksam. Die Gültigkeit von delegierten Rechtsakten, die bereits in Kraft sind, wird von dem Beschluss über den Widerruf nicht berührt.
+
+(4)
+
+Vor dem Erlass eines delegierten Rechtsakts konsultiert die Kommission die von den einzelnen Mitgliedstaaten benannten Sachverständigen im Einklang mit den in der Interinstitutionellen Vereinbarung vom 13. April 2016 über bessere Rechtsetzung (
+
+14
+
+) enthaltenen Grundsätzen.
+
+(5)
+
+Sobald die Kommission einen delegierten Rechtsakt erlässt, übermittelt sie ihn gleichzeitig dem Europäischen Parlament und dem Rat.
+
+(6)
+
+Ein delegierter Rechtsakt, der gemäß Artikel 28 Absatz 4, Artikel 29 Absatz 6 und Artikel 36 Absatz 3 erlassen wurde, tritt nur in Kraft, wenn weder das Europäische Parlament noch der Rat innerhalb einer Frist von zwei Monaten nach Übermittlung dieses Rechtsakts an das Europäische Parlament und den Rat Einwände erhoben haben oder wenn vor Ablauf dieser Frist das Europäische Parlament und der Rat beide der Kommission mitgeteilt haben, dass sie keine Einwände erheben werden. Auf Initiative des Europäischen Parlaments oder des Rates wird diese Frist um zwei Monate verlängert.
+
+▼B
+
+Artikel 58
+
+Ausschuss
+
+▼M5
+
+(1)
+
+Die Kommission wird von einem Ständigen Ausschuss für Pflanzen, Tiere, Lebensmittel und Futtermittel (im Folgenden „der Ausschuss“ genannt) unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates (
+
+15
+
+). Der Ausschuss wird nach Fachgruppen organisiert, die alle einschlägigen Themen behandeln.
+
+Alle Verweise im Unionsrecht auf den Ständigen Ausschuss für die Lebensmittelkette und Tiergesundheit gelten als Verweise auf den Ausschuss gemäß Unterabsatz 1.
+
+▼M4
+
+(2)
+
+Wird auf diesen Absatz Bezug genommen, so gelten die Artikel 5 und 7 des Beschlusses 1999/468/EG unter Beachtung von dessen Artikel 8.
+
+Der Zeitraum nach Artikel 5 Absatz 6 des Beschlusses 1999/468/EG wird auf drei Monate festgesetzt.
+
+▼M8
+—————
+
+▼B
+
+Artikel 59
+
+Funktionen des Ausschusses
+
+Der Ausschuss nimmt die ihm durch diese Verordnung und sonstige einschlägige Gemeinschaftsbestimmungen zugewiesenen Funktionen in den Fällen und unter den Bedingungen wahr, die in den genannten Vorschriften festgelegt sind. Ferner kann er entweder auf Initiative des Vorsitzenden oder auf schriftlichen Antrag eines seiner Mitglieder jede Frage prüfen, die unter die genannten Vorschriften fällt.
+
+Artikel 60
+
+Vermittlungsverfahren
+
+(1)
+
+Ist ein Mitgliedstaat der Ansicht, dass eine von einem anderen Mitgliedstaat im Bereich der Lebensmittelsicherheit getroffene Maßnahme entweder mit dieser Verordnung unvereinbar oder so beschaffen ist, dass sie das Funktionieren des Binnenmarktes beeinträchtigen kann, so legt er unbeschadet der Anwendung sonstiger Gemeinschaftsvorschriften die Angelegenheit der Kommission vor, die den betreffenden Mitgliedstaat unverzüglich unterrichtet.
+
+(2)
+
+Die beiden betroffenen Mitgliedstaaten und die Kommission bemühen sich nach Kräften, das Problem zu lösen. Kann keine Einigung erzielt werden, so kann die Kommission bei der Behörde ein Gutachten zu etwaigen relevanten strittigen wissenschaftlichen Fragen anfordern. Die Bedingungen einer solchen Anforderung und die Frist, innerhalb deren die Behörde das Gutachten zu erstellen hat, werden zwischen der Kommission und der Behörde nach Konsultation der beiden betroffenen Mitgliedstaaten einvernehmlich festgelegt.
+
+ABSCHNITT 2
+
+SCHLUSSBESTIMMUNGEN
+
+▼M9
+
+Artikel 61
+
+Überprüfungsklausel
+
+(1)
+
+Die Kommission gewährleistet die regelmäßige Überprüfung der Anwendung dieser Verordnung.
+
+(2)
+
+Bis zum 28. März 2026 und danach alle fünf Jahre bewertet die Kommission entsprechend den Leitlinien der Kommission die Leistung der Behörde im Verhältnis zu ihren Zielen, ihrem Mandat, ihren Aufgaben, ihren Verfahren und ihrem Standort. Diese Bewertung erstreckt sich zudem auf die Auswirkungen von Artikel 32a auf die Arbeitsweise der Behörde, wobei der jeweiligen Arbeitsbelastung und Mobilisierung der Mitarbeiter und der Frage, ob dies zu Veränderungen bei der Verteilung der Ressourcen der Behörde auf Kosten der Tätigkeiten von öffentlichem Interesse geführt hat, besondere Aufmerksamkeit zu widmen ist. Diese Bewertung betrifft die eventuell erforderliche Änderung des Mandats der Behörde und die finanziellen Auswirkungen einer solchen Änderung.
+
+(3)
+
+Im Rahmen der in Absatz 2 genannten Überprüfung bewertet die Kommission, ob der organisatorische Rahmen der Behörde im Hinblick auf Entscheidungen über Vertraulichkeitsersuchen und Zweitanträge weiter aktualisiert werden muss, und zwar durch die Einrichtung einer eigenen Beschwerdekammer oder durch andere geeignete Mittel.
+
+(4)
+
+Ist die Kommission der Auffassung, dass Ziele, Mandat und Aufgaben der Behörde die Fortführung ihrer Tätigkeiten nicht länger rechtfertigen, kann sie eine entsprechende Änderung oder Aufhebung der betreffenden Bestimmungen dieser Verordnung vorschlagen.
+
+(5)
+
+Die Kommission erstattet dem Europäischen Parlament, dem Rat und dem Verwaltungsrat über die Ergebnisse ihrer Prüfungen und Bewertungen gemäß diesem Artikel Bericht. Diese Ergebnisse werden öffentlich zugänglich gemacht.
+
+▼M9
+
+Artikel 61a
+
+Sondierungsbesuche
+
+Experten der Kommission führen auf Sondierungsbesuche in den Mitgliedstaaten durch, um zu überprüfen, ob die Labore und anderen Untersuchungseinrichtungen die einschlägigen Normen für die Durchführung von Untersuchungen und Studien einhalten, die der Behörde als Teil eines Antrags vorgelegt werden, und ob die Meldepflicht gemäß Artikel 32b Absatz 3 bis zum 28. März 2025 eingehalten wird. Bis zu diesem Zeitpunkt und sofern das in den einschlägigen Abkommen oder Vereinbarungen mit Drittländern, auch im Sinne des Artikels 49, vorgesehen ist, führen Experten der Kommission auch Sondierungsbesuche in Drittländern durch, um zu überprüfen, ob dortige Labore und andere Untersuchungseinrichtungen diese Normen einhalten.
+
+Die bei diesen Sondierungsbesuchen festgestellten Verstöße werden der Kommission, den Mitgliedstaaten, der Behörde sowie den überprüften Laboren und anderen Untersuchungseinrichtungen, mitgeteilt. Die Kommission, die Behörde und die Mitgliedstaaten stellen sicher, dass mit geeigneten Maßnahmen auf diese festgestellten Verstöße reagiert wird.
+
+Das Ergebnis dieser Sondierungsbesuche wird in einem zusammenfassenden Bericht dargelegt. Die Kommission legt auf der Grundlage dieses Berichts gegebenenfalls einen Legislativvorschlag vor, der insbesondere Bestimmungen zu möglicherweise notwendigen Kontrollverfahren, einschließlich Audits, enthält.
+
+▼B
+
+Artikel 62
+
+Bezugnahmen auf die Europäische Behörde für Lebensmittelsicherheit und auf den Ständigen Ausschuss für die Lebensmittelkette und Tiergesundheit
+
+(1)
+
+Bezugnahmen auf den Wissenschaftlichen Lebensmittelausschuss, den Wissenschaftlichen Futtermittelausschuss, den Wissenschaftlichen Veterinärausschuss, den Wissenschaftlichen Ausschuss für Schädlingsbekämpfungsmittel, den Wissenschaftlichen Ausschuss „Pflanzen“ sowie den Wissenschaftlichen Lenkungsausschuss in den Rechtsvorschriften der Gemeinschaft werden durch eine Bezugnahme auf die Europäische Behörde für Lebensmittelsicherheit ersetzt.
+
+(2)
+
+Bezugnahmen auf den Ständigen Lebensmittelausschuss, den Ständigen Futtermittelausschuss und den Ständigen Veterinärausschuss in den Rechtsvorschriften der Gemeinschaft werden durch eine Bezugnahme auf den Ständigen Ausschuss für die Lebensmittelkette und Tiergesundheit ersetzt.
+
+Bezugnahmen auf den Ständigen Ausschuss für Pflanzenschutz im Zusammenhang mit Pflanzenschutzmitteln und Rückstandshöchstgehalten in den Rechtsvorschriften der Gemeinschaft, die sich auf die Richtlinien 76/895/EWG, 86/362/EWG, 86/363/EWG, 90/642/EWG und 91/414/EWG stützen, wie auch in diesen Richtlinien selbst, werden durch eine Bezugnahme auf den Ständigen Ausschuss für die Lebensmittelkette und Tiergesundheit ersetzt.
+
+(3)
+
+Im Sinne der Absätze 1 und 2 bezeichnet der Ausdruck „Rechtsvorschriften der Gemeinschaft“ sämtliche Verordnungen, Richtlinien, Beschlüsse und Entscheidungen der Gemeinschaft.
+
+(4)
+
+Die Beschlüsse 68/361/EWG, 69/414/EWG und 70/372/EWG werden aufgehoben.
+
+Artikel 63
+
+Zuständigkeit der Europäischen Agentur für die Beurteilung von Arzneimitteln
+
+Diese Verordnung berührt nicht die Zuständigkeit, die der Europäischen Agentur für die Beurteilung von Arzneimitteln gemäß der Verordnung (EWG) Nr. 2309/93, der Verordnung (EWG) Nr. 2377/90, der Richtlinie 75/319/EWG des Rates (
+
+16
+
+) und der Richtlinie 81/851/EWG des Rates (
+
+17
+
+) übertragen wurde.
+
+Artikel 64
+
+Beginn der Tätigkeit der Behörde
+
+Die Behörde nimmt ihre Tätigkeit am 1. Januar 2002 auf.
+
+Artikel 65
+
+Inkrafttreten
+
+Diese Verordnung tritt am zwanzigsten Tag nach ihrer Veröffentlichung im
+Amtsblatt der Europäischen Gemeinschaften
+in Kraft.
+
+Die Artikel 11 und 12 sowie 14 bis 20 gelten ab dem 1. Januar 2005.
+
+Die Artikel 29, 56, 57, 60 und Artikel 62 Absatz 1 gelten vom Tag der Ernennung der Mitglieder des Wissenschaftlichen Ausschusses und der Wissenschaftlichen Gremien an, die durch eine Mitteilung in der C-Reihe des Amtsblatts bekannt gegeben wird.
+
+Diese Verordnung ist in allen ihren Teilen verbindlich und gilt unmittelbar in jedem Mitgliedstaat.
+
+(
+
+1
+
+)
+ABl. 22 vom 9.2.1965, S. 369. Richtlinie zuletzt geändert durch die Richtlinie 93/39/EWG (ABl. L 214 vom 24.8.1993, S. 22).
+
+(
+
+2
+
+)
+ABl. L 297 vom 13.10.1992, S. 8.
+
+(
+
+3
+
+)
+ABl. L 262 vom 27.9.1976, S. 169. Richtlinie zuletzt geändert durch die Richtlinie 2000/41/EG der Kommission (ABl. L 145 vom 20.6.2000, S. 25).
+
+(
+
+4
+
+)
+ABl. L 359 vom 8.12.1989, S. 1. Richtlinie zuletzt geändert durch die Richtlinie 92/41/EWG (ABl. L 158 vom 11.6.1992, S. 30).
+
+(
+
+5
+
+) Verordnung (EU) 2017/745 des Europäischen Parlaments und des Rates vom 5. April 2017 über Medizinprodukte, zur Änderung der Richtlinie 2001/83/EG, der Verordnung (EG) Nr. 178/2002 und der Verordnung (EG) Nr. 1223/2009 und zur Aufhebung der Richtlinien 90/385/EWG und 93/42/EWG (ABl. L 117 vom 5.5.2017, S. 1).
+
+(
+
+6
+
+)
+ABl. L 210 vom 7.8.1985, S. 29. Richtlinie zuletzt geändert durch die Richtlinie 1999/34/EG des Europäischen Parlaments und des Rates (ABl. L 141 vom 4.6.1999, S. 20).
+
+(
+
+7
+
+)
+ABl. L 357 vom 31.12.2002, S. 72. Berichtigt in ABl. L 2 vom 7.1.2003, S. 39.
+
+(
+
+8
+
+) Verordnung (EG) Nr. 1272/2008 des Europäischen Parlaments und des Rates vom 16. Dezember 2008 über die Einstufung, Kennzeichnung und Verpackung von Stoffen und Gemischen, zur Änderung und Aufhebung der Richtlinien 67/548/EWG und 1999/45/EG und zur Änderung der Verordnung (EG) Nr. 1907/2006 (ABl. L 353 vom 31.12.2008, S. 1, ELI:
+http://data.europa.eu/eli/reg/2008/1272/oj
+).
+
+(
+
+9
+
+) Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1).
+
+(
+
+10
+
+) Verordnung (EU) 2018/1725 des Europäischen Parlaments und des Rates vom 23. Oktober 2018 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten durch die Organe, Einrichtungen und sonstigen Stellen der Union, zum freien Datenverkehr und zur Aufhebung der Verordnung (EG) Nr. 45/2001 und des Beschlusses Nr. 1247/2002/EG (ABl. L 295 vom 21.11.2018, S. 39).
+
+(
+
+11
+
+) Verordnung (EG) Nr. 1049/2001 des Europäischen Parlaments und des Rates vom 30. Mai 2001 über den Zugang der Öffentlichkeit zu Dokumenten des Europäischen Parlaments, des Rates und der Kommission (ABl. L 145 vom 31.5.2001, S. 43).
+
+(
+
+12
+
+) Verordnung (EG) Nr. 1367/2006 des Europäischen Parlaments und des Rates vom 6. September 2006 über die Anwendung der Bestimmungen des Übereinkommens von Århus über den Zugang zu Informationen, die Öffentlichkeitsbeteiligung an Entscheidungsverfahren und den Zugang zu Gerichten in Umweltangelegenheiten auf Organe und Einrichtungen der Gemeinschaft (ABl. L 264 vom 25.9.2006, S. 13).
+
+(
+
+13
+
+) Richtlinie 2003/4/EG des Europäischen Parlaments und des Rates vom 28. Januar 2003 über den Zugang der Öffentlichkeit zu Umweltinformationen und zur Aufhebung der Richtlinie 90/313/EWG des Rates (ABl. L 41 vom 14.2.2003, S. 26).
+
+(
+
+14
+
+)
+ABl. L 123 vom 12.5.2016, S. 1.
+
+(
+
+15
+
+) Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung der Durchführungsbefugnisse durch die Kommission kontrollieren (ABl. L 55 vom 28.2.2011, S. 13).
+
+(
+
+16
+
+)
+ABl. L 147 vom 9.6.1975, S. 13. Richtlinie geändert durch die Richtlinie 2001/83/EG des Europäischen Parlaments und des Rates (ABl. L 311 vom 28.11.2001, S. 67).
+
+(
+
+17
+
+)
+ABl. L 317 vom 6.11.1981, S. 1. Richtlinie geändert durch die Richtlinie 2001/82/EG des Europäischen Parlaments und des Rates (ABl. L 311 vom 28.11.2001, S. 1).

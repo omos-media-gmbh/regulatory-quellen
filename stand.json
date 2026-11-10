@@ -1,84 +1,96 @@
 {
   "lmiv": {
-    "letzterFehler": {
-      "am": "2026-11-09",
-      "meldung": "https://publications.europa.eu/resource/celex/02011R1169-20250401.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02011R1169-20250401.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02011R1169-20250401.DEU.htm"
-    }
+    "name": "VO (EU) 1169/2011 – LMIV",
+    "fassung": "konsolidiert 2025-04-01",
+    "celex": "02011R1169-20250401",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02011R1169-20250401",
+    "hash": "2a2c0f604dee841cb8775a1e82f08870fac2e3244d720bb39bcd57fd74f04fde",
+    "zeichen": 130350,
+    "geprueft": "2026-11-10"
   },
   "basisvo": {
-    "letzterFehler": {
-      "am": "2026-11-09",
-      "meldung": "https://publications.europa.eu/resource/celex/02002R0178-20260101.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02002R0178-20260101.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02002R0178-20260101.DEU.htm"
-    }
+    "name": "VO (EG) 178/2002 – BasisVO",
+    "fassung": "konsolidiert 2026-01-01",
+    "celex": "02002R0178-20260101",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0178-20260101",
+    "hash": "f044ac4dc8144cc21b60018a7f055e634435d40c085f03d3d488479c12d33f02",
+    "zeichen": 140494,
+    "geprueft": "2026-11-10"
   },
   "hcvo": {
-    "letzterFehler": {
-      "am": "2026-11-09",
-      "meldung": "https://publications.europa.eu/resource/celex/02006R1924-20141213.DEU.xhtml: zu kurz (191 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02006R1924-20141213.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02006R1924-20141213.DEU.htm"
-    }
+    "name": "VO (EG) 1924/2006 – Health-Claims-VO",
+    "fassung": "konsolidiert 2014-12-13",
+    "celex": "02006R1924-20141213",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02006R1924-20141213",
+    "hash": "9f5a074ed9e3ea4f8c50f9f785d006d9fa8da21aeb1443d8428b202b7169afcb",
+    "zeichen": 85859,
+    "geprueft": "2026-11-10"
   },
   "vo-432-2012": {
-    "letzterFehler": {
-      "am": "2026-11-09",
-      "meldung": "https://publications.europa.eu/resource/celex/02012R0432-20250820.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02012R0432-20250820.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02012R0432-20250820.DEU.htm"
-    }
+    "name": "VO (EU) 432/2012 – zugelassene Claims",
+    "fassung": "konsolidiert 2025-08-20",
+    "celex": "02012R0432-20250820",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820",
+    "hash": "3350fc22c24002d2e92cac3045ea30a603cc9c2eea294741a8f9daa7f20e85ba",
+    "zeichen": 118429,
+    "geprueft": "2026-11-10"
   },
   "beschluss-2013-63": {
     "letzterFehler": {
-      "am": "2026-11-09",
+      "am": "2026-11-10",
       "meldung": "Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.htm"
     }
   },
   "dvo-828-2014": {
     "letzterFehler": {
-      "am": "2026-11-09",
+      "am": "2026-11-10",
       "meldung": "Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.htm"
     }
   },
   "rl-2024-825": {
-    "letzterFehler": {
-      "am": "2026-11-09",
-      "meldung": "https://publications.europa.eu/resource/celex/02011L0083-20260927.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02011L0083-20260927.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02011L0083-20260927.DEU.htm"
-    }
+    "name": "RL (EU) 2024/825 – Green Claims",
+    "fassung": "konsolidiert 2026-09-27",
+    "celex": "02011L0083-20260927",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02011L0083-20260927",
+    "hash": "a774b2a3ff3f76a76a6857c3d0536ec0c3d3616d7d61ef9e215d5b3404b1694c",
+    "zeichen": 113382,
+    "geprueft": "2026-11-10"
   },
   "rl-2002-46": {
-    "letzterFehler": {
-      "am": "2026-11-09",
-      "meldung": "https://publications.europa.eu/resource/celex/02002L0046-20251126.DEU.xhtml: zu kurz (290 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02002L0046-20251126.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02002L0046-20251126.DEU.htm"
-    }
+    "name": "RL 2002/46/EG – Nahrungsergänzungsmittel",
+    "fassung": "konsolidiert 2025-11-26",
+    "celex": "02002L0046-20251126",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002L0046-20251126",
+    "hash": "0c57bf7fc3e32e8a452e204a8abfff2637f0d463ba2daa588534b3b315acecd1",
+    "zeichen": 25341,
+    "geprueft": "2026-11-10"
   },
   "uwg": {
     "letzterFehler": {
-      "am": "2026-11-09",
+      "am": "2026-11-10",
       "meldung": "Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /uwg_2004/BJNR141400004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port="
     }
   },
   "hwg": {
     "letzterFehler": {
-      "am": "2026-11-09",
+      "am": "2026-11-10",
       "meldung": "Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /heilmwerbg/BJNR006049965.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', p"
     }
   },
   "nemv": {
     "letzterFehler": {
-      "am": "2026-11-09",
+      "am": "2026-11-10",
       "meldung": "Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /nemv/BJNR101110004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at "
     }
   },
   "_lauf": {
-    "am": "2026-11-09",
+    "am": "2026-11-10",
     "fehler": [
-      "VO (EU) 1169/2011 – LMIV: https://publications.europa.eu/resource/celex/02011R1169-20250401.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02011R1169-20250401.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02011R1169-20250401.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02011R1169-20250401: zu kurz (1 Zeichen)",
-      "VO (EG) 178/2002 – BasisVO: https://publications.europa.eu/resource/celex/02002R0178-20260101.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02002R0178-20260101.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02002R0178-20260101.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02002R0178-20260101: zu kurz (1 Zeichen)",
-      "VO (EG) 1924/2006 – Health-Claims-VO: https://publications.europa.eu/resource/celex/02006R1924-20141213.DEU.xhtml: zu kurz (191 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02006R1924-20141213.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02006R1924-20141213.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02006R1924-20141213: zu kurz (1 Zeichen)",
-      "VO (EU) 432/2012 – zugelassene Claims: https://publications.europa.eu/resource/celex/02012R0432-20250820.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02012R0432-20250820.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02012R0432-20250820.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02012R0432-20250820: zu kurz (1 Zeichen)",
-      "Beschluss 2013/63/EU: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02013D0063-20130125: zu kurz (1 Zeichen)",
-      "DVO (EU) 828/2014 – glutenfrei: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02014R0828-20140731: zu kurz (1 Zeichen)",
-      "RL (EU) 2024/825 – Green Claims: https://publications.europa.eu/resource/celex/02011L0083-20260927.DEU.xhtml: zu kurz (292 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02011L0083-20260927.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02011L0083-20260927.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02011L0083-20260927: zu kurz (1 Zeichen)",
-      "RL 2002/46/EG – Nahrungsergänzungsmittel: https://publications.europa.eu/resource/celex/02002L0046-20251126.DEU.xhtml: zu kurz (290 Zeichen) | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02002L0046-20251126.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02002L0046-20251126.DEU.html | https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02002L0046-20251126: zu kurz (1 Zeichen)",
-      "UWG: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /uwg_2004/BJNR141400004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7f9b1f2c5c70>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))",
-      "HWG – Heilmittelwerbegesetz: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /heilmwerbg/BJNR006049965.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7f9b1f2dc770>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))",
-      "NemV: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /nemv/BJNR101110004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7f9b1f2c5e80>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))"
+      "Beschluss 2013/63/EU: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.html | Abruf fehlgeschlagen: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02013D0063-20130125: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02013D0063-20130125",
+      "DVO (EU) 828/2014 – glutenfrei: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.html | Abruf fehlgeschlagen: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02014R0828-20140731: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02014R0828-20140731",
+      "UWG: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /uwg_2004/BJNR141400004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7ff05bf8f110>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))",
+      "HWG – Heilmittelwerbegesetz: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /heilmwerbg/BJNR006049965.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7ff05bf8d6d0>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))",
+      "NemV: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /nemv/BJNR101110004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7ff05bf8c860>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))"
     ]
   }
 }
