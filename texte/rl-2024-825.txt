@@ -1,442 +1,480 @@
-Konsolidierter TEXT: 32011L0083 — DE — 27.09.2026
-
-02011L0083 — DE — 27.09.2026 — 003.001
-
-Dieser Text dient lediglich zu Informationszwecken und hat keine Rechtswirkung. Die EU-Organe übernehmen keine Haftung für seinen Inhalt. Verbindliche Fassungen der betreffenden Rechtsakte einschließlich ihrer Präambeln sind nur die im Amtsblatt der Europäischen Union veröffentlichten und auf EUR-Lex verfügbaren Texte. Diese amtlichen Texte sind über die Links in diesem Dokument unmittelbar zugänglich
-
-►B
-
-RICHTLINIE 2011/83/EU DES EUROPÄISCHEN PARLAMENTS UND DES RATES
-
-vom 25. Oktober 2011
-
-über die Rechte der Verbraucher, zur Abänderung der Richtlinie 93/13/EWG des Rates und der Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 85/577/EWG des Rates und der Richtlinie 97/7/EG des Europäischen Parlaments und des Rates
-
-(Text von Bedeutung für den EWR)
-
-(ABl. L 304 vom 22.11.2011, S. 64)
-
-Geändert durch:
+L_202400825DE.000101.fmx.xml
 
 Amtsblatt
+der Europäischen Union
 
-Nr.
+DE
 
-Seite
+Serie L
 
-Datum
-
-►M1
-
-RICHTLINIE (EU) 2015/2302 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
-vom 25. November 2015
-
-L 326
-
-1
-
-11.12.2015
-
-►M2
-
-RICHTLINIE (EU) 2019/2161 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
-vom 27. November 2019
-
-L 328
-
-7
-
-18.12.2019
-
-►M3
-
-RICHTLINIE (EU) 2023/2673 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
-vom 22. November 2023
-
-L 2673
-
-1
-
-28.11.2023
-
-►M4
-
-RICHTLINIE (EU) 2024/825 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
-vom 28. Februar 2024
-
-L 825
-
-1
+2024/825
 
 6.3.2024
 
-▼B
+RICHTLINIE (EU) 2024/825 DES EUROPÄISCHEN PARLAMENTS UND DES RATES
 
-RICHTLINIE 2011/83/EU DES EUROPÄISCHEN PARLAMENTS UND DES RATES
+vom 28. Februar 2024
 
-vom 25. Oktober 2011
-
-über die Rechte der Verbraucher, zur Abänderung der Richtlinie 93/13/EWG des Rates und der Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 85/577/EWG des Rates und der Richtlinie 97/7/EG des Europäischen Parlaments und des Rates
+zur Änderung der Richtlinien 2005/29/EG und 2011/83/EU hinsichtlich der Stärkung der Verbraucher für den ökologischen Wandel durch besseren Schutz gegen unlautere Praktiken und durch bessere Informationen
 
 (Text von Bedeutung für den EWR)
 
-KAPITEL I
+DAS EUROPÄISCHE PARLAMENT UND DER RAT DER EUROPÄISCHEN UNION —
 
-GEGENSTAND, BEGRIFFSBESTIMMUNGEN UND GELTUNGSBEREICH
+gestützt auf den Vertrag über die Arbeitsweise der Europäischen Union, insbesondere auf Artikel 114,
 
-Artikel 1
+auf Vorschlag der Europäischen Kommission,
 
-Gegenstand
+nach Zuleitung des Entwurfs des Gesetzgebungsakts an die nationalen Parlamente,
 
-Zweck dieser Richtlinie ist es, durch Angleichung bestimmter Aspekte der Rechts- und Verwaltungsvorschriften der Mitgliedstaaten in Bezug auf Verträge, die zwischen Verbrauchern und Unternehmern geschlossen werden, ein hohes Verbraucherschutzniveau zu erreichen und damit zum ordnungsgemäßen Funktionieren des Binnenmarkts beizutragen.
-
-Artikel 2
-
-Begriffsbestimmungen
-
-Im Sinne dieser Richtlinie bezeichnen die Ausdrücke
-
-1.
-
-„Verbraucher“ jede natürliche Person, die bei von dieser Richtlinie erfassten Verträgen zu Zwecken handelt, die außerhalb ihrer gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit liegen;
-
-2.
-
-„Unternehmer“ jede natürliche oder juristische Person, unabhängig davon, ob letztere öffentlicher oder privater Natur ist, die bei von dieser Richtlinie erfassten Verträgen selbst oder durch eine andere Person, die in ihrem Namen oder Auftrag handelt, zu Zwecken tätig wird, die ihrer gewerblichen, geschäftlichen, handwerklichen oder beruflichen Tätigkeit zugerechnet werden können;
-
-▼M2
-
-3.
-
-„Waren“ Waren im Sinne von Artikel 2 Nummer 5 der Richtlinie (EU) 2019/771 des Europäischen Parlaments und des Rates (
-
+nach Stellungnahme des Europäischen Wirtschafts- und Sozialausschusses
+(
 1
+)
+,
 
-);
-
-▼B
-
-4.
-
-„nach Verbraucherspezifikation angefertigte Waren“ Waren, die nicht vorgefertigt sind und für deren Herstellung eine individuelle Auswahl oder Entscheidung durch den Verbraucher maßgeblich ist;
-
-▼M2
-
-4a.
-
-„personenbezogene Daten“ personenbezogene Daten im Sinne von Artikel 4 Nummer 1 der Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates (
-
+gemäß dem ordentlichen Gesetzgebungsverfahren
+(
 2
+)
+,
 
-);
-
-▼M2
-
-5.
-
-„Kaufvertrag“ jeden Vertrag, durch den der Unternehmer das Eigentum an Waren an den Verbraucher überträgt oder die Übertragung des Eigentums an dieser Ware zusagt, einschließlich von Verträgen, die sowohl Waren als auch Dienstleistungen zum Gegenstand haben;
-
-6.
-
-„Dienstleistungsvertrag“ jeden Vertrag, der kein Kaufvertrag ist und nach dem der Unternehmer eine Dienstleistung, einschließlich einer digitalen Dienstleistung, für den Verbraucher erbringt oder deren Erbringung zusagt;
-
-▼B
-
-7.
-
-„Fernabsatzvertrag“ jeden Vertrag, der zwischen dem Unternehmer und dem Verbraucher ohne gleichzeitige körperliche Anwesenheit des Unternehmers und des Verbrauchers im Rahmen eines für den Fernabsatz organisierten Vertriebs- bzw. Dienstleistungssystems geschlossen wird, wobei bis einschließlich zum Zeitpunkt des Vertragsabschlusses ausschließlich ein oder mehrere Fernkommunikationsmittel verwendet wird/werden;
-
-8.
-
-„außerhalb von Geschäftsräumen abgeschlossener Vertrag“ jeden Vertrag zwischen dem Unternehmer und dem Verbraucher,
-
-a)
-
-der bei gleichzeitiger körperlicher Anwesenheit des Unternehmers und des Verbrauchers an einem Ort geschlossen wird, der kein Geschäftsraum des Unternehmers ist;
-
-b)
-
-für den der Verbraucher unter den unter Buchstabe a genannten Umständen ein Angebot gemacht hat;
-
-c)
-
-der in den Geschäftsräumen des Unternehmers oder durch Fernkommunikationsmittel geschlossen wird, unmittelbar nachdem der Verbraucher an einem anderen Ort als den Geschäftsräumen des Unternehmers bei gleichzeitiger körperlicher Anwesenheit des Unternehmers und des Verbrauchers persönlich und individuell angesprochen wurde; oder
-
-d)
-
-der auf einem Ausflug geschlossen wird, der von dem Unternehmer in der Absicht oder mit dem Ergebnis organisiert wurde, dass er für den Verkauf von Waren oder die Erbringung von Dienstleistungen beim Verbraucher wirbt und entsprechende Verträge mit dem Verbraucher abschließt;
-
-9.
-
-„Geschäftsräume“
-
-a)
-
-unbewegliche Gewerberäume, in denen der Unternehmer seine Tätigkeit dauerhaft ausübt, oder
-
-b)
-
-bewegliche Gewerberäume, in denen der Unternehmer seine Tätigkeit für gewöhnlich ausübt;
-
-10.
-
-„dauerhafter Datenträger“ jedes Medium, das es dem Verbraucher oder dem Unternehmer gestattet, an ihn persönlich gerichtete Informationen derart zu speichern, dass er sie in der Folge für eine für die Zwecke der Informationen angemessene Dauer einsehen kann, und das die unveränderte Wiedergabe der gespeicherten Informationen ermöglicht;
-
-▼M2
-
-11.
-
-„digitale Inhalte“ digitale Inhalte im Sinne von Artikel 2 Nummer 1 der Richtlinie (EU) 2019/770 des Europäischen Parlaments und des Rates (
-
-3
-
-);
-
-▼B
-
-12.
-
-„Finanzdienstleistung“ jede Bankdienstleistung sowie jede Dienstleistung im Zusammenhang mit einer Kreditgewährung, Versicherung, Altersversorgung von Einzelpersonen, Geldanlage oder Zahlung;
-
-13.
-
-„öffentliche Versteigerung“ eine Verkaufsmethode, bei der der Unternehmer Verbrauchern, die bei der Versteigerung persönlich anwesend sind oder denen diese Möglichkeit gewährt wird, Waren oder Dienstleistungen anbietet, und zwar in einem vom Versteigerer durchgeführten, auf konkurrierenden Geboten basierenden transparenten Verfahren, bei dem der Bieter, der den Zuschlag erhalten hat, zum Erwerb der Waren oder Dienstleistungen verpflichtet ist;
-
-14.
-
-„gewerbliche Garantie“ jede dem Verbraucher gegenüber zusätzlich zur gesetzlichen Gewährleistung eingegangene Verpflichtung des Unternehmers oder eines Herstellers (Garantiegebers), den Kaufpreis zu erstatten oder die Waren auszutauschen oder nachzubessern oder Dienstleistungen für sie zu erbringen, falls sie nicht diejenigen Eigenschaften aufweisen oder andere als die Mängelfreiheit betreffende Anforderungen nicht erfüllen, die in der Garantieerklärung oder der einschlägigen Werbung, wie sie bei oder vor dem Abschluss des Vertrags verfügbar war, beschrieben sind;
-
-▼M4
-
-14a.
-
-„gewerbliche Haltbarkeitsgarantie“ eine gewerbliche Haltbarkeitsgarantie des Herstellers im Sinne des Artikels 17 der Richtlinie (EU) 2019/771, nach der ein Hersteller direkt gegenüber dem Verbraucher während des gesamten Zeitraums der gewerblichen Haltbarkeitsgarantie auf Nachbesserung der Waren oder Ersatzlieferung gemäß Artikel 14 der Richtlinie (EU) 2019/771 haftet, wenn die jeweilige Ware nicht entsprechend haltbar ist;
-
-14b.
-
-„Haltbarkeit“ die Haltbarkeit im Sinne des Artikels 2 Nummer 13 der Richtlinie (EU) 2019/771;
-
-14c.
-
-„Hersteller“ den Hersteller im Sinne des Artikels 2 Nummer 4 der Richtlinie (EU) 2019/771;
-
-14d.
-
-„Reparierbarkeitswert“ einen Wert, der die Reparierbarkeit einer Ware auf der Grundlage von auf Unionsebene festgelegten harmonisierten Anforderungen ausdrückt;
-
-14e.
-
-„Softwareaktualisierung“ eine kostenfreie Aktualisierung, einschließlich einer Sicherheitsaktualisierung, die für den Erhalt der Vertragsmäßigkeit von Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen nach den Richtlinien (EU) 2019/770 und (EU) 2019/771 erforderlich ist;
-
-▼B
-
-15.
-
-„akzessorischer Vertrag“ einen Vertrag, mit dem der Verbraucher Waren oder Dienstleistungen erwirbt, die im Zusammenhang mit einem Fernabsatzvertrag oder einem außerhalb von Geschäftsräumen geschlossenen Vertrag stehen und bei dem diese Waren oder Dienstleistungen von dem Unternehmer oder einem Dritten auf der Grundlage einer Vereinbarung zwischen diesem Dritten und dem Unternehmer geliefert oder erbracht werden;
-
-▼M2
-
-16.
-
-„digitale Dienstleistung“ eine digitale Dienstleistung im Sinne von Artikel 2 Nummer 2 der Richtlinie (EU) 2019/770;
-
-17.
-
-„Online-Marktplatz“ einen Dienst, der es Verbrauchern durch die Verwendung von Software, einschließlich einer Website, eines Teils einer Website oder einer Anwendung, die vom Unternehmer oder im Namen des Unternehmers betrieben wird, ermöglicht, Fernabsatzverträge mit anderen Unternehmern oder Verbrauchern abzuschließen;
-
-18.
-
-„Anbieter eines Online-Marktplatzes“ jeden Unternehmer, der einen Online-Marktplatz für Verbraucher zur Verfügung stellt;
-
-19.
-
-„Kompatibilität“ Kompatibilität im Sinne von Artikel 2 Nummer 10 der Richtlinie (EU) 2019/770;
-
-20.
-
-„Funktionalität“ Funktionalität im Sinne von Artikel 2 Nummer 11 der Richtlinie (EU) 2019/770;
-
-21.
-
-„Interoperabilität“ Interoperabilität im Sinne von Artikel 2 Nummer 12 der Richtlinie (EU) 2019/770.
-
-▼B
-
-Artikel 3
-
-Geltungsbereich
-
-▼M2
+in Erwägung nachstehender Gründe:
 
 (1)
 
-Diese Richtlinie gilt unter den Bedingungen und in dem Umfang, wie sie in ihren Bestimmungen festgelegt sind, für alle Verträge, die zwischen einem Unternehmer und einem Verbraucher geschlossen werden, bei denen der Verbraucher den Preis zahlt oder die Zahlung des Preises zusagt. Sie gilt für Verträge über die Lieferung von Wasser, Gas, Strom oder Fernwärme, einschließlich durch öffentliche Anbieter, sofern diese Güter auf vertraglicher Basis geliefert werden.
-
-▼M2
-
-(1a)
-
-Diese Richtlinie gilt auch, wenn der Unternehmer dem Verbraucher digitale Inhalte, die nicht auf einem körperlichen Datenträger geliefert werden, bereitstellt oder deren Bereitstellung zusagt oder für den Verbraucher digitale Dienstleistungen bereitstellt oder deren Bereitstellung zusagt und der Verbraucher dem Unternehmer personenbezogene Daten bereitstellt oder deren Bereitstellung zusagt, außer in Fällen, in denen die vom Verbraucher bereitgestellten personenbezogenen Daten durch den Unternehmer ausschließlich zur Bereitstellung digitaler Inhalte, die nicht auf einem körperlichen Datenträger geliefert werden, oder digitaler Dienstleistungen im Einklang mit dieser Richtlinie oder zur Erfüllung von vom Unternehmer einzuhaltenden rechtlichen Anforderungen verarbeitet werden, und der Unternehmer diese Daten zu keinen anderen Zwecken verarbeitet.
-
-▼M3
-
-(1b)
-
-Für Fernabsatzverträge über die Erbringung von Finanzdienstleistungen, die zwischen einem Unternehmer und einem Verbraucher geschlossen werden, gelten nur die Artikel 1 und 2, Artikel 3 Absätze 2, 5 und 6, Artikel 4, Artikel 6a, Artikel 8 Absatz 6, Artikel 11a, die Artikel 16a bis 16e, Artikel 19, die Artikel 21 bis 23, Artikel 24 Absätze 1 und 6, die Artikel 25 bis 27 und Artikel 29.
-
-Umfassen in Unterabsatz 1 genannte Verträge eine erstmalige Dienstleistungsvereinbarung mit daran anschließenden aufeinanderfolgenden Vorgängen oder einer daran anschließenden Reihe getrennter Vorgänge der gleichen Art, die in einem zeitlichen Zusammenhang stehen, so gelten die in Unterabsatz 1 genannten Bestimmungen mit Ausnahme von Artikel 21 nur für die erste Vereinbarung.
-
-Für den Fall, dass es keine erstmalige Dienstleistungsvereinbarung gibt, aber die aufeinander folgenden oder getrennten Vorgänge der gleichen Art, die in einem zeitlichen Zusammenhang stehen, zwischen den gleichen Vertragsparteien abgewickelt werden, gelten die Artikel 16a und 16d nur für den ersten Vorgang.
-
-Findet jedoch länger als ein Jahr kein Vorgang der gleichen Art mehr statt, so gilt der nächste Vorgang als der erste einer neuen Reihe von Vorgängen, sodass die Artikel 16a und 16d Anwendung finden.
-
-▼B
+Um auf der Grundlage eines hohen Verbraucher- und Umweltschutzniveaus zum reibungslosen Funktionieren des Binnenmarkts beizutragen und Fortschritte beim ökologischen Wandel zu erzielen, müssen Verbraucher in der Lage sein, informierte Kaufentscheidungen zu treffen und so zu einem nachhaltigeren Konsumverhalten beizutragen. Gewerbetreibende sind daher verpflichtet, klare, relevante und zuverlässige Informationen bereitzustellen. Deshalb sollten spezifische Vorschriften in das Verbraucherrecht der Union aufgenommen werden, um unlautere Geschäftspraktiken zu bekämpfen, die Verbraucher irreführen und verhindern, dass sie nachhaltige Konsumentscheidungen treffen, beispielsweise Praktiken in Verbindung mit der frühzeitigen Obsoleszenz von Waren und irreführenden Umweltaussagen, irreführende Informationen über die sozialen Merkmale von Produkten oder der Geschäftstätigkeit von Gewerbetreibenden oder nicht transparente und nicht glaubwürdige Nachhaltigkeitssiegel. Diese Vorschriften werden es den zuständigen nationalen Stellen ermöglichen, solche Praktiken wirksam anzugehen. Wird sichergestellt, dass die Umweltaussagen korrekt, verständlich und verlässlich sind, werden dadurch gleiche Ausgangsbedingungen für Gewerbetreibende geschaffen und Verbraucher in die Lage versetzt, Produkte zu wählen, die tatsächlich besser für die Umwelt sind als konkurrierende Produkte. Dadurch wird der Wettbewerb gefördert, was zu ökologisch nachhaltigeren Produkten führt und damit die negativen Auswirkungen auf die Umwelt verringert.
 
 (2)
 
-Kollidiert eine Bestimmung dieser Richtlinie mit einer Bestimmung eines anderen Unionsrechtsakts, der spezifische Sektoren regelt, so hat die Bestimmung dieses anderen Unionsrechtsakts Vorrang und findet auf diese spezifischen Sektoren Anwendung.
+Diese neuen Vorschriften sollten durch eine Änderung der Artikel 6 und 7 der Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates
+(
+3
+)
+in Bezug auf Geschäftspraktiken, die auf der Grundlage einer Einzelfallbewertung als irreführend gelten und daher verboten sind, und durch eine Änderung des Anhangs I der Richtlinie 2005/29/EG mit der Aufnahme spezifischer irreführender Praktiken, die unter allen Umständen als unlauter gelten und deshalb verboten sind, eingeführt werden. In Übereinstimmung mit der Richtlinie 2005/29/EG sollte eine Geschäftspraktik auch weiterhin auf der Grundlage der Artikel 5 bis 9 jener Richtlinie als unlauter gelten können, auch wenn diese Geschäftspraktik nicht als unlautere Geschäftspraktik in Anhang I der Richtlinie 2005/29/EG aufgeführt ist.
 
 (3)
 
-Diese Richtlinie gilt nicht für Verträge
-
-a)
-
-über soziale Dienstleistungen, einschließlich der Bereitstellung und Vermietung von Sozialwohnungen, der Kinderbetreuung oder der Unterstützung von dauerhaft oder vorübergehend hilfsbedürftigen Familien oder Personen, einschließlich Langzeitpflege;
-
-b)
-
-über Gesundheitsdienstleistungen gemäß Artikel 3 Buchstabe a der Richtlinie 2011/24/EU, unabhängig davon, ob sie von einer Einrichtung des Gesundheitswesens erbracht werden;
-
-c)
-
-über Glücksspiele, die einen geldwerten Einsatz verlangen, einschließlich Lotterien, Glücksspiele in Spielkasinos und Wetten;
-
-▼M3
-
-d)
-
-über Finanzdienstleistungen, die nicht unter Artikel 3 Absatz 1b fallen;
-
-▼B
-
-e)
-
-über die Begründung, den Erwerb oder die Übertragung von Eigentum oder anderen Rechten an Immobilien;
-
-f)
-
-über den Bau von neuen Gebäuden, erhebliche Umbaumaßnahmen an bestehenden Gebäuden oder die Vermietung von Wohnraum;
-
-▼M1
-
-g)
-
-über Pauschalreisen im Sinne des Artikels 3 Nummer 2 der Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates (
-
-4
-
-).
-
-Artikel 6 Absatz 7, Artikel 8 Absätze 2 und 6 und Artikel 19, Artikel 21 und Artikel 22 der vorliegenden Richtlinie gelten für Pauschalreisen im Sinne des Artikels 3 Nummer 2 der Richtlinie (EU) 2015/2302 in Bezug auf Reisende im Sinne des Artikels 3 Nummer 6 der genannten Richtlinie entsprechend;
-
-▼B
-
-h)
-
-die in den Geltungsbereich der Richtlinie 2008/122/EG des Europäischen Parlaments und des Rates vom 14. Januar 2009 über den Schutz der Verbraucher im Hinblick auf bestimmte Aspekte von Teilzeitnutzungsverträgen, Verträgen über langfristige Urlaubsprodukte sowie Wiederverkaufs- und Tauschverträgen (
-
-5
-
-) fallen;
-
-i)
-
-die nach dem Recht der Mitgliedstaaten vor einem öffentlichen Amtsträger geschlossen werden, der gesetzlich zur Unabhängigkeit und Unparteilichkeit verpflichtet ist und durch umfassende rechtliche Aufklärung sicherzustellen hat, dass der Verbraucher den Vertrag nur aufgrund gründlicher rechtlicher Prüfung und in Kenntnis seiner rechtlichen Tragweite abschließt;
-
-j)
-
-über die Lieferung von Lebensmitteln, Getränken oder sonstigen Haushaltsgegenständen des täglichen Bedarfs, die am Wohnsitz, am Aufenthaltsort oder am Arbeitsplatz eines Verbrauchers von einem Unternehmer im Rahmen häufiger und regelmäßiger Fahrten geliefert werden;
-
-▼M2
-
-k)
-
-über die Beförderung von Personen mit Ausnahme des Artikels 8 Absatz 2 und der Artikel 19, 21 und 22;
-
-▼B
-
-l)
-
-die unter Verwendung von Warenautomaten oder automatisierten Geschäftsräumen geschlossen werden;
-
-m)
-
-die mit Betreibern von Telekommunikationsmitteln mit Hilfe öffentlicher Fernsprecher zu deren Nutzung geschlossen werden oder die zur Nutzung einer einzelnen von einem Verbraucher hergestellten Telefon-, Internet- oder Faxverbindung geschlossen werden;
-
-▼M2
-
-n)
-
-über alle Waren, die aufgrund von Zwangsvollstreckungsmaßnahmen oder anderen gerichtlichen Maßnahmen verkauft werden.
-
-▼B
+Damit Verbraucher besser informierte Entscheidungen treffen können und so die Nachfrage nach und das Angebot von nachhaltigeren Waren angekurbelt werden, sollten Verbraucher durch die allgemeine Präsentation eines Produkts nicht hinsichtlich der ökologischen oder sozialen Merkmale oder der Zirkularitätsaspekte, etwa der Haltbarkeit, der Reparierbarkeit oder der Recyclingfähigkeit, in die Irre geführt werden. Artikel 6 Absatz 1 der Richtlinie 2005/29/EG sollte daher geändert werden, indem ökologische und soziale Merkmale sowie Zirkularitätsaspekte in die Liste der wesentlichen Merkmale eines Produkts aufgenommen werden, in Bezug auf die die Praktiken eines Gewerbetreibenden auf der Grundlage einer Einzelfallprüfung als irreführend angesehen werden könnten. Die von Gewerbetreibenden bereitgestellten Informationen über die sozialen Merkmale eines Produkts entlang der gesamten Wertschöpfungskette können sich beispielsweise auf die Qualität und Gerechtigkeit der Arbeitsbedingungen der beteiligten Arbeitskräfte, wie beispielsweise angemessene Löhne, Sozialschutz, Sicherheit des Arbeitsumfelds und sozialer Dialog beziehen. Diese Informationen können sich auch auf die Achtung der Menschenrechte, die Gleichbehandlung und Chancengleichheit für alle, einschließlich der Gleichstellung der Geschlechter, Inklusion und Vielfalt, sowie auf Beiträge zu sozialen Initiativen oder auf ethische Verpflichtungen wie den Tierschutz beziehen. Die ökologischen und sozialen Merkmale eines Produkts können in einem weiten Sinne verstanden werden und umfassen die ökologischen und sozialen Aspekte, Auswirkungen und Leistungen eines Produkts.
 
 (4)
 
-Die Mitgliedstaaten können beschließen, diese Richtlinie auf außerhalb von Geschäftsräumen geschlossene Verträge, bei denen die vom Verbraucher zu zahlende Gegenleistung 50 EUR nicht überschreitet, nicht anzuwenden und keine entsprechenden nationalen Bestimmungen aufrechtzuerhalten oder einzuführen. Die Mitgliedstaaten können in den nationalen Rechtsvorschriften einen niedrigeren Schwellenwert festsetzen.
+Umweltaussagen, insbesondere klimabezogene Aussagen, beziehen sich zunehmend auf die künftige Leistung in der Form eines Übergangs zu CO
+2
+- oder Klimaneutralität oder eines ähnlichen Ziels bis zu einem bestimmten Datum. Durch diese Aussagen schaffen Gewerbetreibende den Eindruck, dass Verbraucher durch den Kauf ihrer Produkte zu einer CO
+2
+-armen Wirtschaft beitragen. Um die Lauterkeit und Glaubwürdigkeit dieser Aussagen sicherzustellen, sollte Artikel 6 Absatz 2 der Richtlinie 2005/29/EG geändert werden, um solche Aussagen nach einer Einzelfallbewertung zu verbieten, wenn sie nicht durch vom Gewerbetreibenden vorgegebene, klare, objektive, öffentlich zugängliche und überprüfbare Verpflichtungen und Ziele gestützt werden, die in einem ausführlichen und realistischen Umsetzungsplan enthalten sind, aus dem hervorgeht, wie diese Verpflichtungen und Ziele erreicht werden, und in dem eine entsprechende Mittelzuweisung vorgesehen ist. Dieser Umsetzungsplan sollte im Einklang mit dem Unionsrecht gegebenenfalls alle relevanten Aspekte enthalten, die für die Erfüllung der Verpflichtungen erforderlich sind, etwa die finanziellen Mittel und technologische Entwicklungen. Diese Aussagen sollten auch von einem externen Sachverständigen überprüft werden, der vom Gewerbetreibenden unabhängig und nicht von Interessenkonflikten betroffen ist, über Erfahrungen und Kompetenzen in Umweltfragen verfügt und in der Lage sein sollte, den Fortschritt des Gewerbetreibenden hinsichtlich der Verpflichtungen und Ziele, einschließlich der Etappenziele für deren Erreichung, regelmäßig zu überwachen. Gewerbetreibende sollten sicherstellen, dass die Ergebnisse der regelmäßigen Überprüfungen des externen Sachverständigen den Verbrauchern zur Verfügung stehen.
 
 (5)
 
-Diese Richtlinie lässt das allgemeine innerstaatliche Vertragsrecht wie die Bestimmungen über die Wirksamkeit, das Zustandekommen oder die Wirkungen eines Vertrags, soweit Aspekte des allgemeinen Vertragsrechts in dieser Richtlinie nicht geregelt werden, unberührt.
+Eine weitere möglicherweise irreführende Geschäftspraktik, die in die spezifischen Praktiken in Artikel 6 Absatz 2 der Richtlinie 2005/29/EG aufzunehmen ist, ist die Werbung mit Vorteilen für Verbraucher, die irrelevant sind und nicht unmittelbar mit einem Merkmal des jeweiligen Produkts oder der jeweiligen Geschäftstätigkeit zusammenhängen und Verbraucher zu der falschen Annahme führen könnten, dass diese Produkte oder Geschäftstätigkeiten für Verbraucher, die Umwelt oder die Gesellschaft vorteilhafter sind als andere Produkte oder Geschäftstätigkeiten derselben Art, beispielsweise indem behauptet wird, dass eine bestimmte Marke von abgefülltem Wasser glutenfrei ist oder dass Papierblätter keinen Kunststoff enthalten.
 
 (6)
 
-Diese Richtlinie hindert Unternehmer nicht daran, Verbrauchern Vertragsbedingungen anzubieten, die über den in dieser Richtlinie vorgesehenen Schutz hinausgehen.
+Der Vergleich von Produkten auf der Grundlage ihrer ökologischen oder sozialen Merkmale oder Zirkularitätsaspekte, wie der Haltbarkeit, der Reparierbarkeit oder der Recyclingfähigkeit, ist eine zunehmend verbreitete Vermarktungstechnik, die für Verbraucher, die die Verlässlichkeit dieser Informationen nicht immer bewerten können, irreführend sein kann. Um sicherzustellen, dass Verbraucher durch diese Vergleiche nicht in die Irre geführt werden, sollte Artikel 7 der Richtlinie 2005/29/EG dahingehend geändert werden, dass Gewerbetreibende verpflichtet werden, Verbrauchern Informationen über die Vergleichsmethode, die Produkte, die Gegenstand des Vergleichs sind, und die Lieferanten dieser Produkte sowie die Maßnahmen, die ergriffen werden, um die Informationen auf dem neuesten Stand zu halten, bereitzustellen. Damit sollte sichergestellt werden, dass Verbraucher besser informierte geschäftliche Entscheidungen treffen können, wenn sie sich auf solche Vergleiche verlassen. Es sollte sichergestellt werden, dass, solche Vergleiche objektiv sind, insbesondere durch den Vergleich von Produkten, die die gleiche Funktion erfüllen, unter Anwendung einer einheitlichen Methode und einheitlicher Annahmen, sowie durch den Vergleich des Materials und überprüfbarer Merkmale der Produkte, die verglichen werden.
 
-Artikel 4
+(7)
 
-Grad der Harmonisierung
+Nachhaltigkeitssiegel können sich auf viele Merkmale eines Produkts, eines Verfahrens oder einer Geschäftstätigkeit beziehen, und es ist äußerst wichtig, für ihre Transparenz und Glaubwürdigkeit zu sorgen. Das Anbringen von Nachhaltigkeitssiegeln, die nicht auf einem Zertifizierungssystem beruhen oder nicht von staatlichen Stellen festgesetzt wurden, sollte daher verboten werden, indem diese Praktiken in die Liste in Anhang I der Richtlinie 2005/29/EG aufgenommen werden. Vor dem Anbringen eines Nachhaltigkeitssiegels sollte der Gewerbetreibende sicherstellen, dass es gemäß den öffentlich einsehbaren Bedingungen des Zertifizierungssystems Mindestanforderungen hinsichtlich Transparenz und Glaubwürdigkeit erfüllt, einschließlich einer objektiven Überwachung der Einhaltung der Anforderungen des Systems. Diese Überwachung sollte von einem Dritten durchgeführt werden, dessen Kompetenz und Unabhängigkeit sowohl vom Systeminhaber als auch von dem Gewerbetreibenden auf der Grundlage internationaler, unionsweiter oder nationaler Normen und Verfahren sichergestellt ist, beispielsweise durch den Nachweis der Einhaltung einschlägiger internationaler Normen wie der Norm ISO 17065 „Konformitätsbewertung — Anforderungen an Stellen, die Produkte, Prozesse und Dienstleistungen zertifizieren“ oder durch die in der Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates
+(
+4
+)
+vorgesehenen Mechanismen. Das Anbringen von Nachhaltigkeitssiegeln bleibt ohne Zertifizierungssystem möglich, wenn diese Siegel von einer staatlichen Stelle festgesetzt wurden, oder wenn zusätzliche Formen der Angabe und Aufmachung von Lebensmitteln nach Artikel 35 der Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates
+(
+5
+)
+verwendet werden.
 
-Sofern diese Richtlinie nichts anderes bestimmt, erhalten die Mitgliedstaaten weder von den Bestimmungen dieser Richtlinie abweichende innerstaatliche Rechtsvorschriften aufrecht noch führen sie solche ein; dies gilt auch für strengere oder weniger strenge Rechtsvorschriften zur Gewährleistung eines anderen Verbraucherschutzniveaus.
+Beispiele für von staatlichen Stellen festgesetzte Nachhaltigkeitssiegel sind Logos, die vergeben werden, wenn die Anforderungen der Verordnungen (EG) Nr. 1221/2009
+(
+6
+)
+oder (EG) Nr. 66/2010
+(
+7
+)
+des Europäischen Parlaments und des Rates eingehalten werden. Auch einige Gewährleistungsmarken im Sinne von Artikel 27 der Richtlinie (EU) 2015/2436 des Europäischen Parlaments und des Rates
+(
+8
+)
+können als Nachhaltigkeitssiegel dienen, wenn sie ein Produkt, ein Verfahren oder eine Geschäftstätigkeit etwa in Bezug auf die ökologischen und/oder sozialen Merkmale bewerben. Der Gewerbetreibende sollte solche Gewährleistungsmarken nur dann anbringen können, wenn sie von staatlichen Stellen festgesetzt wurden oder auf einem Zertifizierungssystem beruhen. Diese Vorschrift ergänzt Anhang I Nummer 4 der Richtlinie 2005/29/EG, wonach es verboten ist, zu behaupten, dass ein Gewerbetreibender, dessen Geschäftspraktiken oder ein Produkt von einer öffentlichen oder privaten Stelle bestätigt, gebilligt oder genehmigt worden seien, obwohl dies nicht der Fall ist, oder eine solche Behauptung aufzustellen, ohne dass den Bedingungen für die Bestätigung, Billigung oder Genehmigung entsprochen wird. Freiwillige marktbasierte Standards und freiwillige öffentliche Standards für grüne und nachhaltige Anleihen richten sich nicht in erster Linie an Kleinanleger und unterliegen speziellem Recht. Aus diesen Gründen sollten diese Standards nicht als Nachhaltigkeitssiegel im Sinne dieser Richtlinie gelten. Es ist wichtig, dass die staatlichen Stellen im Rahmen des Möglichen und im Einklang mit dem Unionsrecht Maßnahmen fördern, um kleinen und mittleren Unternehmen den Zugang zu Nachhaltigkeitssiegeln zu erleichtern.
 
-KAPITEL II
+(8)
 
-INFORMATION DER VERBRAUCHER BEI ANDEREN ALS FERNABSATZVERTRÄGEN ODER AUSSERHALB VON GESCHÄFTSRÄUMEN GESCHLOSSENEN VERTRÄGEN
+In Fällen, in denen das Anbringen eines Nachhaltigkeitssiegels mit einer kommerziellen Kommunikation verbunden ist, mit der suggeriert oder der Eindruck erweckt wird, dass ein Produkt positive oder keinerlei Auswirkungen auf die Umwelt hat oder weniger umweltschädlich ist als konkurrierende Produkte, sollte dieses Nachhaltigkeitssiegel auch als eine Umweltaussage angesehen werden.
 
-Artikel 5
+(9)
 
-Informationspflichten bei anderen als Fernabsatzverträgen oder außerhalb von Geschäftsräumen geschlossenen Verträgen
+Anhang I der Richtlinie 2005/29/EG sollte darüber hinaus dahingehend geändert werden, dass allgemeine Umweltaussagen ohne eine anerkannte hervorragende Umweltleistung, auf die sich die Aussage bezieht, verboten werden. Beispiele allgemeiner Umweltaussagen umfassen „umweltfreundlich“, „umweltschonend“, „grün“, „naturfreundlich“, „ökologisch“, „umweltgerecht“, „klimafreundlich“, „umweltverträglich“, „CO
+2
+-freundlich“, „energieeffizient“„biologisch abbaubar“, „biobasiert“ oder ähnliche Aussagen, mit denen eine hervorragende Umweltleistung suggeriert wird oder die diesen Eindruck entstehen lassen. Diese allgemeinen Umweltaussagen sollten verboten werden, wenn eine anerkannte hervorragende Umweltleistung nicht nachgewiesen werden kann. Wenn die Spezifizierung der Umweltaussage auf demselben Medium klar und in hervorgehobener Weise angegeben ist, beispielsweise im selben Fernseh- oder Radiowerbespot, auf der Produktverpackung oder auf der Online-Verkaufsoberfläche, gilt die Umweltaussage nicht als allgemeine Umweltaussage. Zum Beispiel wäre die Aussage „klimafreundliche Verpackungen“ eine allgemeine Aussage, während die Aussage „100 % der für die Herstellung dieser Verpackungen verwendeten Energie stammen aus erneuerbaren Quellen“ eine spezifische Aussage ist, die unbeschadet anderer Bestimmungen der Richtlinie 2005/29/EG, die für diese spezifischen Aussagen weiterhin gelten, nicht unter dieses Verbot fallen würde. Darüber hinaus könnte eine schriftliche oder mündliche Aussage in Kombination mit impliziten Aussagen wie Farben oder Bildern eine allgemeine Umweltaussage darstellen.
 
-(1)
+(10)
 
-Bevor der Verbraucher durch einen anderen als einen Fernabsatzvertrag oder einen außerhalb von Geschäftsräumen geschlossenen Vertrag oder ein entsprechendes Vertragsangebot gebunden ist, informiert der Unternehmer den Verbraucher in klarer und verständlicher Weise über Folgendes, sofern sich diese Informationen nicht bereits unmittelbar aus den Umständen ergeben:
+Eine anerkannte hervorragende Umweltleistung kann durch die Einhaltung der Verordnung (EG) Nr. 66/2010 oder der staatlich anerkannten Systeme für Umweltkennzeichnung nach EN ISO 14024 in den Mitgliedstaaten oder durch ein Entsprechen mit Umwelthöchstleistungen für ein bestimmtes ökologisches Merkmal nach anderem gültigen Unionsrecht nachgewiesen werden, beispielsweise Klasse A im Sinne der Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates
+(
+9
+)
+. Die betreffende anerkannte hervorragende Umweltleistung sollte sich auf die gesamte Aussage beziehen. Beispielsweise könnte eine allgemeine Umweltaussage wie „energieeffizient“ auf der Grundlage einer anerkannten hervorragenden Umweltleistung nach der Verordnung (EU) 2017/1369 getroffen werden. Im Gegensatz dazu könnte eine allgemeine Umweltaussage wie „biologisch abbaubar“ nicht auf der Grundlage einer anerkannten hervorragenden Umweltleistung nach der Verordnung (EG) Nr. 66/2010 getroffen werden, soweit in den spezifischen Kriterien für das EU-Umweltzeichen keine Anforderungen der biologischen Abbaubarkeit für das betreffende Produkt festgelegt sind. Ebenso sollte ein Gewerbetreibender keine allgemeinen Aussagen wie „bewusst“, „nachhaltig“ oder „verantwortungsbewusst“ machen, die ausschließlich auf einer anerkannten hervorragenden Umweltleistung beruhen, da sich derartige Aussagen neben den Umweltmerkmalen auch auf andere Merkmale wie soziale Merkmale beziehen.
+
+(11)
+
+Eine weitere irreführende Geschäftspraktik, die unter allen Umständen verboten werden und deshalb in die Liste in Anhang I der Richtlinie 2005/29/EG aufgenommen werden sollte, ist das Treffen einer Umweltaussage zum gesamten Produkt oder zur gesamten Geschäftstätigkeit des Gewerbetreibenden, wenn sie sich tatsächlich nur auf einen bestimmten Aspekt des Produkts oder einen konkreten, nicht repräsentativen Teil der Geschäftstätigkeit des Gewerbetreibenden bezieht. Dieses Verbot fände beispielsweise Anwendung, wenn ein Produkt als „mit Recyclingmaterial hergestellt“ vermarktet wird, um den Eindruck zu erwecken, dass das gesamte Produkt aus Recyclingmaterial besteht, obwohl tatsächlich nur die Verpackung aus Recyclingmaterial besteht, oder wenn ein Gewerbetreibender den Eindruck erweckt, dass er ausschließlich Energie aus erneuerbaren Quellen nutzt, obwohl für zahlreiche seiner Anlagen nach wie vor fossile Brennstoffe genutzt werden. Dementsprechend sollte das Verbot einen Gewerbetreibenden nicht daran hindern, Umweltaussagen in Bezug auf seine gesamte Geschäftstätigkeit zu machen“ sofern diese Aussagen genau und überprüfbar sind und den Nutzen für die Umwelt nicht übertrieben darstellen, was im zweiten dieser Beispiele der Fall wäre, würde der Händler für seine gesamte Geschäftstätigkeit einen Rückgang der Nutzung fossiler Brennstoffe melden.
+
+(12)
+
+Es ist besonders wichtig, Aussagen zu verbieten, die sich auf der Kompensation von Treibhausgasemissionen begründen und wonach ein Produkt, also entweder eine Ware oder eine Dienstleistung, hinsichtlich der Treibhausgasemissionen neutrale, verringerte oder positive Auswirkungen auf die Umwelt hat. Solche Aussagen sollten unter allen Umständen verboten und in die Liste in Anhang I der Richtlinie 2005/29/EG aufgenommen werden, da Verbraucher in die Irre geführt werden, indem ihnen suggeriert wird, dass sich diese Aussagen auf das Produkt selbst oder auf die Bereitstellung und Herstellung dieses Produkts beziehen, oder indem bei Verbrauchern der falsche Eindruck erweckt wird, dass der Verbrauch dieses Produkts keine Auswirkungen auf die Umwelt habe. Beispiele solcher Aussagen sind „klimaneutral“, „zertifiziert CO
+2
+-neutral“, „CO
+2
+-positiv“, „mit Klimaausgleich“, „klimaschonend“ und „mit reduziertem CO
+2
+-Fußabdruck“. Solche Aussagen sollten nur zulässig sein, wenn sie auf den tatsächlichen Auswirkungen auf den Lebenszyklus des betreffenden Produkts beruhen und sich nicht auf die Kompensation von Treibhausgasemissionen außerhalb der Wertschöpfungskette des Produkts beziehen, da Ersteres und Letzteres nicht gleichwertig ist. Ein solches Verbot sollte Unternehmen nicht daran hindern, für ihre Investitionen in Umweltinitiativen, etwa in Projekte für Emissionsgutschriften, zu werben, sofern sie diese Informationen in einer Weise bereitstellen, die nicht irreführend ist und den Anforderungen des Unionsrechts genügt.
+
+(13)
+
+Zusätzliche Anforderungen an Umweltaussagen müssen in spezifischen Rechtsakten der Union festgelegt werden. Diese neuen Anforderungen tragen zum Ziel der Mitteilung der Kommission vom 11. Dezember 2019 über den europäischen Grünen Deal bei, die Käufer in die Lage zu versetzen, nachhaltigere Entscheidungen zu treffen, und das Risiko der Grünfärberei durch zuverlässige, vergleichbare und überprüfbare Informationen zu verringern.
+
+(14)
+
+Die mitgliedstaatenübergreifende Vermarktung von Waren als identische Waren, obgleich diese sich in Wirklichkeit in ihrer Zusammensetzung oder ihren Merkmalen wesentlich voneinander unterscheiden, könnte für Verbraucher irreführend sein und sie zu einer geschäftlichen Entscheidung veranlassen, die sie ansonsten nicht getroffen hätten. Solche Vermarktungspraktiken werden ausdrücklich in Artikel 6 Absatz 2 Buchstabe c der Richtlinie 2005/29/EG behandelt, der mit der Richtlinie (EU) 2019/2161 des Europäischen Parlaments und des Rates
+(
+10
+)
+eingeführt wurde, die die Mitgliedstaaten ab dem 28. Mai 2022 anwenden müssen. Die Kommission wird die Anwendung der Richtlinie (EU) 2019/2161, einschließlich Artikel 6 Absatz 2 Buchstabe c der Richtlinie 2005/29/EG, im Jahr 2024 bewerten und über die Anwendung sowie darüber Bericht erstatten, ob diese Praktiken strengeren Anforderungen, einschließlich eines Verbots nach Anhang I, unterliegen sollten. Die neuen Bestimmungen dieser Richtlinie gegen Grünfärberei sollten auch für Praktiken gelten, bei denen Varianten desselben Produkts in verschiedenen Mitgliedstaaten trotz erheblicher Unterschiede gemäß Artikel 6 Absatz 2 Buchstabe c der Richtlinie 2005/29/EG als identische Produkte vermarktet werden.
+
+(15)
+
+Die Präsentation von Anforderungen, die für alle Produkte in der entsprechenden Produktkategorie, einschließlich eingeführter Produkte, nach Unionsrecht gesetzlich vorgeschrieben sind, als Besonderheit des Angebots des Gewerbetreibenden, sollte in Anhang I der Richtlinie 2005/29/EG unter allen Umständen verboten und daher in die Liste in diesem Anhang aufgenommen werden. Das Verbot sollte zum Beispiel gelten, wenn ein Gewerbetreibender damit werben, dass ein bestimmtes Produkt einen bestimmten chemischen Stoff nicht enthält, wenn dieser Stoff bereits für alle Produkte innerhalb dieser Produktkategorie in der Union gesetzlich verboten ist. Andererseits sollte das Verbot nicht für Geschäftspraktiken gelten, im Rahmen derer die Einhaltung der gesetzlichen Vorschriften durch Gewerbetreibenden oder die Produkte beworben wird, die nur für einige Produkte gelten, jedoch nicht für andere konkurrierende Produkte in derselben Kategorie auf dem Unionsmarkt, beispielsweise Produkte mit Ursprung außerhalb der Union. Es könnte vorkommen, dass bestimmte Produkte auf dem Markt bestimmte rechtliche Anforderungen erfüllen müssen, während andere Produkte derselben Produktkategorie diese Anforderungen nicht erfüllen müssen. So dürften beispielsweise für Fischereierzeugnisse, die im Einklang mit dem Unionsrecht nachhaltig produziert wurden, die Nachhaltigkeitsmerkmale derjenigen Produkte beworben werden, die den Anforderungen des Unionsrechts entsprechen, sofern Fischereierzeugnisse aus Drittstaaten, die auf dem Unionsmarkt angeboten werden, diese Anforderungen des Unionsrechts nicht erfüllen müssen.
+
+(16)
+
+Um das Verbraucherwohl zu verbessern, sollten die Änderungen der Richtlinie 2005/29/EG auch mehrere Praktiken hinsichtlich frühzeitiger Obsoleszenz betreffen, einschließlich geplanter frühzeitiger Obsoleszenz — eine Geschäftspraktik, bei der ein Produkt vorsätzlich mit einer begrenzten Lebensdauer geplant oder konzipiert wird, sodass es nach einem bestimmten Zeitraum oder einer vorgegebenen Intensität der Verwendung veraltet ist oder nicht mehr funktioniert. Durch den Kauf von Produkten, bei denen erwartet wird, dass sie länger halten als dies tatsächlich der Fall ist, entsteht ein Nachteil für Verbraucher. Zudem wirkt sich die frühzeitige Obsoleszenz durch erhöhte Abfallmengen und die stärkere Nutzung von Energie und Material insgesamt nachteilig auf die Umwelt aus. Daher dürften Informationen über Praktiken hinsichtlich frühzeitiger Obsoleszenz ebenfalls die Abfallmengen verringern und so zu einem nachhaltigeren Konsum beitragen.
+
+(17)
+
+Es sollte gemäß Anhang I der Richtlinie 2005/29/EG auch verboten sein, Verbrauchern Informationen darüber zurückzuhalten, dass sich eine Softwareaktualisierung negativ auf das Funktionieren von Waren mit digitalen Elementen oder die Nutzung digitaler Inhalte oder digitaler Dienstleistungen auswirkt. Im Allgemeinen ist davon auszugehen, dass Gewerbetreibende, die für die Entwicklung von Softwareaktualisierungen verantwortlich sind, über derartige Informationen verfügen, während sich Gewerbetreibende in anderen Fällen auf zuverlässige Informationen verlassen können, die beispielsweise von Softwareentwicklern, Lieferanten oder zuständigen nationalen Behörden bereitgestellt werden. Wenn ein Gewerbetreibender zum Beispiel Verbraucher auffordert, das Betriebssystem ihres Smartphones zu aktualisieren, sollte er Verbrauchern nicht Informationen zurückhalten, dass sich diese Aktualisierung negativ auf die Funktionsweise anderer Merkmale des Smartphones auswirken wird, etwa auf die Batterie, die Leistung bestimmter Anwendungen oder in Form einer allgemeinen Verlangsamung des Smartphones. Das Verbot sollte für alle Aktualisierungen gelten, einschließlich Sicherheits- und Funktionsaktualisierungen. Für Aktualisierungen, einschließlich Sicherheitsaktualisierungen, die für den Erhalt der Vertragsmäßigkeit der Waren, digitalen Inhalte und digitalen Dienstleistungen erforderlich sind, sollten auch Artikel 8 der Richtlinie (EU) 2019/770 des Europäischen Parlaments und des Rates
+(
+11
+)
+und Artikel 7 der Richtlinie (EU) 2019/771 des Europäischen Parlaments und des Rates
+(
+12
+)
+gelten. Dies gilt unbeschadet des Artikels 19 der Richtlinie (EU) 2019/770.
+
+(18)
+
+Softwareaktualisierungen, bei denen es sich um Sicherheitsaktualisierungen handelt, sind für die sichere Nutzung des Produkts erforderlich, während das bei Aktualisierungen im Zusammenhang mit der Verbesserung der Funktionalitätsmerkmale nicht der Fall ist. Daher sollte es mit der Richtlinie 2005/29/EG verboten werden, eine Softwareaktualisierung als für den Erhalt der Vertragsmäßigkeit erforderlich darzustellen, wenn die Aktualisierung nur der Verbesserung der Funktionalitätsmerkmale dient.
+
+(19)
+
+Bei der kommerziellen Kommunikation über Waren, die ein zur Begrenzung ihrer Haltbarkeit eingeführtes Merkmal enthalten, handelt es sich um eine Geschäftspraktik, die Verbrauchern und der Umwelt schadet, da dadurch der Verkauf derartiger Waren gefördert wird, was Verbrauchern höhere Kosten verursacht und unnötigen Ressourcenverbrauch, unnötige Abfallerzeugung und unnötige Treibhausgasemissionen zur Folge hat. Eine derartige kommerzielle Kommunikation sollte daher verboten werden, wenn dem Gewerbetreibenden Informationen über das Merkmal und seine Auswirkungen auf die Haltbarkeit der Ware zur Verfügung stehen. Bei solchen Merkmalen könnte es sich zum Beispiel um Software handeln, die die Funktionalität der Ware nach einem bestimmten Zeitraum stoppt oder herabstuft, oder um eine Hardware, die so konzipiert ist, dass sie nach einem bestimmten Zeitraum ausfällt. Es könnte sich auch um einen Konstruktions- oder Herstellungsfehler handeln, der zwar nicht zu diesem Zweck als Merkmal eingeführt wurde, aber zu einem verfrühten Ausfall der Ware führt, wenn er nicht behoben wird, sobald dem Gewerbetreibenden Informationen über das Bestehen und die Auswirkungen des Merkmals zur Verfügung stehen. Im Zusammenhang mit diesem Verbot umfasst die kommerzielle Kommunikation Mitteilungen, die der unmittelbaren oder mittelbaren Bewerbung der Ware dienen. Die Herstellung und Bereitstellung von Waren auf dem Markt stellen keine kommerzielle Kommunikation dar. Dieses Verbot sollte hauptsächlich auf Gewerbetreibende abzielen, die auch die Hersteller der Waren sind, da sie die Haltbarkeit der Waren bestimmen.
+
+Wenn daher festgestellt wird, dass eine Ware ein Merkmal zur Begrenzung der Haltbarkeit enthält, sollte im Allgemeinen davon ausgegangen werden, dass sich der Hersteller dieser Ware dieses Merkmals und seiner Auswirkungen auf die Haltbarkeit der Ware bewusst ist. Dennoch sollten Gewerbetreibende, die nicht Hersteller der Waren sind, etwa Verkäufer, von dieser Bestimmung erfasst werden, wenn ihnen zuverlässige Informationen über das Merkmal und seine Auswirkungen auf die Haltbarkeit zur Verfügung stehen, wie z. B. eine Erklärung einer zuständigen nationalen Behörde oder Informationen des Herstellers. Sobald dem Gewerbetreibenden derartige Informationen zur Verfügung stehen, sollte das Verbot daher unabhängig davon gelten, ob dem Gewerbetreibenden diese Informationen tatsächlich bekannt sind oder nicht, weil sie sie beispielsweise ignoriert haben. Damit eine derartige Geschäftspraktik als unlauter gilt, sollte nicht nachgewiesen werden müssen, dass der Zweck des Merkmals darin besteht, den Ersatz der betreffenden Ware zu fördern, sondern es sollte ausreichend sein, nachzuweisen, dass das Merkmal eingeführt wurde, um die Haltbarkeit der Ware zu begrenzen. Dieses Verbot ergänzt die Verbrauchern zur Verfügung stehenden Abhilfen und lässt diese im Falle einer Vertragswidrigkeit nach der Richtlinie (EU) 2019/771 unberührt. Die Verwendung von Merkmalen, durch die die Haltbarkeit der Waren begrenzt wird, sollte von Herstellungspraktiken, bei denen Stoffe oder Verfahren von allgemein schlechter Qualität verwendet werden und die zu der begrenzten Haltbarkeit der Waren führen, unterschieden werden. Für die Vertragswidrigkeit einer Ware infolge der Verwendung von minderwertigen Stoffen oder Verfahren sollten weiterhin die in der Richtlinie (EU) 2019/771 festgelegten Vorschriften über die Vertragsmäßigkeit der Waren gelten.
+
+(20)
+
+Eine weitere Praktik, die nach Anhang I der Richtlinie 2005/29/EG verboten werden sollte, ist die falsche Behauptung, dass eine Ware in Bezug auf die Nutzungsdauer oder -intensität bei normalen Nutzungsbedingungen eine bestimmte Haltbarkeit aufweist. Das wäre der Fall, wenn zum Beispiel ein Gewerbetreibender Verbraucher darüber informiert, dass eine Waschmaschine bei normalem Gebrauch gemäß der Gebrauchsanweisung voraussichtlich für eine bestimmte Anzahl von Waschgängen halten wird, obwohl dies bei der tatsächlichen Verwendung der Waschmaschine unter den vorgegebenen Bedingungen nicht der Fall ist. Solche Behauptungen werden weitgehend von den Herstellern vorgebracht, da sie die Haltbarkeit der Waren bestimmen. Daher wird von Gewerbetreibenden, die auch die Hersteller der Waren sind, davon ausgegangen, dass ihnen falsche Behauptungen über die Haltbarkeit der Waren bekannt sind, während sich andere Gewerbetreibende wie Verkäufer auf zuverlässige Informationen verlassen sollten, die ihnen zur Verfügung stehen, z. B. auf der Grundlage einer Erklärung einer zuständigen nationalen Behörde oder von Informationen des Herstellers. Für die Vertragswidrigkeit von Waren aufgrund gelegentlicher Fehler bei der Herstellung der Waren sollten weiterhin die in der Richtlinie (EU) 2019/771 festgelegten Vorschriften über die Vertragsmäßigkeit der Waren gelten.
+
+(21)
+
+Ebenso sollte Anhang I der Richtlinie 2005/29/EG dahingehend geändert werden, dass die Präsentation von Produkten als reparierbar verboten ist, wenn eine solche Reparatur nicht möglich ist.
+
+(22)
+
+Das Verbot dieser Praktiken hinsichtlich Haltbarkeit und Reparierbarkeit in der Richtlinie 2005/29/EG würde den Verbraucherschutzbehörden der Mitgliedstaaten ein zusätzliches Durchsetzungsinstrument für den besseren Schutz der Interessen von Verbrauchern in den Fällen bieten, in denen Gewerbetreibenden die Anforderungen hinsichtlich Haltbarkeit und Reparierbarkeit von Waren nach dem produktspezifischem Unionsrecht nicht einhalten.
+
+(23)
+
+Eine weitere Praktik hinsichtlich frühzeitiger Obsoleszenz, die in Anhang I der Richtlinie 2005/29/EG verboten und in die Liste in diesem Anhang aufgenommen werden sollte, ist das Veranlassen von Verbrauchern, die Betriebsstoffe von Produkten früher zu ersetzen oder aufzufüllen, als dies aus technischen Gründen notwendig wäre. Diese Praktik verleitet Verbraucher zu der irrigen Annahme, dass die Waren nur weiter funktionieren werden, wenn ihre Betriebsstoffe ersetzt werden, und verleiten Verbraucher somit dazu, mehr Betriebsstoffe als notwendig zu kaufen. Zum Beispiel sollte die Praktik verboten werden, Verbraucher über die Einstellungen des Druckers aufzufordern, die Druckerpatronen zu ersetzen, bevor sie tatsächlich leer sind, um den Kauf zusätzlicher Druckerpatronen anzuregen.
+
+(24)
+
+Anhang I der Richtlinie 2005/29/EG sollte auch dahingehend geändert werden, dass es verboten wird, Verbrauchern Information darüber zurückzuhalten, dass die Funktionalität von Waren beeinträchtigt wird, wenn Betriebsstoffe, Ersatzteile oder Zubehör verwendet werden, die nicht vom ursprünglichen Hersteller stammen. Beispielsweise sollte bei Druckern, die so konzipiert sind, dass ihre Funktionalität beschränkt ist, wenn Druckerpatronen verwendet werden, die nicht vom ursprünglichen Hersteller des Druckers stammen, Verbrauchern diese Information nicht vorenthalten werden, da diese Praktik Verbraucher dahingehend in die Irre führen könnte, dass sie alternative Druckerpatronen kaufen, die für diesen Drucker nicht verwendet werden können, was zu unnötigen Abfallströmen oder zusätzlichen Kosten für Verbraucher führen könnte. Ebenso sollte Verbrauchern zum Zeitpunkt des Kaufs die Information nicht vorenthalten werden, dass intelligente Geräte so konzipiert sind, dass ihre Funktionalität beschränkt ist, wenn Ladegeräte oder Ersatzteile verwendet werden, die nicht vom ursprünglichen Hersteller stammen. Es sollte auch verboten sein, Verbraucher zu der Annahme zu verleiten, dass die Verwendung von Betriebsstoffen, Ersatzteilen oder Zubehör, die nicht vom ursprünglichen Hersteller geliefert werden, die Funktionalität von Waren beeinträchtigt, wenn dies nicht der Fall ist. Grundsätzlich kann bei Gewerbetreibenden, die auch die Hersteller der Waren sind, davon ausgegangen werden, dass ihnen diese Informationen bekannt sind, während sich andere Gewerbetreibende wie Verkäufer auf zuverlässige Informationen verlassen sollten, die ihnen zur Verfügung stehen, z. B. auf der Grundlage einer Erklärung einer zuständigen nationalen Behörde oder von Informationen des Herstellers.
+
+(25)
+
+Um Verbraucher in die Lage zu versetzen, besser informierte Entscheidungen zu treffen, und um die Nachfrage nach und das Angebot von haltbareren Waren anzuregen, sollten vor Vertragsschluss genauere Informationen über die Haltbarkeit und Reparierbarkeit von Produkten aller Warenarten bereitgestellt werden. Zudem sollten Verbraucher bei Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen über den Zeitraum informiert werden, in dem kostenlose Softwareaktualisierungen verfügbar sind. Daher sollte die Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates
+(
+13
+)
+dahingehend geändert werden, dass Verbrauchern vorvertragliche Informationen über die Haltbarkeit, die Reparierbarkeit und die Verfügbarkeit von Aktualisierungen bereitgestellt werden. Die Informationen sollten Verbrauchern in klarer und verständlicher Weise und im Einklang mit den Barrierefreiheitsanforderungen im Sinne der Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates
+(
+14
+)
+bereitgestellt werden. Die Verpflichtung, diese Informationen Verbrauchern gegenüber bereitzustellen, ergänzt die Rechte von Verbrauchern nach den Richtlinien (EU) 2019/770 und (EU) 2019/771 und lässt diese unberührt.
+
+(26)
+
+Ein guter Indikator für die Haltbarkeit von Waren ist die gewerbliche Haltbarkeitsgarantie des Herstellers im Sinne des Artikels 17 der Richtlinie (EU) 2019/771. Bei der gewerblichen Haltbarkeitsgarantie des Herstellers handelt es sich um ein Versprechen des Herstellers gegenüber dem Verbraucher in Bezug auf die Haltbarkeit einer Ware. Genauer gesagt handelt es sich um ein Versprechen, dass eine Ware bei normaler Verwendung die geforderten Funktionen und die geforderte Leistung beibehält. Um Verbraucher darüber zu informieren, dass für bestimmte Waren Haltbarkeitsgarantien gegeben werden, sollten Verbrauchern diese Informationen in Form einer harmonisierten Kennzeichnung zur Verfügung gestellt werden. Unternehmer, die Waren verkaufen, sollten verpflichtet werden, Verbraucher über das Bestehen und die Dauer der gewerblichen Haltbarkeitsgarantie zu informieren, die vom Hersteller ohne zusätzliche Kosten für die gesamte Ware und für einen Zeitraum von mehr als zwei Jahren gewährt wird, wenn der Hersteller dem Unternehmer diese Informationen zur Verfügung stellt. Der Unternehmer sollte nicht verpflichtet sein, z. B. auf produktspezifischen Websites aktiv nach diesen Informationen des Herstellers zu suchen. Um zu verhindern, dass Verbraucher die gewerbliche Haltbarkeitsgarantie und das gesetzliche Gewährleistungsrecht verwechseln, sollten Verbraucher auf der harmonisierten Kennzeichnung darauf hingewiesen werden, dass sie auch das gesetzliche Gewährleistungsrecht in Anspruch nehmen können.
+
+(27)
+
+Aktuelle Berichte haben gezeigt, dass Verbraucher ihre gesetzlichen Rechte gemäß der Richtlinie (EU) 2019/771 oft nicht kennen. Daher sollten Verbraucher über eine harmonisierte Mitteilung an das Bestehen und die wichtigsten Elemente des gesetzlichen Gewährleistungsrechts erinnert werden, einschließlich seiner Mindestdauer von zwei Jahren und eines allgemeinen Verweises auf die Möglichkeit, dass die Dauer des gesetzlichen Gewährleistungsrechts nach nationalem Recht länger sein kann. Dadurch wird eine mögliche Verwechslung mit den Informationen über die gewerbliche Haltbarkeitsgarantie verhindert.
+
+(28)
+
+Die harmonisierte Kennzeichnung sollte in hervorgehobener Weise ausgestellt und so verwendet werden, dass Verbraucher leicht erkennen können, für welche bestimmte Ware eine gewerbliche Haltbarkeitsgarantie gilt, die vom Hersteller für die gesamte Ware ohne zusätzliche Kosten und für einen Zeitraum von mehr als zwei Jahren gewährt wird, indem die Kennzeichnung beispielsweise direkt auf der Verpackung der Waren, in hervorgehobener Weise auf dem Regal, auf dem die unter eine solche Garantie fallenden Waren platziert werden, ausgestellt wird oder indem es — im Falle eines Online-Verkaufs — direkt neben dem Bild der Ware angebracht wird. Hersteller, die derartige gewerblichen Haltbarkeitsgarantien anbieten, können die harmonisierte Kennzeichnung selbst direkt auf den betreffenden Waren oder auf ihrer Verpackung anbringen, um einen wirtschaftlichen Vorteil zu erzielen. Die Unternehmer sollten sicherstellen, dass die harmonisierte Kennzeichnung deutlich sichtbar ist. Mit der harmonisierten Mitteilung sollten Verbraucher hingegen allgemein auf das gesetzliche Gewährleistungsrecht hingewiesen werden, das gemäß der Richtlinie (EU) 2019/771 für alle Waren gilt. Die harmonisierte Mitteilung sollte in hervorgehobener Weise ausgestellt werden, z. B. auf einem Plakat in auffälliger Weise an einer Wand im Geschäft, neben dem Kassenschalter oder im Falle von Online-Verkäufen als allgemeine Erinnerung auf der Website des Unternehmers, der die Ware verkauft.
+
+(29)
+
+Der Kommission sollten Durchführungsbefugnisse in Bezug auf die Gestaltung und den Inhalt der harmonisierten Kennzeichnung und der harmonisierten Mitteilung übertragen werden. Diese Befugnisse sollten im Einklang mit der Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates
+(
+15
+)
+ausgeübt werden.
+
+(30)
+
+Angesichts der Mindestdauer des gesetzlichen Gewährleistungsrechts von zwei Jahren gemäß der Richtlinie (EU) 2019/771 und der Tatsache, dass viele Produktmängel nach diesem Zeitraum auftreten, sollte die Pflicht des Unternehmers, Verbraucher in Form einer harmonisierten Kennzeichnung über das Bestehen und die Dauer einer gewerblichen Haltbarkeitsgarantie des Herstellers zu informieren, nur bei gewerblichen Haltbarkeitsgarantien gelten, die für einen Zeitraum von mehr als zwei Jahren gewährt werden. Darüber hinaus sollte die harmonisierte Kennzeichnung die Verbraucher an das Bestehen des gesetzlichen Gewährleistungsrechts erinnern.
+
+(31)
+
+Um es Verbrauchern zu erleichtern, beim Vergleich von Waren vor Vertragsschluss eine informierte geschäftliche Entscheidung zu treffen, sollten die Unternehmer Verbraucher über das Bestehen und die Dauer der gewerblichen Haltbarkeitsgarantie des Herstellers für die gesamte Ware und nicht für bestimmte Bestandteile der Ware informieren.
+
+(32)
+
+Den Herstellern und Verkäufern sollte es weiterhin freistehen, andere Arten gewerblicher Garantien und Kundendienste anzubieten. Die Verbrauchern bereitgestellten Informationen über andere gewerbliche Garantien oder Dienste sollten Verbraucher hinsichtlich des Bestehens und der Dauer der gewerblichen Haltbarkeitsgarantie, die vom Hersteller ohne zusätzliche Kosten für die gesamte Ware und mit einer Dauer von mehr als zwei Jahren gewährt wird und für die eine harmonisierte Kennzeichnung verwendet wird, jedoch nicht verwirren.
+
+(33)
+
+Damit Verbraucher besser informierte Entscheidungen treffen können und um den Wettbewerb zwischen den Herstellern hinsichtlich der Haltbarkeit von Waren mit digitalen Elementen zu fördern, sollten die Unternehmer, die solche Waren verkaufen, Verbraucher über den Mindestzeitraum informieren, für den der Hersteller sich verpflichtet, für diese Waren Softwareaktualisierungen zur Verfügung zu stellen, ausgedrückt als Zeitraum oder durch Angabe eines Datums. Ebenso sollten Unternehmer, die digitale Inhalte und digitale Dienstleistungen anbieten, Verbraucher über den Mindestzeitraum informieren, für den der Anbieter der digitalen Inhalte oder digitalen Dienstleistungen sich verpflichtet, Softwareaktualisierungen, einschließlich Sicherheitsaktualisierungen, die für den Erhalt der Vertragsmäßigkeit der digitalen Inhalte und digitalen Dienstleistungen erforderlich sind, bereitzustellen. Diese Verpflichtung sollte sicherstellen, dass Verbraucher diese Informationen auf einfache und verständliche Weise erhalten, damit sie unterschiedliche Mindestzeiträume vergleichen können. Dies gilt unbeschadet der im Unionsrecht, insbesondere in den Richtlinien (EU) 2019/770 und (EU) 2019/771 und gegebenenfalls in produktspezifischem Unionsrecht, festgelegten Verpflichtungen. Die Informationen über Softwareaktualisierungen sollten in einer Weise bereitgestellt werden, die gemäß der Richtlinie 2005/29/EG nicht irreführend ist. Die Unternehmer sollten nur zur Bereitstellung dieser Informationen verpflichtet sein, wenn der Hersteller oder Anbieter diese Informationen zur Verfügung gestellt hat.
+
+(34)
+
+Gemäß Artikel 5 Absatz 1 Buchstabe e und Artikel 6 Absatz 1 Buchstabe m der Richtlinie 2011/83/EU sind Unternehmer verpflichtet, Verbrauchern, bevor der Vertrag für sie verbindlich wird, Informationen über das Bestehen und die Bedingungen von Kundendienstleistungen, einschließlich Reparaturdienstleistungen, bereitzustellen, wenn diese Dienstleistungen angeboten werden. Um Verbraucher darüber hinaus in die Lage zu versetzen, eine informierte geschäftliche Entscheidung zu treffen und Waren auszuwählen, die einfacher zu reparieren sind, sollten Gewerbetreibende, bevor Verbraucher vertraglich gebunden sind, gegebenenfalls den Reparierbarkeitswert der Ware, die der Hersteller bereitstellt und auf Unionsebene festgelegt ist, zur Verfügung stellen.
+
+(35)
+
+Um sicherzustellen, dass Verbraucher in den Fällen, in denen kein Reparierbarkeitswert auf Unionsebene festgelegt ist, über die Reparierbarkeit der von ihnen gekauften Waren gut informiert sind, sollten Unternehmer andere relevante Reparaturinformationen zur Verfügung stellen, die vom Hersteller zur Verfügung gestellt wurden, wie Informationen über die Verfügbarkeit, die geschätzten Kosten und das Verfahren für die Bestellung von Ersatzteilen, die für den Erhalt der Vertragsmäßigkeit der Waren erforderlich sind, über die Verfügbarkeit von Reparatur- und Wartungsanleitungen und über Reparatureinschränkungen.
+
+(36)
+
+Unternehmer sollten Verbrauchern die harmonisierte Kennzeichnung, Informationen über den Mindestzeitraum für Aktualisierungen und andere Reparaturinformationen als den Reparierbarkeitswert bereitstellen, wenn der Hersteller oder der Anbieter von digitalen Inhalten oder digitalen Dienstleistungen, wenn es sich hierbei nicht um den Unternehmer selbst handelt, die relevanten Informationen zur Verfügung stellt. In Bezug auf Waren sollte der Unternehmer Verbrauchern insbesondere diejenigen Informationen übermitteln, die der Hersteller dem Unternehmer bereitgestellt hat oder die er beabsichtigt hat, Verbrauchern vor Vertragsschluss auf andere Weise direkt zur Verfügung zu stellen, indem sie auf dem Produkt selbst, auf der Verpackung oder auf Anhängern und Etiketten angegeben werden, die Verbraucher vor Vertragsschluss üblicherweise einsehen würden. Unternehmer sollten nicht verpflichtet sein, z. B. auf produktspezifischen Websites aktiv nach diesen Informationen des Herstellers zu suchen. Gleichzeitig läge es im Interesse der Hersteller, derartige Informationen proaktiv zur Verfügung zu stellen, um einen wirtschaftlichen Vorteil zu erzielen.
+
+(37)
+
+Unternehmer sollten Verbraucher gegebenenfalls über die Verfügbarkeit umweltfreundlicher Lieferoptionen wie die Lieferung von Waren mit Lastenfahrrädern oder elektrischen Lieferfahrzeugen oder die Möglichkeit gebündelter Versandoptionen informieren.
+
+(38)
+
+Wenn ein auf elektronischem Wege geschlossener Fernabsatzvertrag den Verbraucher zur Zahlung verpflichtet, sollte der Unternehmer den Verbraucher darüber hinaus klar und in hervorgehobener Weise und unmittelbar bevor der Verbraucher eine Bestellung tätigt auf die harmonisierte Kennzeichnung — immer wenn sie zur Verfügung gestellt wird — hinweisen, um sicherzustellen, dass der Verbraucher diese Informationen berücksichtigen kann.
+
+(39)
+
+Die Richtlinien 2005/29/EG und 2011/83/EU sollten weiterhin als „Sicherheitsnetz“ fungieren, um dafür Sorge zu tragen, dass ein hohes Verbraucherschutzniveau in allen Sektoren aufrechterhalten werden kann, indem sie sektor- und produktspezifische Rechtsvorschriften der Union ergänzen, die im Falle eines Konflikts Vorrang haben.
+
+(40)
+
+Da die Ziele dieser Richtlinie, nämlich Verbraucher zur Förderung nachhaltigen Konsums in die Lage zu versetzen, besser informierte geschäftliche Entscheidungen zu treffen, Praktiken zu beseitigen, die die nachhaltige Wirtschaft schädigen und Verbraucher daran hindern, nachhaltige Konsumentscheidungen zu treffen, sowie eine bessere und kohärentere Anwendung des Verbraucherrechtsrahmens der Union sicherzustellen, von den Mitgliedstaaten nicht ausreichend verwirklicht werden können, sondern vielmehr wegen des unionsweiten Charakters des Problems auf Unionsebene besser zu verwirklichen sind, kann die Union im Einklang mit dem in Artikel 5 des Vertrags über die Europäische Union verankerten Subsidiaritätsprinzip tätig werden. Entsprechend dem in demselben Artikel genannten Grundsatz der Verhältnismäßigkeit geht diese Richtlinie nicht über das für die Verwirklichung dieser Ziele erforderliche Maß hinaus.
+
+(41)
+
+Gemäß der Gemeinsamen Politischen Erklärung vom 28. September 2011 der Mitgliedstaaten und der Kommission zu erläuternden Dokumenten
+(
+16
+)
+haben sich die Mitgliedstaaten verpflichtet, in begründeten Fällen zusätzlich zur Mitteilung ihrer Umsetzungsmaßnahmen ein oder mehrere Dokumente zu übermitteln, in denen der Zusammenhang zwischen den Bestandteilen einer Richtlinie und den entsprechenden Teilen nationaler Umsetzungsinstrumente erläutert wird. Bei dieser Richtlinie hält der Gesetzgeber die Übermittlung derartiger Dokumente für gerechtfertigt.
+
+(42)
+
+Um die ordnungsgemäße Anwendung der vorliegenden Richtlinie zu erleichtern, ist es wichtig, dass die Kommission die Leitlinien zu den Richtlinien 2005/29/EG und 2011/83/EU stetig aktualisiert, um dem Inhalt der vorliegenden Richtlinie Rechnung zu tragen —
+
+HABEN FOLGENDE RICHTLINIE ERLASSEN:
+
+Artikel 1
+
+Änderung der Richtlinie 2005/29/EG
+
+Die Richtlinie 2005/29/EG wird wie folgt geändert:
+
+1.
+
+In Artikel 2 wird Absatz 1 wie folgt geändert:
 
 a)
 
-die wesentlichen Eigenschaften der Waren oder Dienstleistungen in dem für den Datenträger und die Waren oder Dienstleistungen angemessenen Umfang;
+Folgender Buchstabe wird eingefügt:
+
+„ca)
+
+‚Waren‘ Waren im Sinne von Artikel 2 Nummer 5 der Richtlinie (EU) 2019/771 des Europäischen Parlaments und des Rates
+(
+*1
+)
+;
+
+(
+*1
+)
+Richtlinie (EU) 2019/771 des Europäischen Parlaments und des Rates vom 20. Mai 2019 über bestimmte vertragsrechtliche Aspekte des Warenkaufs, zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie 2009/22/EG sowie zur Aufhebung der Richtlinie 1999/44/EG (
+ABl. L 136 vom 22.5.2019, S. 28
+).“
+"
 
 b)
 
-die Identität des Unternehmers, beispielsweise seinen Handelsnamen und die Anschrift des Ortes, an dem er niedergelassen ist, sowie seine Telefonnummer;
+Die folgenden Buchstaben werden angefügt:
 
-c)
+„o)
 
-den Gesamtpreis der Waren oder Dienstleistungen einschließlich aller Steuern und Abgaben oder in den Fällen, in denen der Preis aufgrund der Beschaffenheit der Ware oder der Dienstleistung vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder Versandkosten oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzlichen Kosten anfallen können;
+‚Umweltaussage‘, unabhängig von ihrer Form, eine Aussage oder Darstellung, die nach Unionsrecht oder nationalem Recht nicht verpflichtend ist, einschließlich Darstellungen durch Text, Bilder, grafische Elemente oder Symbole wie beispielsweise Etiketten, Markennamen, Firmennamen oder Produktbezeichnungen, im Kontext einer kommerziellen Kommunikation, und in der ausdrücklich oder stillschweigend angegeben wird, dass ein Produkt, eine Produktkategorie, eine Marke oder ein Gewerbetreibender eine positive oder keine Auswirkung auf die Umwelt hat oder weniger schädlich für die Umwelt ist als andere Produkte, Produktkategorien, Marken bzw. Gewerbetreibende oder seine bzw. ihre Auswirkung im Laufe der Zeit verbessert wurde;
 
-d)
+p)
 
-gegebenenfalls die Zahlungs-, Liefer- und Leistungsbedingungen, den Termin, bis zu dem die Waren zu liefern oder die Dienstleistung zu erbringen der Unternehmer sich verpflichtet hat, sowie das Verfahren des Unternehmers zum Umgang mit Beschwerden;
+‚allgemeine Umweltaussage‘ eine schriftlich oder mündlich getätigte Umweltaussage, einschließlich über audiovisuelle Medien, die nicht auf einem Nachhaltigkeitssiegel enthalten ist und bei der die Spezifizierung der Aussage nicht auf demselben Medium klar und in hervorgehobener Weise angegeben ist;
 
-▼M4
+q)
+
+‚Nachhaltigkeitssiegel‘ ein freiwilliges öffentliches oder privates Vertrauenssiegel, Gütezeichen oder Ähnliches, mit dem Ziel, ein Produkt, ein Verfahren oder eine Geschäftstätigkeit in Bezug auf ihre ökologischen oder sozialen Merkmale oder beides hervorzuheben oder zu fördern, ausgenommen alle verpflichtenden Kennzeichnungen gemäß Unionsrecht oder nationalem Recht;
+
+r)
+
+‚Zertifizierungssystem‘ ein System der Überprüfung durch Dritte, mit dem zertifiziert wird, dass ein Produkt, ein Verfahren oder eine Geschäftstätigkeit bestimmte Anforderungen erfüllt, das die Verwendung eines entsprechenden Nachhaltigkeitssiegels ermöglicht, und dessen Bedingungen, einschließlich seiner Anforderungen, öffentlich einsehbar sind und folgende Kriterien erfüllen:
+
+i)
+
+das System steht allen Gewerbetreibenden, die bereit und in der Lage sind, die Anforderungen des Systems zu erfüllen, unter transparenten, lauteren und diskriminierungsfreien Bedingungen offen;
+
+ii)
+
+die Anforderungen des Systems werden vom Systeminhaber in Absprache mit einschlägigen Sachverständigen und Interessenträgern ausgearbeitet;
+
+iii)
+
+in dem System sind Verfahren für den Umgang mit Verstößen gegen die Anforderungen des Systems festgelegt und es ist der Entzug oder die Aussetzung der Verwendung des Nachhaltigkeitssiegels durch den Gewerbetreibenden im Falle von Verstößen gegen die Anforderungen des Systems vorgesehen; und
+
+iv)
+
+die Überwachung der Einhaltung der Anforderungen des Systems durch einen Gewerbetreibenden unterliegt einem objektiven Verfahren und wird von einem Dritten durchgeführt, dessen Kompetenz und Unabhängigkeit sowohl vom Systeminhaber als auch vom Gewerbetreibenden auf internationalen, unionsweiten oder nationalen Normen und Verfahren beruht;
+
+s)
+
+‚anerkannte hervorragende Umweltleistung‘ die Umweltleistung im Einklang mit der Verordnung (EG) Nr. 66/2010 des Europäischen Parlaments und des Rates
+(
+*2
+)
+, mit nationalen oder regionalen Umweltkennzeichenregelungen nach EN ISO 14024 Typ I, die in den Mitgliedstaaten offiziell anerkannt sind, oder mit Umwelthöchstleistungen nach sonstigem geltenden Unionsrecht;
+
+t)
+
+‚Haltbarkeit‘ die Haltbarkeit im Sinne des Artikels 2 Nummer 13 der Richtlinie (EU) 2019/771;
+
+u)
+
+‚Softwareaktualisierung‘ eine Aktualisierung, einschließlich einer Sicherheitsaktualisierung, die für den Erhalt der Vertragsmäßigkeit von Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen nach der Richtlinie (EU) 2019/770 des Europäischen Parlaments und des Rates
+(
+*3
+)
+und der Richtlinie (EU) 2019/771 erforderlich ist, oder eine Funktionsaktualisierung;
+
+v)
+
+‚Betriebsstoff‘ jeden Bestandteil einer Ware, der wiederholt verbraucht wird und ersetzt oder aufgefüllt werden muss, damit die Ware bestimmungsgemäß funktioniert;
+
+w)
+
+‚Funktionalität‘ die Funktionalität im Sinne des Artikels 2 Nummer 9 der Richtlinie (EU) 2019/771.
+
+(
+*2
+)
+Verordnung (EG) Nr. 66/2010 des Europäischen Parlaments und des Rates vom 25. November 2009 über das EU-Umweltzeichen (
+ABl. L 27 vom 30.1.2010, S. 1
+)."
+
+(
+*3
+)
+Richtlinie (EU) 2019/770 des Europäischen Parlaments und des Rates vom 20. Mai 2019 über bestimmte vertragsrechtliche Aspekte der Bereitstellung digitaler Inhalte und digitaler Dienstleistungen (
+ABl. L 136 vom 22.5.2019, S. 1
+).“
+"
+
+2.
+
+Artikel 6 wird wie folgt geändert:
+
+a)
+
+Absatz 1 Buchstabe b erhält folgende Fassung:
+
+„b)
+
+die wesentlichen Merkmale des Produkts wie Verfügbarkeit, Vorteile, Risiken, Ausführung, Zusammensetzung, ökologische und soziale Merkmale, Zubehör, Zirkularitätsaspekte wie Haltbarkeit, Reparierbarkeit oder Recyclingfähigkeit, Kundendienst und Beschwerdeverfahren, Verfahren und Zeitpunkt der Herstellung oder Erbringung, Lieferung, Zwecktauglichkeit, Verwendung, Menge, Beschaffenheit, geografische oder kommerzielle Herkunft oder die von der Verwendung zu erwartenden Ergebnisse oder die Ergebnisse und wesentlichen Merkmale von Tests oder Untersuchungen, denen das Produkt unterzogen wurde.“
+
+b)
+
+In Absatz 2 werden die folgenden Buchstaben angefügt:
+
+„d)
+
+Treffen einer Umweltaussage über die künftige Umweltleistung ohne klare, objektive, öffentlich einsehbare und überprüfbare Verpflichtungen, die in einem detaillierten und realistischen Umsetzungsplan festgelegt sind, der messbare und zeitgebundene Ziele sowie weitere relevante Elemente umfasst, die zur Unterstützung seiner Umsetzung erforderlich sind, wie die Zuweisung von Ressourcen, und der regelmäßig von einem unabhängigen externen Sachverständigen überprüft wird, dessen Erkenntnisse Verbrauchern zur Verfügung gestellt werden;
 
 e)
 
-das Bestehen eines gesetzlichen Gewährleistungsrechts für Waren und seine wichtigsten Elemente, einschließlich seiner Mindestdauer von zwei Jahren gemäß der Richtlinie (EU) 2019/771, in hervorgehobener Weise unter Verwendung der in Artikel 22a dieser Richtlinie genannten harmonisierten Mitteilung;
+Werbung mit Vorteilen für Verbraucher, die irrelevant sind und sich nicht aus einem Merkmal des Produkts oder der Geschäftstätigkeit ergeben.“
 
-▼M4
+3.
 
-ea)
+In Artikel 7 wird folgender Absatz angefügt:
+
+„(7)
+
+Bietet ein Gewerbetreibender einen Dienst an, die Produkte vergleicht und dem Verbraucher Informationen über ökologische oder soziale Merkmale oder über Zirkularitätsaspekte wie Haltbarkeit, Reparierbarkeit oder Recyclingfähigkeit der Produkte oder der Lieferanten dieser Produkte bereitstellt, werden Informationen über die Vergleichsmethode, die betreffenden Produkte und die Lieferanten dieser Produkte sowie die bestehenden Maßnahmen, um die Informationen auf dem neuesten Stand zu halten, als wesentliche Informationen angesehen.“
+
+4.
+
+Anhang I wird gemäß dem Anhang der vorliegenden Richtlinie geändert.
+
+Artikel 2
+
+Änderung der Richtlinie 2011/83/EU
+
+Die Richtlinie 2011/83/EU wird wie folgt geändert:
+
+1.
+
+In Artikel 2 werden die folgenden Nummern eingefügt:
+
+„14a.
+
+‚gewerbliche Haltbarkeitsgarantie‘ eine gewerbliche Haltbarkeitsgarantie des Herstellers im Sinne des Artikels 17 der Richtlinie (EU) 2019/771, nach der ein Hersteller direkt gegenüber dem Verbraucher während des gesamten Zeitraums der gewerblichen Haltbarkeitsgarantie auf Nachbesserung der Waren oder Ersatzlieferung gemäß Artikel 14 der Richtlinie (EU) 2019/771 haftet, wenn die jeweilige Ware nicht entsprechend haltbar ist;
+
+14b.
+
+‚Haltbarkeit‘ die Haltbarkeit im Sinne des Artikels 2 Nummer 13 der Richtlinie (EU) 2019/771;
+
+14c.
+
+‚Hersteller‘ den Hersteller im Sinne des Artikels 2 Nummer 4 der Richtlinie (EU) 2019/771;
+
+14d.
+
+‚Reparierbarkeitswert‘ einen Wert, der die Reparierbarkeit einer Ware auf der Grundlage von auf Unionsebene festgelegten harmonisierten Anforderungen ausdrückt;
+
+14e.
+
+‚Softwareaktualisierung‘ eine kostenfreie Aktualisierung, einschließlich einer Sicherheitsaktualisierung, die für den Erhalt der Vertragsmäßigkeit von Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen nach den Richtlinien (EU) 2019/770 und (EU) 2019/771 erforderlich ist;“.
+
+2.
+
+Artikel 5 Absatz 1 wird wie folgt geändert:
+
+a)
+
+Buchstabe e erhält folgende Fassung:
+
+„e)
+
+das Bestehen eines gesetzlichen Gewährleistungsrechts für Waren und seine wichtigsten Elemente, einschließlich seiner Mindestdauer von zwei Jahren gemäß der Richtlinie (EU) 2019/771, in hervorgehobener Weise unter Verwendung der in Artikel 22a dieser Richtlinie genannten harmonisierten Mitteilung;“
+
+b)
+
+Folgende Buchstaben werden eingefügt:
+
+„ea)
 
 wenn der Hersteller dem Verbraucher eine gewerbliche Haltbarkeitsgarantie für die gesamte Ware ohne zusätzliche Kosten und mit einer Dauer von mehr als zwei Jahren gewährt und diese Informationen dem Unternehmer zur Verfügung stellt, die Information, dass für diese Ware eine solche Garantie gilt, deren Dauer und einen Hinweis auf das Bestehen des gesetzlichen Gewährleistungsrechts, in hervorgehobener Weise unter Verwendung der in Artikel 22a genannten harmonisierten Kennzeichnung;
 
@@ -450,131 +488,45 @@ gegebenenfalls das Bestehen und die Bedingungen von Kundendienstleistungen und g
 
 ed)
 
-für Waren mit digitalen Elementen, für digitale Inhalte und für digitale Dienstleistungen den Mindestzeitraum, ausgedrückt als Zeitraum oder durch Angabe eines Datums, in dem der Hersteller oder der Anbieter Softwareaktualisierungen bereitstellt, sofern der Hersteller oder der Anbieter dem Unternehmer die Informationen zur Verfügung stellt;
+für Waren mit digitalen Elementen, für digitale Inhalte und für digitale Dienstleistungen den Mindestzeitraum, ausgedrückt als Zeitraum oder durch Angabe eines Datums, in dem der Hersteller oder der Anbieter Softwareaktualisierungen bereitstellt, sofern der Hersteller oder der Anbieter dem Unternehmer die Informationen zur Verfügung stellt.“
 
-▼B
+c)
 
-f)
+Die folgenden Buchstaben werden angefügt:
 
-gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge;
-
-▼M2
-
-g)
-
-gegebenenfalls die Funktionalität von Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen, einschließlich anwendbarer technischer Schutzmaßnahmen;
-
-h)
-
-gegebenenfalls — soweit wesentlich — die Kompatibilität und Interoperabilität von Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen, soweit diese dem Unternehmer bekannt sind oder vernünftigerweise bekannt sein müssen;
-
-▼M4
-
-i)
+„i)
 
 gegebenenfalls den Reparierbarkeitswert der Waren;
 
 j)
 
-wenn Buchstabe i nicht anwendbar ist und sofern der Hersteller dem Unternehmer die Informationen zur Verfügung stellt, Informationen über die Verfügbarkeit, die geschätzten Kosten und das Verfahren für die Bestellung von Ersatzteilen, die für den Erhalt der Vertragsmäßigkeit der Waren erforderlich sind, über die Verfügbarkeit von Reparatur- und Wartungsanleitungen und über Reparatureinschränkungen.
+wenn Buchstabe i nicht anwendbar ist und sofern der Hersteller dem Unternehmer die Informationen zur Verfügung stellt, Informationen über die Verfügbarkeit, die geschätzten Kosten und das Verfahren für die Bestellung von Ersatzteilen, die für den Erhalt der Vertragsmäßigkeit der Waren erforderlich sind, über die Verfügbarkeit von Reparatur- und Wartungsanleitungen und über Reparatureinschränkungen.“
 
-▼B
+3.
 
-(2)
-
-Absatz 1 gilt auch dann für Verträge über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden.
-
-(3)
-
-Die Mitgliedstaaten sind nicht dazu verpflichtet, Absatz 1 auf Verträge anzuwenden, die Geschäfte des täglichen Lebens zum Gegenstand haben und zum Zeitpunkt des Vertragsabschlusses sofort erfüllt werden.
-
-(4)
-
-Die Mitgliedstaaten können für Verträge, auf die dieser Artikel anwendbar ist, zusätzliche vorvertragliche Informationspflichten einführen oder aufrechterhalten.
-
-KAPITEL III
-
-INFORMATION DER VERBRAUCHER UND WIDERRUFSRECHT BEI FERNABSATZ- UND AUSSERHALB VON GESCHÄFTSRÄUMEN GESCHLOSSENEN VERTRÄGEN
-
-Artikel 6
-
-Informationspflichten bei Fernabsatz- und außerhalb von Geschäftsräumen geschlossenen Verträgen
-
-(1)
-
-Bevor der Verbraucher durch einen Vertrag im Fernabsatz oder einen außerhalb von Geschäftsräumen geschlossenen Vertrag oder ein entsprechendes Vertragsangebot gebunden ist, informiert der Unternehmer den Verbraucher in klarer und verständlicher Weise über Folgendes:
+Artikel 6 Absatz 1 wird wie folgt geändert:
 
 a)
 
-die wesentlichen Eigenschaften der Waren oder Dienstleistungen, in dem für das Kommunikationsmittel und die Waren oder Dienstleistungen angemessenen Umfang;
+Buchstabe g erhält folgende Fassung:
+
+„g)
+
+die Zahlungs-, Liefer- und Leistungsbedingungen, einschließlich, sofern verfügbar, umweltfreundlicher Liefermöglichkeiten, den Termin, bis zu dem sich der Unternehmer verpflichtet, die Waren zu liefern oder die Dienstleistung zu erbringen und gegebenenfalls das Verfahren des Unternehmers zum Umgang mit Beschwerden;“.
 
 b)
 
-die Identität des Unternehmers, beispielsweise seinen Handelsnamen;
+Buchstabe l erhält folgende Fassung:
 
-▼M2
+„l)
+
+das Bestehen eines gesetzlichen Gewährleistungsrechts für Waren und seine wichtigsten Elemente, einschließlich seiner Mindestdauer von zwei Jahren gemäß der Richtlinie (EU) 2019/771, in hervorgehobener Weise unter Verwendung der in Artikel 22a dieser Richtlinie genannten harmonisierten Mitteilung;“.
 
 c)
 
-die Anschrift des Ortes, an dem der Unternehmer niedergelassen ist, sowie seine Telefonnummer und E-Mail-Adresse; wenn der Unternehmer andere Online-Kommunikationsmittel bereitstellt, die gewährleisten, dass der Verbraucher etwaige schriftliche Korrespondenz mit dem Unternehmer, einschließlich des Datums und der Uhrzeit dieser Korrespondenz, auf einem dauerhaften Datenträger speichern kann, so umfassen die Informationen darüber hinaus auch Angaben zu diesen anderen Kommunikationsmitteln; sämtliche dieser vom Unternehmer bereitgestellten Kommunikationsmittel stellen sicher, dass der Verbraucher schnell Kontakt zum Unternehmer aufnehmen und effizient mit ihm kommunizieren kann; gegebenenfalls gibt der Unternehmer auch die Anschrift und die Identität des Unternehmers an, in dessen Auftrag er handelt;
+Folgende Buchstaben werden eingefügt:
 
-▼B
-
-d)
-
-falls diese von der gemäß Buchstabe c angegebenen Anschrift abweicht, die Geschäftsanschrift des Unternehmers und gegebenenfalls die Geschäftsanschrift des Unternehmers, in dessen Auftrag er handelt, an die sich der Verbraucher mit jeder Beschwerde wenden kann;
-
-e)
-
-den Gesamtpreis der Waren oder Dienstleistungen einschließlich aller Steuern und Abgaben, oder in den Fällen, in denen der Preis aufgrund der Beschaffenheit der Waren oder Dienstleistungen vernünftigerweise nicht im Voraus berechnet werden kann, die Art der Preisberechnung sowie gegebenenfalls alle zusätzlichen Fracht-, Liefer- oder Versandkosten und alle sonstigen Kosten, oder in den Fällen, in denen diese Kosten vernünftigerweise nicht im Voraus berechnet werden können, die Tatsache, dass solche zusätzliche Kosten anfallen können. Im Falle eines unbefristeten Vertrags oder eines Abonnement-Vertrags umfasst der Gesamtpreis die pro Abrechnungszeitraum anfallenden Gesamtkosten. Wenn für einen solchen Vertrag Festbeträge in Rechnung gestellt werden, umfasst der Gesamtpreis ebenfalls die monatlichen Gesamtkosten. Wenn die Gesamtkosten vernünftigerweise nicht im Voraus berechnet werden können, ist die Art der Preisberechnung anzugeben;
-
-▼M2
-
-ea)
-
-gegebenenfalls den Hinweis, dass der Preis auf der Grundlage einer automatisierten Entscheidungsfindung personalisiert worden ist;
-
-▼B
-
-f)
-
-die Kosten für den Einsatz der für den Vertragsabschluss genutzten Fernkommunikationstechnik, sofern diese nicht nach dem Grundtarif berechnet werden;
-
-▼M4
-
-g)
-
-die Zahlungs-, Liefer- und Leistungsbedingungen, einschließlich, sofern verfügbar, umweltfreundlicher Liefermöglichkeiten, den Termin, bis zu dem sich der Unternehmer verpflichtet, die Waren zu liefern oder die Dienstleistung zu erbringen und gegebenenfalls das Verfahren des Unternehmers zum Umgang mit Beschwerden;
-
-▼M3
-
-h)
-
-im Falle des Bestehens eines Widerrufsrechts die Bedingungen, Fristen und Verfahren für die Ausübung dieses Rechts gemäß Artikel 11 Absatz 1 sowie das Muster-Widerrufsformular gemäß Anhang I Teil B und gegebenenfalls Informationen über das Bestehen und die Platzierung der Widerrufsfunktion nach Artikel 11a;
-
-▼B
-
-i)
-
-gegebenenfalls den Hinweis, dass der Verbraucher im Widerrufsfall die Kosten für die Rücksendung der Waren zu tragen hat und bei Fernabsatzverträgen die Kosten für die Rücksendung der Waren, wenn die Waren aufgrund ihrer Beschaffenheit nicht auf dem normalen Postweg zurückgesendet werden können;
-
-j)
-
-den Hinweis, dass, falls der Verbraucher das Widerrufsrecht nach Erklärung eines Verlangens gemäß Artikel 7 Absatz 3 oder Artikel 8 Absatz 8 ausübt, der Verbraucher verpflichtet ist, dem Unternehmer einen angemessenen Betrag gemäß Artikel 14 Absatz 3 zu leisten;
-
-k)
-
-in Fällen, in denen gemäß Artikel 16 kein Widerrufsrecht besteht, den Hinweis, dass der Verbraucher nicht über ein Widerrufsrecht verfügt, oder gegebenenfalls die Umstände, unter denen der Verbraucher sein Widerrufsrecht verliert;
-
-▼M4
-
-l)
-
-das Bestehen eines gesetzlichen Gewährleistungsrechts für Waren und seine wichtigsten Elemente, einschließlich seiner Mindestdauer von zwei Jahren gemäß der Richtlinie (EU) 2019/771, in hervorgehobener Weise unter Verwendung der in Artikel 22a dieser Richtlinie genannten harmonisierten Mitteilung;
-
-▼M4
-
-la)
+„la)
 
 wenn der Hersteller dem Verbraucher eine gewerbliche Haltbarkeitsgarantie ohne zusätzliche Kosten für die gesamte Ware und mit einer Dauer von mehr als zwei Jahren gewährt und diese Informationen dem Unternehmer zur Verfügung stellt, die Information, dass für diese Ware eine solche Garantie gilt, deren Dauer und einen Hinweis auf das Bestehen des gesetzlichen Gewährleistungsrechts, in hervorgehobener Weise unter Verwendung der in Artikel 22a genannten harmonisierten Kennzeichnung;
 
@@ -584,1304 +536,95 @@ einen Hinweis auf das Bestehen des gesetzlichen Gewährleistungsrechts für digi
 
 lc)
 
-für Waren mit digitalen Elementen, für digitale Inhalte und für digitale Dienstleistungen den Mindestzeitraum, ausgedrückt als Zeitraum oder durch Angabe eines Datums, in dem der Hersteller oder der Anbieter Softwareaktualisierungen bereitstellt, sofern der Hersteller oder der Anbieter dem Unternehmer die Informationen zur Verfügung stellt;
+für Waren mit digitalen Elementen, für digitale Inhalte und für digitale Dienstleistungen den Mindestzeitraum, ausgedrückt als Zeitraum oder durch Angabe eines Datums, in dem der Hersteller oder der Anbieter Softwareaktualisierungen bereitstellt, sofern der Hersteller oder der Anbieter dem Unternehmer die Informationen zur Verfügung stellt.“
 
-▼B
+d)
 
-m)
+Die folgenden Buchstaben werden angefügt:
 
-gegebenenfalls den Hinweis auf das Bestehen und die Bedingungen von Kundendienst, Kundendienstleistungen und gewerblichen Garantien;
-
-n)
-
-gegebenenfalls den Hinweis auf bestehende einschlägige Verhaltenskodizes gemäß Artikel 2 Buchstabe f der Richtlinie 2005/29/EG und darauf, wie Exemplare davon erhalten werden können;
-
-o)
-
-gegebenenfalls die Laufzeit des Vertrags oder die Bedingungen der Kündigung unbefristeter Verträge oder sich automatisch verlängernder Verträge;
-
-p)
-
-gegebenenfalls die Mindestdauer der Verpflichtungen, die der Verbraucher mit dem Vertrag eingeht;
-
-q)
-
-gegebenenfalls den Hinweis auf die Tatsache, dass der Unternehmer vom Verbraucher die Stellung einer Kaution oder die Leistung anderer finanzieller Sicherheiten verlangen kann, sowie deren Bedingungen;
-
-▼M2
-
-r)
-
-gegebenenfalls die Funktionalität von Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen, einschließlich anwendbarer technischer Schutzmaßnahmen;
-
-s)
-
-gegebenenfalls — soweit wesentlich — die Kompatibilität und Interoperabilität von Waren mit digitalen Elementen, digitalen Inhalten und digitalen Dienstleistungen, soweit diese dem Unternehmer bekannt sind oder vernünftigerweise bekannt sein müssen;
-
-▼B
-
-t)
-
-gegebenenfalls die Möglichkeit des Zugangs zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, und die Voraussetzungen für diesen Zugang;
-
-▼M4
-
-u)
+„u)
 
 gegebenenfalls den Reparierbarkeitswert der Waren;
 
 v)
 
-wenn Buchstabe u nicht anwendbar ist und sofern der Hersteller dem Unternehmer die Informationen zur Verfügung stellt, Informationen über die Verfügbarkeit, die geschätzten Kosten und das Verfahren für die Bestellung von Ersatzteilen, die für den Erhalt der Vertragsmäßigkeit der Waren erforderlich sind, über die Verfügbarkeit von Reparatur- und Wartungsanleitungen sowie über Reparatureinschränkungen.
+wenn Buchstabe u nicht anwendbar ist und sofern der Hersteller dem Unternehmer die Informationen zur Verfügung stellt, Informationen über die Verfügbarkeit, die geschätzten Kosten und das Verfahren für die Bestellung von Ersatzteilen, die für den Erhalt der Vertragsmäßigkeit der Waren erforderlich sind, über die Verfügbarkeit von Reparatur- und Wartungsanleitungen sowie über Reparatureinschränkungen.“
 
-▼B
+4.
 
-(2)
+Artikel 8 Absatz 2 Unterabsatz 1 erhält folgende Fassung:
 
-Absatz 1 gilt auch dann für Verträge über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden.
+„(2)
 
-(3)
+Wenn ein auf elektronischem Wege geschlossener Fernabsatzvertrag den Verbraucher zur Zahlung verpflichtet, weist der Unternehmer den Verbraucher klar und in hervorgehobener Weise, und unmittelbar bevor dieser seine Bestellung tätigt, auf die in Artikel 6 Absatz 1 Buchstaben a, e, la, o und p genannten Informationen hin.“
 
-Im Falle einer öffentlichen Versteigerung können anstelle der in Absatz 1 Buchstaben b, c und d genannten Informationen die entsprechenden Angaben des Versteigerers übermittelt werden.
+5.
 
-▼M2
+Folgender Artikel wird in Kapitel V eingefügt:
 
-(4)
-
-Die Informationen nach Absatz 1 Buchstaben h, i und j dieses Artikels können mittels der Muster-Widerrufsbelehrung gemäß Anhang I Teil A gegeben werden. Die Informationspflicht des Unternehmers gemäß Absatz 1 Buchstaben h, i und j dieses Artikels ist erfüllt, wenn der Unternehmer dieses Informationsformular zutreffend ausgefüllt dem Verbraucher übermittelt hat. Der Hinweis auf die Widerrufsfrist von 14 Tagen in der in Anhang I Teil A aufgeführten Muster-Widerrufsbelehrung muss durch Hinweise auf eine Widerrufsfrist von 30 Tagen ersetzt werden, sofern Mitgliedstaten Bestimmungen nach Artikel 9 Absatz 1a erlassen haben.
-
-▼B
-
-(5)
-
-Die Informationen nach Absatz 1 sind fester Bestandteil des Fernabsatzvertrags oder des außerhalb von Geschäftsräumen abgeschlossenen Vertrags und dürfen nicht geändert werden, es sei denn, die Vertragsparteien vereinbaren ausdrücklich etwas anderes.
-
-(6)
-
-Ist der Unternehmer seiner Pflicht zur Information über die zusätzlichen und sonstigen Kosten gemäß Absatz 1 Buchstabe e oder über die Kosten für die Rücksendung der Waren gemäß Absatz 1 Buchstabe i nicht nachgekommen, so hat der Verbraucher die zusätzlichen und sonstigen Kosten nicht zu tragen.
-
-(7)
-
-Die Mitgliedstaaten können sprachliche Anforderungen in Bezug auf die Vertragsinformationen in ihrem nationalen Recht aufrechterhalten oder einführen, um damit sicherzustellen, dass diese Angaben vom Verbraucher ohne Weiteres verstanden werden.
-
-(8)
-
-Die in dieser Richtlinie festgelegten Informationspflichten gelten zusätzlich zu den Informationspflichten nach der Richtlinie 2006/123/EG und der Richtlinie 2000/31/EG und hindern die Mitgliedstaaten nicht daran, zusätzliche Informationspflichten im Einklang mit jenen Richtlinien vorzusehen.
-
-Unbeschadet des Unterabsatzes 1 hat bei Kollisionen zwischen einer Bestimmung der Richtlinie 2006/123/EG oder der Richtlinie 2000/31/EG betreffend den Inhalt der Information und die Art und Weise, wie die Information bereitzustellen ist, und einer Bestimmung dieser Richtlinie die Bestimmung dieser Richtlinie Vorrang.
-
-(9)
-
-Die Beweislast für die Erfüllung der in diesem Kapitel genannten Informationspflichten obliegt dem Unternehmer.
-
-▼M2
-
-Artikel 6a
-
-Zusätzliche besondere Informationspflichten bei auf Online-Marktplätzen geschlossenen Verträgen
-
-(1)
-
-Bevor ein Verbraucher durch einen Fernabsatzvertrag oder ein entsprechendes Vertragsangebot auf einem Online-Marktplatz gebunden ist, informiert der Anbieter des Online-Marktplatzes den Verbraucher, unbeschadet der Richtlinie 2005/29/EG, in klarer, verständlicher und in einer den benutzten Fernkommunikationsmitteln angepassten Weise über Folgendes:
-
-a)
-
-allgemeine Informationen, die die Hauptparameter zur Festlegung des Rankings der Angebote gemäß der Definition in Artikel 2 Absatz 1 Buchstabe m der Richtlinie 2005/29/EG, die dem Verbraucher als Ergebnis seiner Suchanfrage auf dem Online-Marktplatz präsentiert werden, sowie die relative Gewichtung dieser Parameter im Vergleich zu anderen Parametern betreffen und die in einem bestimmten Bereich der Online-Benutzeroberfläche zur Verfügung gestellt werden, der von der Seite, auf der die Angebote angezeigt werden, unmittelbar und leicht zugänglich ist;
-
-b)
-
-ob es sich bei dem Dritten, der die Waren, Dienstleistungen oder digitalen Inhalte anbietet, um einen Unternehmer handelt oder nicht, auf der Grundlage der Erklärung dieses Dritten gegenüber dem Anbieter des Online-Marktplatzes;
-
-c)
-
-sofern der Dritte, der die Waren, Dienstleistungen oder digitalen Inhalte anbietet, kein Unternehmer ist, dass die im Verbraucherschutzrecht der Union verankerten Verbraucherrechte auf den Vertrag keine Anwendung finden;
-
-d)
-
-gegebenenfalls wie die sich aus dem Vertrag ergebenden Verpflichtungen zwischen dem Dritten, der die Waren, Dienstleistungen oder digitalen Inhalte anbietet, und dem Anbieter des Online-Marktplatzes aufgeteilt werden, wobei diese Information die Verantwortung, die der Anbieter des Online-Marktplatzes oder der dritte Unternehmer in Bezug auf den Vertrag im Rahmen anderer Vorschriften des Unionsrechts oder des nationalen Rechts hat, nicht berührt.
-
-(2)
-
-Unbeschadet der Richtlinie 2000/31/EG hindert dieser Artikel die Mitgliedstaaten nicht daran, zusätzliche Informationspflichten für Anbieter von Online-Marktplätzen vorzusehen. Diese Bestimmungen müssen verhältnismäßig, nicht diskriminierend und aus Gründen des Verbraucherschutzes gerechtfertigt sein.
-
-▼B
-
-Artikel 7
-
-Formale Anforderungen für außerhalb von Geschäftsräumen geschlossene Verträge
-
-(1)
-
-Bei Verträgen, die außerhalb von Geschäftsräumen geschlossen werden, stellt der Unternehmer die in Artikel 6 Absatz 1 vorgeschriebenen Informationen dem Verbraucher auf Papier oder, sofern der Verbraucher dem zustimmt, auf einem anderen dauerhaften Datenträger bereit. Diese Informationen müssen lesbar und in klarer und verständlicher Sprache abgefasst sein.
-
-(2)
-
-Der Unternehmer stellt dem Verbraucher eine Kopie des unterzeichneten Vertragsdokuments oder die Bestätigung des geschlossenen Vertrags auf Papier oder, sofern der Verbraucher dem zustimmt, auf einem anderen dauerhaften Datenträger zur Verfügung, wobei diese Kopie gegebenenfalls auch die Bestätigung der vorher ausdrücklich erklärten Zustimmung und der Kenntnisnahme des Verbrauchers gemäß Artikel 16 Buchstabe m umfasst.
-
-▼M2
-
-(3)
-
-Möchte ein Verbraucher, dass die Dienstleistung oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme während der Widerrufsfrist gemäß Artikel 9 Absatz 2 beginnt, und verpflichtet der Vertrag den Verbraucher zur Zahlung, so fordert der Unternehmer den Verbraucher dazu auf, ein entsprechendes ausdrückliches Verlangen auf einem dauerhaften Datenträger zu erklären und verlangt vom Verbraucher die Bestätigung, dass dieser zur Kenntnis genommen hat, dass er das Widerrufsrecht mit vollständiger Vertragserfüllung durch den Unternehmer verliert.
-
-▼B
-
-(4)
-
-Wenn der Verbraucher bei Verträgen, die außerhalb von Geschäftsräumen geschlossen werden, ausdrücklich die Dienste des Unternehmers zur Ausführung von Reparatur- oder Instandhaltungsarbeiten angefordert hat, der Unternehmer und der Verbraucher ihre vertraglichen Verpflichtungen sofort erfüllen und das vom Verbraucher zu zahlende Entgelt 200 EUR nicht übersteigt, gilt:
-
-a)
-
-Der Unternehmer stellt dem Verbraucher die in Artikel 6 Absatz 1 Buchstaben b und c genannten Informationen sowie Informationen über die Höhe des Preises oder die Art der Preisberechnung zusammen mit einem Kostenvoranschlag über die Gesamtkosten auf Papier oder, wenn der Verbraucher dem zustimmt, einem anderen dauerhaften Datenträger zur Verfügung. Der Unternehmer stellt die in Artikel 6 Absatz 1 Buchstaben a, h und k genannten Informationen zur Verfügung, kann jedoch davon absehen, diese auf Papier oder einem anderen dauerhaften Datenträger bereitzustellen, wenn der Verbraucher sich damit ausdrücklich einverstanden erklärt.
-
-b)
-
-Die gemäß Absatz 2 dieses Artikels bereitgestellte Bestätigung des Vertrags muss die in Artikel 6 Absatz 1 genannten Informationen beinhalten.
-
-Die Mitgliedstaaten können beschließen, diesen Absatz nicht anzuwenden.
-
-(5)
-
-Die Mitgliedstaaten legen hinsichtlich der Erfüllung der in dieser Richtlinie festgelegten Informationspflichten keine weiteren formellen vorvertraglichen Informationsanforderungen fest.
-
-Artikel 8
-
-Formale Anforderungen bei Fernabsatzverträgen
-
-(1)
-
-Bei Fernabsatzverträgen erteilt der Unternehmer die in Artikel 6 Absatz 1 vorgeschriebenen Informationen dem Verbraucher in klarer und verständlicher Sprache in einer den benutzten Fernkommunikationsmitteln angepassten Weise bzw. stellt diese Informationen entsprechend zur Verfügung. Soweit diese Informationen auf einem dauerhaften Datenträger bereitgestellt werden, müssen sie lesbar sein.
-
-(2)
-
-►M4
-
-Wenn ein auf elektronischem Wege geschlossener Fernabsatzvertrag den Verbraucher zur Zahlung verpflichtet, weist der Unternehmer den Verbraucher klar und in hervorgehobener Weise, und unmittelbar bevor dieser seine Bestellung tätigt, auf die in Artikel 6 Absatz 1 Buchstaben a, e, la, o und p genannten Informationen hin.
-◄
-
-Der Unternehmer sorgt dafür, dass der Verbraucher bei der Bestellung ausdrücklich bestätigt, dass die Bestellung mit einer Zahlungsverpflichtung verbunden ist. Wenn der Bestellvorgang die Aktivierung einer Schaltfläche oder eine ähnliche Funktion umfasst, ist diese Schaltfläche oder entsprechende Funktion gut lesbar ausschließlich mit den Worten „zahlungspflichtig bestellen“ oder einer entsprechenden eindeutigen Formulierung zu kennzeichnen, die den Verbraucher darauf hinweist, dass die Bestellung mit einer Zahlungsverpflichtung gegenüber dem Unternehmer verbunden ist. Wenn der Unternehmer diesen Unterabsatz nicht einhält, ist der Verbraucher durch den Vertrag oder die Bestellung nicht gebunden.
-
-(3)
-
-Auf Webseiten für den elektronischen Geschäftsverkehr wird spätestens bei Beginn des Bestellvorgangs klar und deutlich angegeben, ob Lieferbeschränkungen bestehen und welche Zahlungsmittel akzeptiert werden.
-
-▼M2
-
-(4)
-
-Wird der Vertrag mittels eines Fernkommunikationsmittels geschlossen, bei dem für die Darstellung der Informationen nur begrenzter Raum beziehungsweise begrenzte Zeit zur Verfügung steht, so hat der Unternehmer auf dem Wege des jeweiligen Fernkommunikationsmittels vor dem Abschluss des Vertrags zumindest diejenigen vorvertraglichen Informationen zu erteilen, die die in Artikel 6 Absatz 1 Buchstaben a, b, e, h und o genannten wesentlichen Merkmale der Waren oder Dienstleistungen, die Identität des Unternehmers, den Gesamtpreis, das Widerrufsrecht, die Vertragslaufzeit und die Bedingungen der Kündigung unbefristeter Verträge betreffen; hiervon ausgenommen ist das unter Buchstabe h genannte Muster-Widerrufsformular gemäß Anhang I Teil B. Die anderen in Artikel 6 Absatz 1 genannten Informationen, einschließlich des Muster-Widerrufsformulars, hat der Unternehmer dem Verbraucher in geeigneter Weise gemäß Absatz 1 dieses Artikels zu erteilen.
-
-▼B
-
-(5)
-
-Ruft der Unternehmer den Verbraucher im Hinblick auf den Abschluss eines Fernabsatzvertrags an, so hat er unbeschadet des Absatzes 4 zu Beginn des Gesprächs mit dem Verbraucher seine Identität und gegebenenfalls die Identität der Person, in deren Auftrag er anruft, sowie den geschäftlichen Zweck des Anrufs offenzulegen.
-
-(6)
-
-Für Fernabsatzverträge, die telefonisch geschlossen werden, können die Mitgliedstaaten vorsehen, dass der Unternehmer dem Verbraucher das Angebot bestätigen muss und der Verbraucher erst dann gebunden ist, wenn er das Angebot unterzeichnet oder sein schriftliches Einverständnis übermittelt hat. Die Mitgliedstaaten können ferner vorsehen, dass solche Bestätigungen auf einem dauerhaften Datenträger erfolgen müssen.
-
-(7)
-
-Der Unternehmer stellt dem Verbraucher die Bestätigung des geschlossenen Vertrags innerhalb einer angemessenen Frist nach dem Abschluss des Fernabsatzvertrags auf einem dauerhaften Datenträger zur Verfügung, und zwar spätestens bei der Lieferung der Waren oder bevor die Ausführung der Dienstleistung beginnt. Diese Bestätigung enthält:
-
-a)
-
-alle in Artikel 6 Absatz 1 genannten Informationen, es sei denn, der Unternehmer hat dem Verbraucher diese Informationen bereits vor dem Abschluss des Fernabsatzvertrags auf einem dauerhaften Datenträger zukommen lassen, und
-
-b)
-
-gegebenenfalls die Bestätigung der vorherigen ausdrücklichen Zustimmung und der Kenntnisnahme des Verbrauchers gemäß Artikel 16 Buchstabe m.
-
-▼M2
-
-(8)
-
-Möchte ein Verbraucher, dass die Dienstleistung oder die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme während der Widerrufsfrist gemäß Artikel 9 Absatz 2 beginnt, und verpflichtet der Vertrag den Verbraucher zur Zahlung, so fordert der Unternehmer den Verbraucher dazu auf, ein entsprechendes ausdrückliches Verlangen zu erklären und verlangt vom Verbraucher die Bestätigung, dass dieser zur Kenntnis genommen hat, dass er das Widerrufsrecht mit vollständiger Vertragserfüllung durch den Unternehmer verliert.
-
-▼B
-
-(9)
-
-Dieser Artikel berührt nicht die Bestimmungen über den Abschluss von elektronischen Verträgen und Bestellungen gemäß den Artikeln 9 und 11 der Richtlinie 2000/31/EG.
-
-(10)
-
-Die Mitgliedstaaten legen hinsichtlich der Erfüllung der in dieser Richtlinie festgelegten Informationspflichten keine weiteren formellen vorvertraglichen Informationsanforderungen fest.
-
-Artikel 9
-
-Widerrufsrecht
-
-(1)
-
-Sofern nicht eine der Ausnahmen gemäß Artikel 16 Anwendung findet, steht dem Verbraucher eine Frist von 14 Tagen zu, in der er einen Fernabsatz- oder einen außerhalb von Geschäftsräumen geschlossenen Vertrag ohne Angabe von Gründen und ohne andere Kosten als in Artikel 13 Absatz 2 und Artikel 14 vorgesehen widerrufen kann.
-
-▼M2
-
-(1a)
-
-Zum Schutz der berechtigten Interessen der Verbraucher in Bezug auf aggressive oder irreführende Vermarktungs- oder Verkaufspraktiken kann ein Mitgliedstaat Bestimmungen erlassen, gemäß derer die in Absatz 1 genannte Widerrufsfrist von 14 Tagen auf 30 Tage verlängert wird, wenn die Verträge im Zusammenhang mit unerbetenen Besuchen eines Unternehmers in der Wohnung eines Verbrauchers oder im Zusammenhang mit Ausflügen geschlossen werden, die von einem Unternehmer in der Absicht oder mit dem Ergebnis organisiert werden, dass für den Verkauf von Produkten bei Verbrauchern geworben wird oder Produkte an Verbraucher verkauft werden. Diese Bestimmungen müssen verhältnismäßig, nicht diskriminierend und aus Gründen des Verbraucherschutzes gerechtfertigt sein.
-
-▼M2
-
-(2)
-
-Unbeschadet des Artikels 10 endet die in Absatz 1 genannte Widerrufsfrist wie folgt, wobei die Dauer der Frist 30 Tage beträgt, sofern ein Mitgliedstaat Bestimmungen gemäß Absatz 1a erlassen hat:
-
-▼B
-
-a)
-
-bei Dienstleistungsverträgen 14 Tage ab dem Tag des Vertragsabschlusses,
-
-b)
-
-bei Kaufverträgen 14 Tage ab dem Tag, an dem der Verbraucher oder ein vom Verbraucher benannter Dritter, der nicht der Beförderer ist, in den physischen Besitz der Waren gelangt, oder
-
-i)
-
-wenn der Verbraucher mehrere Waren im Rahmen einer einheitlichen Bestellung bestellt hat, die getrennt geliefert werden, ab dem Tag, an dem der Verbraucher oder ein vom Verbraucher benannter Dritter, der nicht der Beförderer ist, in den physischen Besitz der letzten Ware gelangt,
-
-ii)
-
-bei Lieferung einer Ware in mehreren Teilsendungen oder Stücken ab dem Tag, an dem der Verbraucher oder ein vom Verbraucher benannter Dritter, der nicht der Beförderer ist, in den physischen Besitz der letzten Teilsendung oder des letzten Stücks gelangt,
-
-iii)
-
-bei Verträgen zur regelmäßigen Lieferung von Waren über einen festgelegten Zeitraum hinweg ab dem Tag, an dem der Verbraucher oder ein vom Verbraucher benannter Dritter, der nicht der Beförderer ist, in den physischen Besitz der ersten Ware gelangt,
-
-c)
-
-bei Verträgen über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden, 14 Tage ab dem Tag des Vertragsabschlusses.
-
-(3)
-
-Die Mitgliedstaaten verbieten den Vertragsparteien eine Erfüllung ihrer vertraglichen Verpflichtungen während der Widerrufsfrist nicht. Die Mitgliedstaaten können jedoch bei außerhalb von Geschäftsräumen geschlossenen Verträgen innerstaatliche Rechtsvorschriften aufrechterhalten, die dem Unternehmer verbieten, innerhalb eines bestimmten Zeitraums nach Vertragsabschluss Zahlung vom Verbraucher zu fordern und entgegenzunehmen.
-
-Artikel 10
-
-Nichtaufklärung über das Widerrufsrecht
-
-(1)
-
-Hat der Unternehmer den Verbraucher nicht gemäß Artikel 6 Absatz 1 Buchstabe h über sein Widerrufsrecht belehrt, so läuft die Widerrufsfrist 12 Monate nach Ablauf der ursprünglichen Widerrufsfrist gemäß Artikel 9 Absatz 2 ab.
-
-▼M2
-
-(2)
-
-Hat der Unternehmer dem Verbraucher die in Absatz 1 genannten Informationen binnen 12 Monaten ab dem in Artikel 9 Absatz 2 genannten Tag erteilt, so endet die Widerrufsfrist 14 Tage oder, sofern ein Mitgliedstaat Bestimmungen gemäß Artikel 9 Absatz 1a erlassen hat, 30 Tage nach dem Tag, an dem der Verbraucher diese Informationen erhalten hat.
-
-▼B
-
-Artikel 11
-
-Ausübung des Widerrufsrechts
-
-(1)
-
-Der Verbraucher informiert den Unternehmer vor Ablauf der Widerrufsfrist über seinen Entschluss, den Vertrag zu widerrufen. Der Verbraucher kann zu diesem Zweck entweder
-
-a)
-
-das Muster-Widerrufsformular des Anhangs I Teil B verwenden oder
-
-b)
-
-eine entsprechende Erklärung in beliebiger anderer Form abgeben, aus der sein Entschluss zum Widerruf des Vertrags eindeutig hervorgeht.
-
-Die Mitgliedstaaten legen für das Muster-Widerrufsformular keine weiteren Formvorschriften außer den in Anhang I Teil B genannten fest.
-
-(2)
-
-Die in Artikel 9 Absatz 2 und in Artikel 10 genannte Widerrufsfrist ist gewahrt, wenn der Verbraucher die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absendet.
-
-(3)
-
-Der Unternehmer kann dem Verbraucher zusätzlich zu den in Absatz 1 genannten Möglichkeiten auch die Wahl einräumen, entweder das Muster-Widerrufsformular des Anhangs I Teil B oder eine entsprechende eindeutige Erklärung in beliebiger anderer Form auf der Webseite des Unternehmers elektronisch auszufüllen und abzuschicken. In diesen Fällen hat der Unternehmer dem Verbraucher unverzüglich auf einem dauerhaften Datenträger eine Bestätigung über den Eingang eines solchen Widerrufs zu übermitteln.
-
-(4)
-
-Die Beweislast für die Ausübung des Widerrufsrechts nach diesem Artikel obliegt dem Verbraucher.
-
-▼M3
-
-Artikel 11a
-
-Ausübung des Widerrufsrechts bei Fernabsatzverträgen, die über eine Online-Benutzeroberfläche geschlossen werden
-
-(1)
-
-Bei Fernabsatzverträgen, die über eine Online-Benutzeroberfläche geschlossen werden, stellt der Unternehmer sicher, dass der Verbraucher den Vertrag auch widerrufen kann, indem er eine Widerrufsfunktion benutzt.
-
-Die Widerrufsfunktion wird gut lesbar mit den Worten „Vertrag widerrufen“ oder einer entsprechenden eindeutigen Formulierung gekennzeichnet. Die Widerrufsfunktion ist während der gesamten Widerrufsfrist durchgehend verfügbar. Sie ist auf der Online-Benutzeroberfläche hervorgehoben platziert und für den Verbraucher leicht zugänglich.
-
-(2)
-
-Die Widerrufsfunktion ermöglicht es dem Verbraucher, eine Online-Widerrufserklärung zu versenden, mit der der Unternehmer von der Entscheidung des Verbrauchers, den Vertrag zu widerrufen, in Kenntnis gesetzt wird. Über diese Online-Widerrufserklärung kann der Verbraucher ohne Weiteres die folgenden Informationen bereitstellen oder bestätigen:
-
-a)
-
-seinen Namen;
-
-b)
-
-Angaben zur Identifizierung des Vertrags, den der Verbraucher widerrufen möchte;
-
-c)
-
-Angaben zu dem elektronischen Kommunikationsmittel, mit dem dem Verbraucher die Eingangsbestätigung für den Widerruf übermittelt werden wird.
-
-(3)
-
-Sobald der Verbraucher die Online-Widerrufserklärung gemäß Absatz 2 ausgefüllt hat, ermöglicht der Unternehmer dem Verbraucher, ihm diese Erklärung mittels einer Bestätigungsfunktion zu übermitteln.
-
-Diese Bestätigungsfunktion wird gut lesbar und ausschließlich mit den Worten „Widerruf bestätigen“ oder einer entsprechenden eindeutigen Formulierung gekennzeichnet.
-
-(4)
-
-Sobald der Verbraucher die Bestätigungsfunktion aktiviert hat, übermittelt der Unternehmer dem Verbraucher auf einem dauerhaften Datenträger unverzüglich eine Eingangsbestätigung, die unter anderem den Inhalt der Widerrufserklärung sowie das Datum und die Uhrzeit ihres Eingangs enthält.
-
-(5)
-
-Das Widerrufsrecht des Verbrauchers gilt als innerhalb der einschlägigen Widerrufsfrist ausgeübt, wenn der Verbraucher die Online-Widerrufserklärung im Sinne dieses Artikels vor Ablauf dieser Frist abgegeben hat.
-
-▼B
-
-Artikel 12
-
-Wirkungen des Widerrufs
-
-Mit der Ausübung des Widerrufsrechts enden die Verpflichtungen der Vertragsparteien
-
-a)
-
-zur Erfüllung des Fernabsatz- oder außerhalb von Geschäftsräumen geschlossenen Vertrags oder
-
-b)
-
-zum Abschluss des Fernabsatz- oder außerhalb von Geschäftsräumen abgeschlossenen Vertrags, sofern der Verbraucher dazu ein Angebot abgegeben hat.
-
-Artikel 13
-
-Pflichten des Unternehmers im Widerrufsfall
-
-(1)
-
-Der Unternehmer hat alle Zahlungen, die er vom Verbraucher erhalten hat, gegebenenfalls einschließlich der Lieferkosten, unverzüglich und in jedem Fall spätestens binnen 14 Tagen ab dem Tag zurückzuzahlen, an dem er gemäß Artikel 11 über den Entschluss des Verbrauchers informiert wird, den Vertrag zu widerrufen.
-
-Der Unternehmer nimmt die Rückzahlung gemäß Unterabsatz 1 unter Verwendung desselben Zahlungsmittels vor, das vom Verbraucher bei der ursprünglichen Transaktion eingesetzt wurde, es sei denn, mit dem Verbraucher wurde ausdrücklich etwas anderes vereinbart, und vorausgesetzt, für den Verbraucher fallen infolge einer solchen Rückzahlung keine Kosten an.
-
-(2)
-
-Unbeschadet des Absatzes 1 ist der Unternehmer nicht verpflichtet, zusätzliche Kosten zu erstatten, wenn sich der Verbraucher ausdrücklich für eine andere Art der Lieferung als die vom Unternehmer angebotene, günstigste Standardlieferung entschieden hat.
-
-(3)
-
-Bei Kaufverträgen kann der Unternehmer die Rückzahlung verweigern, bis er die Waren wieder zurückerhalten hat oder bis der Verbraucher den Nachweis erbracht hat, dass er die Waren zurückgeschickt hat, je nachdem, welches der frühere Zeitpunkt ist, es sei denn, der Unternehmer hat angeboten, die Waren selbst abzuholen.
-
-▼M2
-
-(4)
-
-In Bezug auf personenbezogene Daten des Verbrauchers hat der Unternehmer die nach der Verordnung (EU) 2016/679 geltenden Vorschriften einzuhalten.
-
-(5)
-
-Der Unternehmer darf Inhalte, die nicht personenbezogene Daten sind, und die vom Verbraucher bei der Nutzung der vom Unternehmer bereitgestellten digitalen Inhalte oder digitalen Dienstleistungen bereitgestellt oder erstellt wurden, nicht verwenden, es sei denn, diese Inhalte
-
-a)
-
-haben außerhalb des Kontextes der von dem Unternehmer bereitgestellten digitalen Inhalte oder digitalen Dienstleistungen keinen Nutzen;
-
-b)
-
-hängen ausschließlich mit der Nutzung der von dem Unternehmer bereitgestellten digitalen Inhalte oder digitalen Dienstleistungen durch den Verbraucher zusammen;
-
-c)
-
-wurden vom Unternehmer mit anderen Daten aggregiert und können nicht oder nur mit unverhältnismäßigem Aufwand disaggregiert werden oder
-
-d)
-
-wurden vom Verbraucher gemeinsam mit anderen erzeugt und andere Verbraucher können die Inhalte weiterhin nutzen.
-
-(6)
-
-Mit Ausnahme der in Absatz 5 Buchstabe a, b oder c genannten Fälle stellt der Unternehmer dem Verbraucher auf dessen Ersuchen alle Inhalte, die nicht personenbezogene Daten sind, bereit, welche vom Verbraucher bei der Nutzung der vom Unternehmer bereitgestellten digitalen Inhalte oder digitalen Dienstleistungen bereitgestellt oder erstellt wurden.
-
-(7)
-
-Der Verbraucher ist berechtigt, diese digitalen Inhalte kostenfrei, ohne Behinderung durch den Unternehmer, innerhalb einer angemessenen Frist und in einem allgemein gebräuchlichen und maschinenlesbaren Format wiederzuerlangen.
-
-(8)
-
-Im Falle des Widerrufs des Vertrags darf der Unternehmer jede weitere Nutzung der digitalen Inhalte oder der digitalen Dienstleistungen durch den Verbraucher unterbinden, insbesondere indem er unbeschadet des Absatzes 6 den Zugang des Verbrauchers zu den digitalen Inhalten oder digitalen Dienstleistungen oder das Nutzerkonto des Verbrauchers sperrt.
-
-▼B
-
-Artikel 14
-
-Pflichten des Verbrauchers im Widerrufsfall
-
-(1)
-
-Der Verbraucher hat die Waren unverzüglich und in jedem Fall spätestens nach 14 Tagen ab dem Tag, an dem er dem Unternehmer gemäß Artikel 11 seinen Entschluss mitgeteilt hat, den Vertrag zu widerrufen, an den Unternehmer oder eine von diesem zur Entgegennahme der Waren ermächtigte Person zurückzusenden oder zu übergeben, es sei denn, der Unternehmer hat angeboten, die Waren selbst abzuholen. Die Frist ist gewahrt, wenn der Verbraucher die Waren vor Ablauf der Frist von 14 Tagen absendet.
-
-Der Verbraucher hat nur die unmittelbaren Kosten der Rücksendung der Waren zu tragen, es sei denn, der Unternehmer hat sich bereit erklärt, diese Kosten zu tragen oder der Unternehmer hat es unterlassen, den Verbraucher darüber zu unterrichten, dass er diese Kosten zu tragen hat.
-
-Im Falle von außerhalb von Geschäftsräumen geschlossenen Verträgen, bei denen die Waren zum Zeitpunkt des Vertragsabschlusses zur Wohnung des Verbrauchers geliefert worden sind, holt der Unternehmer die Waren auf eigene Kosten ab, wenn die Waren so beschaffen sind, dass sie normalerweise nicht per Post zurückgesandt werden können.
-
-(2)
-
-Der Verbraucher haftet für einen etwaigen Wertverlust der Waren nur, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit den Waren zurückzuführen ist. Der Verbraucher haftet in keinem Fall für den Wertverlust der Waren, wenn er vom Unternehmer nicht gemäß Artikel 6 Absatz 1 Buchstabe h über sein Widerrufsrecht belehrt wurde.
-
-▼M2
-
-(2a)
-
-Im Falle des Widerrufs des Vertrags hat der Verbraucher die Nutzung der digitalen Inhalte oder der digitalen Dienstleistungen sowie deren Zurverfügungstellung an Dritte zu unterlassen.
-
-▼B
-
-(3)
-
-Übt ein Verbraucher das Widerrufsrecht aus, nachdem er ein Verlangen gemäß Artikel 7 Absatz 3 oder Artikel 8 Absatz 8 erklärt hat, so zahlt er dem Unternehmer einen Betrag, der verhältnismäßig dem entspricht, was bis zu dem Zeitpunkt, zu dem der Verbraucher den Unternehmer von der Ausübung des Widerrufsrechts unterrichtet, im Vergleich zum Gesamtumfang der vertraglich vereinbarten Leistungen geleistet worden ist. Der anteilige Betrag, den der Verbraucher an den Unternehmer zu zahlen hat, wird auf der Grundlage des vertraglich vereinbarten Gesamtpreises berechnet. Ist der Gesamtpreis überhöht, so wird der anteilige Betrag auf der Grundlage des Marktwerts der erbrachten Leistung berechnet.
-
-(4)
-
-Der Verbraucher hat nicht aufzukommen für:
-
-a)
-
-Dienstleistungen, die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme, die während der Widerrufsfrist ganz oder teilweise erbracht wurden, wenn
-
-i)
-
-der Unternehmer es unterlassen hat, die Informationen gemäß Artikel 6 Absatz 1 Buchstaben h oder j bereitzustellen oder
-
-ii)
-
-der Verbraucher nicht ausdrücklich gemäß Artikel 7 Absatz 3 und Artikel 8 Absatz 8 verlangt hat, dass die Erbringung der Leistung während der Widerrufsfrist beginnen soll, oder
-
-b)
-
-die vollständige oder teilweise Bereitstellung von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden, wenn
-
-▼M2
-
-i)
-
-der Verbraucher sich nicht zuvor ausdrücklich damit einverstanden erklärt hat, dass die Erfüllung des Vertrags vor Ablauf der in Artikel 9 genannten Frist von 14 oder 30 Tagen beginnt;
-
-▼B
-
-ii)
-
-der Verbraucher nicht zur Kenntnis genommen hat, dass er mit seiner Zustimmung sein Widerrufsrecht verliert, oder
-
-iii)
-
-der Unternehmer es unterlassen hat, eine Bestätigung gemäß Artikel 7 Absatz 2 oder Artikel 8 Absatz 7 zur Verfügung zu stellen.
-
-(5)
-
-Sofern in Artikel 13 Absatz 2 und diesem Artikel nichts anderes vorgesehen ist, kann der Verbraucher aufgrund der Ausübung seines Widerrufsrechts nicht in Anspruch genommen werden.
-
-Artikel 15
-
-Wirkungen der Ausübung des Widerrufsrechts auf akzessorische Verträge
-
-(1)
-
-Unbeschadet des Artikels 15 der Richtlinie 2008/48/EG des Europäischen Parlaments und des Rates vom 23. April 2008 über Verbraucherkreditverträge (
-
-6
-
-) werden, wenn der Verbraucher sein Recht auf Widerruf eines im Fernabsatz oder außerhalb von Geschäftsräumen geschlossenen Vertrags gemäß den Artikeln 9 bis 14 dieser Richtlinie ausübt, auch alle akzessorischen Verträge automatisch beendet, ohne dass dem Verbraucher dafür Kosten entstehen dürfen, außer solchen, die gemäß Artikel 13 Absatz 2 und Artikel 14 dieser Richtlinie vorgesehen sind.
-
-(2)
-
-Die Mitgliedstaaten legen die Einzelheiten bezüglich der Beendigung dieser Verträge fest.
-
-Artikel 16
-
-Ausnahmen vom Widerrufsrecht
-
-Die Mitgliedstaaten sehen bei Fernabsatzverträgen und außerhalb von Geschäftsräumen geschlossenen Verträgen kein Widerrufsrecht nach den Artikeln 9 bis 15 vor, wenn
-
-▼M2
-
-a)
-
-bei Dienstleistungsverträgen die Dienstleistung vollständig erbracht worden ist ab, sofern der Vertrag den Verbraucher zur Zahlung verpflichtet, nur wenn der Unternehmer die Erbringung mit der vorherigen ausdrücklichen Zustimmung und Bestätigung des Verbrauchers, dass er zur Kenntnis genommen hat, dass er sein Widerrufsrecht mit vollständiger Vertragserfüllung durch den Unternehmer verliert, begonnen hatte;
-
-▼B
-
-b)
-
-Waren oder Dienstleistungen geliefert werden, deren Preis von Schwankungen auf dem Finanzmarkt abhängt, auf die der Unternehmer keinen Einfluss hat und die innerhalb der Widerrufsfrist auftreten können;
-
-c)
-
-Waren geliefert werden, die nach Kundenspezifikation angefertigt werden oder eindeutig auf die persönlichen Bedürfnisse zugeschnitten sind;
-
-d)
-
-Waren geliefert werden, die schnell verderben können oder deren Verfallsdatum schnell überschritten würde;
-
-e)
-
-versiegelte Waren geliefert werden, die aus Gründen des Gesundheitsschutzes oder aus Hygienegründen nicht zur Rückgabe geeignet sind und deren Versiegelung nach der Lieferung entfernt wurde;
-
-f)
-
-Waren geliefert werden, die nach der Lieferung aufgrund ihrer Beschaffenheit untrennbar mit anderen Gütern vermischt wurden;
-
-g)
-
-alkoholische Getränke geliefert werden, deren Preis beim Abschluss des Kaufvertrags vereinbart wurde, deren Lieferung aber erst nach 30 Tagen erfolgen kann und deren aktueller Wert von Schwankungen auf dem Markt abhängt, auf die der Unternehmer keinen Einfluss hat;
-
-h)
-
-es sich um Verträge handelt, bei denen der Verbraucher den Unternehmer ausdrücklich zu einem Besuch aufgefordert hat, um dringende Reparatur- oder Instandhaltungsarbeiten vorzunehmen; erbringt der Unternehmer bei einem solchen Besuch weitere Dienstleistungen, die der Verbraucher nicht ausdrücklich verlangt hat, oder liefert er Waren, die bei der Instandhaltung oder Reparatur nicht unbedingt als Ersatzteile benötigt werden, so steht dem Verbraucher in Bezug auf diese zusätzlichen Dienstleistungen oder Waren ein Widerrufsrecht zu;
-
-i)
-
-Ton- oder Videoaufnahmen oder Computersoftware in einer versiegelten Packung geliefert wurden und die Versiegelung nach der Lieferung entfernt wurde;
-
-j)
-
-Zeitungen, Zeitschriften oder Illustrierte geliefert werden, mit Ausnahme von Abonnement-Verträgen über die Lieferung solcher Publikationen;
-
-k)
-
-Verträge auf einer öffentlichen Versteigerung geschlossen werden;
-
-l)
-
-Dienstleistungen in den Bereichen Beherbergung zu anderen Zwecken als zu Wohnzwecken, Beförderung von Waren, Mietwagen, Lieferung von Speisen und Getränken sowie Dienstleistungen im Zusammenhang mit Freizeitbetätigungen erbracht werden und der Vertrag für die Erbringung einen spezifischen Termin oder Zeitraum vorsieht;
-
-▼M2
-
-m)
-
-bei Verträgen über die Bereitstellung digitaler Inhalte, die nicht auf einem körperlichen Datenträger geliefert werden, die Vertragserfüllung begonnen hat, und, sofern der Vertrag den Verbraucher zur Zahlung verpflichtet, wenn
-
-i)
-
-der Verbraucher dem Beginn der Vertragserfüllung während der Widerrufsfrist ausdrücklich zugestimmt hat;
-
-ii)
-
-der Verbraucher bestätigt hat, dass er zur Kenntnis genommen hat, dass er hierdurch sein Widerrufsrecht verliert und
-
-iii)
-
-der Unternehmer eine Bestätigung gemäß Artikel 7 Absatz 2 oder Artikel 8 Absatz 7 zur Verfügung gestellt hat.
-
-▼M2
-
-Zum Schutz der berechtigten Interessen der Verbraucher in Bezug auf aggressive oder irreführende Vermarktungs- oder Verkaufspraktiken können Mitgliedstaaten von den in Absatz 1 Buchstaben a, b, c und e vorgesehenen Ausnahmen vom Widerrufsrecht für Verträge abweichen, die im Zusammenhang mit unerbetenen Besuchen eines Unternehmers in der Wohnung eines Verbrauchers oder im Zusammenhang mit Ausflügen geschlossen werden, die von einem Unternehmer in der Absicht oder mit dem Ergebnis organisiert werden, dass für den Verkauf von Produkten bei Verbrauchern geworben wird oder Produkte an Verbraucher verkauft werden. Diese Bestimmungen müssen verhältnismäßig, nicht diskriminierend und aus Gründen des Verbraucherschutzes gerechtfertigt sein.
-
-Die Mitgliedstaaten können vorstehen, dass der Verbraucher bei Dienstleistungsverträgen, die ihm eine Zahlungspflicht auferlegen, sein Widerrufsrecht verliert, nachdem die Dienstleistung vollständig erbracht worden ist, wenn die Leistungserbringung mit der vorherigen ausdrücklichen Zustimmung des Verbrauchers begonnen hat und der Verbraucher den Unternehmer ausdrücklich zu einem Besuch aufgefordert hat, um Reparaturarbeiten vornehmen zu lassen.
-
-▼M3
-
-KAPITEL IIIa
-
-Vorschriften für im Fernabsatz geschlossene Finanzdienstleistungsverträge
-
-Artikel 16a
-
-Informationspflichten bei Fernabsatzverträgen über Finanzdienstleistungen an Verbraucher
-
-(1)
-
-Rechtzeitig bevor der Verbraucher durch einen Fernabsatzvertrag oder ein entsprechendes Vertragsangebot gebunden ist, informiert der Unternehmer den Verbraucher in klarer und verständlicher Weise über Folgendes:
-
-a)
-
-die Identität und die Hauptgeschäftstätigkeit des Unternehmers und gegebenenfalls die Identität und die Hauptgeschäftstätigkeit des Unternehmers, in dessen Auftrag er handelt;
-
-b)
-
-die Anschrift des Ortes, an dem der Unternehmer niedergelassen ist, sowie seine Telefonnummer und E-Mail-Adresse oder Angaben zu anderen Kommunikationsmitteln, die der Unternehmer bzw. gegebenenfalls der Unternehmer, in dessen Auftrag er handelt, anbietet; all diese Kommunikationsmittel ermöglichen es dem Verbraucher, schnell Kontakt zum Unternehmer aufzunehmen und effizient mit ihm zu kommunizieren, und stellen sicher, dass der Verbraucher etwaige schriftliche Korrespondenz mit dem Unternehmer auf einem dauerhaften Datenträger speichern kann;
-
-c)
-
-einschlägige Kontaktangaben, die es dem Verbraucher ermöglichen, Beschwerden an den Unternehmer sowie gegebenenfalls an den Unternehmer, in dessen Auftrag er handelt, zu richten;
-
-d)
-
-wenn der Unternehmer in ein Handelsregister oder ein vergleichbares öffentliches Register eingetragen ist, das Register, in das er eingetragen ist, und die Registernummer oder eine gleichwertige in diesem Register verwendete Kennung;
-
-e)
-
-soweit für die Tätigkeit des Unternehmers eine Zulassung erforderlich ist, den Namen, die Anschrift, die Website und etwaige andere Kontaktangaben der zuständigen Aufsichtsbehörde;
-
-f)
-
-eine Beschreibung der wesentlichen Merkmale der Finanzdienstleistung;
-
-g)
-
-den Gesamtpreis, den der Verbraucher dem Unternehmer für die Finanzdienstleistung schuldet, einschließlich aller damit verbundenen Provisionen, Gebühren, und Abgaben sowie aller über den Unternehmer abgeführten Steuern, oder, wenn kein genauer Preis angegeben werden kann, die Grundlage für seine Berechnung, die dem Verbraucher eine Überprüfung des Preises ermöglicht;
-
-h)
-
-gegebenenfalls Informationen zu den Konsequenzen bei Zahlungsverzug oder Zahlungsausfall;
-
-i)
-
-gegebenenfalls den Hinweis, dass der Preis auf der Grundlage einer automatisierten Entscheidungsfindung personalisiert worden ist;
-
-j)
-
-gegebenenfalls einen Hinweis, dass sich die Finanzdienstleistung auf Finanzinstrumente bezieht, die wegen ihrer spezifischen Merkmale oder der durchzuführenden Vorgänge mit speziellen Risiken behaftet sind oder deren Preis Schwankungen auf dem Finanzmarkt unterliegt, auf die der Unternehmer keinen Einfluss hat, und einen Hinweis, dass in der Vergangenheit erwirtschaftete Erträge kein Indikator für künftige Erträge sind;
-
-k)
-
-einen Hinweis auf mögliche weitere Steuern und/oder Kosten, die nicht über den Unternehmer abgeführt oder von ihm in Rechnung gestellt werden;
-
-l)
-
-etwaige Beschränkungen des Zeitraums, während dessen die gemäß diesem Absatz zur Verfügung gestellten Informationen gültig sind;
-
-m)
-
-Einzelheiten hinsichtlich der Zahlung und der Erfüllung;
-
-n)
-
-etwaige spezifische zusätzliche Kosten, die der Verbraucher für die Benutzung des Fernkommunikationsmittels zu tragen hat, wenn solche zusätzlichen Kosten in Rechnung gestellt werden;
-
-o)
-
-wenn ökologische oder soziale Faktoren in die Anlagestrategie der Finanzdienstleistung eingebunden werden, Informationen über ökologische oder soziale Ziele, die mit der Finanzdienstleistung verfolgt werden;
-
-p)
-
-das Bestehen oder Nichtbestehen eines Widerrufsrechts und für den Fall, dass ein Widerrufsrecht besteht, Angaben zur Widerrufsfrist und zu den Modalitäten für die Ausübung des Widerrufsrechts, einschließlich des Betrags, den der Verbraucher gegebenenfalls zu entrichten hat, sowie die Folgen der Nichtausübung dieses Rechts;
-
-q)
-
-die Mindestlaufzeit des Fernabsatzvertrags, wenn dieser die Erbringung einer dauerhaften oder regelmäßig wiederkehrenden Finanzdienstleistung zum Inhalt hat;
-
-r)
-
-Angaben zum Recht der Parteien, den Fernabsatzvertrag vorzeitig oder einseitig aufgrund der Vertragsbedingungen zu kündigen, einschließlich aller Vertragsstrafen, die in einem solchen Fall auferlegt werden;
-
-s)
-
-praktische Hinweise und Verfahren zur Ausübung des Widerrufsrechts nach Artikel 16b Absatz 1, darunter Telefonnummer und E-Mail-Adresse des Unternehmers oder Angaben zu anderen einschlägigen Kommunikationsmitteln für die Übermittlung der Widerrufserklärung, und bei über eine Online-Benutzeroberfläche geschlossenen Finanzdienstleistungsverträgen Informationen über das Bestehen und die Platzierung der Widerrufsfunktion nach Artikel 11a;
-
-t)
-
-etwaige Vertragsklauseln, die das auf den Fernabsatzvertrag anwendbare Recht und/oder das zuständige Gericht bestimmen;
-
-u)
-
-in welcher Sprache oder in welchen Sprachen die Vertragsbedingungen und die in diesem Artikel genannten Vorabinformationen mitgeteilt werden, sowie über die Sprache oder die Sprachen, zu deren Benutzung sich der Unternehmer mit Zustimmung des Verbrauchers für die Kommunikation während der Laufzeit des Fernabsatzvertrags verpflichtet;
-
-v)
-
-gegebenenfalls die Möglichkeit des Zugangs zu einem außergerichtlichen Beschwerde- und Rechtsbehelfsverfahren, dem der Unternehmer unterworfen ist, und die Voraussetzungen für diesen Zugang;
-
-w)
-
-das Bestehen eines Garantiefonds oder anderer Entschädigungsregelungen, die nicht unter die Richtlinien 2014/49/EU (
-
-7
-
-) und 97/9/EG (
-
-8
-
-) des Europäischen Parlaments und des Rates fallen.
-
-(2)
-
-Die Mitgliedstaaten können Anforderungen hinsichtlich der zu verwendenden Sprache in Bezug auf die Informationen gemäß Absatz 1 in ihrem nationalen Recht beibehalten oder einführen, um sicherzustellen, dass diese Informationen vom Verbraucher ohne Weiteres verstanden werden.
-
-(3)
-
-Bei der fernmündlichen Kommunikation werden die Identität des Unternehmers und der geschäftliche Zweck des vom Unternehmer initiierten Anrufs zu Beginn eines jeden Anrufs mit dem Verbraucher ausdrücklich klargestellt. Wenn ein Anruf aufgezeichnet wird oder aufgezeichnet werden könnte, wird der Verbraucher vom Unternehmer entsprechend in Kenntnis gesetzt.
-
-(4)
-
-Abweichend von Absatz 1 gilt im Falle der fernmündlichen Kommunikation gemäß Absatz 3, dass der Unternehmer, sofern der Verbraucher ausdrücklich zustimmt, nur die in Absatz 1 Buchstaben a, f, g, k und p genannten Informationen bereitstellen kann, bevor der Verbraucher durch den Fernabsatzvertrag gebunden ist. In diesem Fall unterrichtet der Unternehmer den Verbraucher über Art und Verfügbarkeit der übrigen in Absatz 1 genannten Informationen. Der Unternehmer stellt diese übrigen gemäß Absatz 1 geforderten Informationen nach Abschluss des Fernabsatzvertrags unverzüglich auf einem dauerhaften Datenträger bereit.
-
-(5)
-
-Für den Fall, dass die in Absatz 1 genannten Informationen weniger als einen Tag vor dem Zeitpunkt, zu dem der Verbraucher durch den Fernabsatzvertrag gebunden ist, bereitgestellt werden, schreiben die Mitgliedstaaten vor, dass der Unternehmer den Verbraucher an die Möglichkeit des Widerrufs des Fernabsatzvertrags nach Artikel 16b sowie an das Verfahren für den Widerruf erinnert. Diese Erinnerung wird dem Verbraucher zwischen einem und sieben Tagen nach Abschluss des Fernabsatzvertrags auf einem dauerhaften Datenträger übermittelt.
-
-(6)
-
-Die in Absatz 1 genannten Informationen werden dem Verbraucher auf einem dauerhaften Datenträger zur Verfügung gestellt und sind leicht lesbar.
-
-Die in Absatz 1 genannten Informationen werden Verbrauchern mit Behinderungen, einschließlich Verbrauchern mit einer Sehbehinderung, auf Verlangen in einem geeigneten und barrierefreien Format zur Verfügung gestellt.
-
-(7)
-
-Mit Ausnahme der in Absatz 1 Buchstaben a, f, g, k und p genannten Informationen ist es dem Unternehmer erlaubt, die Informationen zu schichten, wenn sie auf elektronischem Wege bereitgestellt werden.
-
-Werden die Informationen geschichtet, so muss es möglich sein, die in Absatz 1 genannten Informationen in einem einzigen Dokument einzusehen, zu speichern und auszudrucken.
-
-In diesem Fall stellt der Unternehmer sicher, dass dem Verbraucher vor Abschluss des Fernabsatzvertrags alle in Absatz 1 genannten vorvertraglichen Informationen zur Verfügung gestellt werden.
-
-(8)
-
-Die Beweislast für die Erfüllung der in diesem Artikel genannten Informationspflichten obliegt dem Unternehmer.
-
-(9)
-
-Die Mitgliedstaaten können strengere als die im vorliegenden Artikel genannten Bestimmungen über vorvertragliche Informationspflichten einführen oder beibehalten, sofern diese mit dem Unionsrecht vereinbar sind.
-
-(10)
-
-Enthält ein anderer Unionsrechtsakt, der spezifische Finanzdienstleistungen regelt, Vorschriften über die Informationen, die dem Verbraucher vor Abschluss des Vertrags zur Verfügung zu stellen sind, so gelten — unabhängig von ihrem Detaillierungsgrad — nur die Vorschriften des genannten Unionsrechtsakts für diese spezifischen Finanzdienstleistungen, sofern in diesem Unionsrechtsakt nichts anderes bestimmt ist.
-
-Enthält dieser andere Unionsrechtsakt keine Vorschriften über Informationen zum Widerrufsrecht, so unterrichtet der Unternehmer den Verbraucher im Einklang mit Absatz 1 Buchstabe p über das Bestehen oder Nichtbestehen eines solchen Rechts.
-
-Artikel 16b
-
-Widerrufsrecht bei Fernabsatzverträgen über Finanzdienstleistungen
-
-(1)
-
-Die Mitgliedstaaten stellen sicher, dass der Verbraucher den Vertrag innerhalb einer Frist von 14 Kalendertagen widerrufen kann, ohne eine Vertragsstrafe zahlen oder Gründe nennen zu müssen. Bei Fernabsatzverträgen über die Altersversorgung von Einzelpersonen wird diese Frist auf 30 Kalendertage verlängert.
-
-Die in Unterabsatz 1 genannte Widerrufsfrist beginnt entweder
-
-a)
-
-am Tag des Abschlusses des Fernabsatzvertrags oder
-
-b)
-
-an dem Tag, an dem der Verbraucher die Vertragsbedingungen und die Informationen nach Artikel 16a erhält, sofern dieser nach dem unter Buchstabe a dieses Unterabsatzes genannten Tag liegt.
-
-Hat der Verbraucher die Vertragsbedingungen und die Informationen gemäß Artikel 16a nicht erhalten, so endet die Widerrufsfrist auf jeden Fall zwölf Monate und 14 Tage nach Abschluss des Fernabsatzvertrags. Dies gilt nicht, wenn der Verbraucher nicht über sein Widerrufsrecht gemäß Artikel 16a Absatz 1 Buchstabe p belehrt wurde.
-
-(2)
-
-Das Widerrufsrecht gilt nicht für Folgendes:
-
-a)
-
-Finanzdienstleistungen an Verbraucher, deren Preis auf dem Finanzmarkt Schwankungen unterliegt, auf die der Unternehmer keinen Einfluss hat und die innerhalb der Widerrufsfrist auftreten könnten, zum Beispiel Dienstleistungen im Zusammenhang mit
-
-—
-
-Devisen;
-
-—
-
-Geldmarktinstrumenten;
-
-—
-
-handelbaren Wertpapieren;
-
-—
-
-Anteilen an Anlagegesellschaften;
-
-—
-
-Finanztermingeschäften (Futures) einschließlich gleichwertiger Instrumente mit Barzahlung;
-
-—
-
-Zinstermingeschäften (FRAs);
-
-—
-
-Zins- und Devisenswaps sowie Swaps auf Aktien- oder Aktienindexbasis („equity swaps“);
-
-—
-
-Kauf- oder Verkaufsoptionen auf alle unter diesem Buchstaben genannten Instrumente, einschließlich gleichwertiger Instrumente mit Barzahlung. Zu dieser Kategorie gehören insbesondere die Devisen- und die Zinsoptionen;
-
-b)
-
-Reise- und Gepäckversicherungspolicen oder ähnliche kurzfristige Versicherungspolicen mit einer Laufzeit von weniger als einem Monat;
-
-c)
-
-Verträge, die auf ausdrückliches Verlangen des Verbrauchers von beiden Seiten bereits voll erfüllt sind, bevor der Verbraucher sein Widerrufsrecht ausübt.
-
-(3)
-
-Das Widerrufsrecht des Verbrauchers gilt als innerhalb der in Absatz 1 genannten Widerrufsfrist ausgeübt, wenn er die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf dieser Frist abgesandt hat.
-
-(4)
-
-Erbringt der Unternehmer oder ein Dritter aufgrund einer Vereinbarung zwischen diesem Dritten und dem Unternehmer eine Nebenleistung im Zusammenhang mit dem Fernabsatzvertrag über Finanzdienstleistungen, so ist der Verbraucher durch diesen Vertrag über Nebenleistungen nicht gebunden, wenn er sein Widerrufsrecht gemäß diesem Artikel ausübt. Entscheidet der Verbraucher, den Vertrag über Nebenleistungen zu beenden, ist dies für den Verbraucher nicht mit Kosten verbunden.
-
-(5)
-
-Dieser Artikel gilt unbeschadet nationaler Rechtsvorschriften, die eine Frist vorsehen, innerhalb derer die Ausführung des Vertrags nicht beginnen darf.
-
-(6)
-
-Enthält ein anderer Unionsrechtsakt, der spezifische Finanzdienstleistungen regelt, Vorschriften über das Widerrufsrecht, so gelten für diese spezifischen Finanzdienstleistungen nur die Vorschriften über das Widerrufsrecht in dem genannten Unionsrechtsakt, sofern in dem anderen Unionsrechtsakt nichts anderes bestimmt ist. Dürfen die Mitgliedstaaten nach diesem anderen Unionsrechtsakt zwischen dem Widerrufsrecht und einer Alternative, beispielsweise einer Bedenkzeit, wählen, so gelten für diese spezifischen Finanzdienstleistungen nur die entsprechenden Vorschriften dieses Unionsrechtsakts, sofern in dem anderen Unionsrechtsakt nichts anderes bestimmt ist.
-
-(7)
-
-Abweichend von diesem Artikel können die Mitgliedstaaten stattdessen in Bezug auf das Widerrufsrecht oder eine Bedenkzeit beschließen, die folgenden Bestimmungen auf die nachstehend genannten Finanzdienstleistungen anzuwenden:
-
-a)
-
-Artikel 14 Absatz 6 der Richtlinie 2014/17/EU des Europäischen Parlaments und des Rates (
-
-9
-
-) auf Kreditverträge, die nach Artikel 3 Absatz 2 der genannten Richtlinie von deren Anwendungsbereich ausgenommen sind, und
-
-b)
-
-die Artikel 26 und 27 der Richtlinie (EU) 2023/2225 des Europäischen Parlaments und des Rates (
-
-10
-
-) auf Kreditverträge, die nach Artikel 2 Absatz 2 der genannten Richtlinie von deren Anwendungsbereich ausgenommen sind.
-
-Artikel 16c
-
-Zahlung für die vor Widerruf des Vertrags erbrachte Dienstleistung
-
-(1)
-
-Übt der Verbraucher das Widerrufsrecht nach Artikel 16b aus, so darf von ihm lediglich die Zahlung für die vom Unternehmer nach dem Fernabsatzvertrag tatsächlich erbrachten Dienstleistungen verlangt werden. Der Verbraucher bezahlt diese Dienstleistungen unverzüglich. Der zu zahlende Betrag darf
-
-a)
-
-einen Betrag nicht überschreiten, der dem Anteil der bereits erbrachten Dienstleistungen am Gesamtumfang der im Fernabsatzvertrag vorgesehenen Dienstleistungen entspricht;
-
-b)
-
-in keinem Fall so bemessen sein, dass er als Vertragsstrafe ausgelegt werden könnte.
-
-(2)
-
-Die Mitgliedstaaten können bestimmen, dass Verbraucher keinen Betrag schulden, wenn sie einen Versicherungsvertrag widerrufen.
-
-(3)
-
-Der Unternehmer darf vom Verbraucher nur dann eine Zahlung nach Absatz 1 dieses Artikels verlangen, wenn der Unternehmer nachweisen kann, dass der Verbraucher über den zu zahlenden Betrag nach Artikel 16a Absatz 1 Buchstabe p ordnungsgemäß unterrichtet worden ist. Der Unternehmer kann eine solche Zahlung jedoch nicht verlangen, wenn er vor Ende der Widerrufsfrist nach Artikel 16b Absatz 1 ohne vorheriges Verlangen des Verbrauchers mit der Vertragsausführung begonnen hat.
-
-(4)
-
-Der Unternehmer erstattet dem Verbraucher unverzüglich, spätestens aber innerhalb von 30 Kalendertagen ab dem Tag, an dem der Unternehmer die Mitteilung über den Widerruf erhält, jeden Betrag, den der Unternehmer vom Verbraucher nach dem Fernabsatzvertrag erhalten hat, mit Ausnahme des in Absatz 1 genannten Betrags.
-
-(5)
-
-Der Verbraucher erstattet dem Unternehmer unverzüglich, spätestens aber innerhalb von 30 Kalendertagen ab dem Tag, an dem der Verbraucher den Vertrag widerruft, jeden Betrag, den er vom Unternehmer erhalten hat.
-
-Artikel 16d
-
-Angemessene Erläuterungen
-
-(1)
-
-Die Mitgliedstaaten stellen sicher, dass Unternehmer verpflichtet sind, dem Verbraucher angemessene Erläuterungen zu den angebotenen Finanzdienstleistungsverträgen zu geben, damit der Verbraucher beurteilen kann, ob der angebotene Vertrag und die Nebenleistungen seinen Bedürfnissen und seiner finanziellen Situation entsprechen. Diese Erläuterungen werden dem Verbraucher vor Vertragsabschluss und kostenlos zur Verfügung gestellt. Die Erläuterungen müssen Folgendes umfassen:
-
-a)
-
-die erforderlichen vorvertraglichen Informationen;
-
-b)
-
-die Hauptmerkmale des angebotenen Vertrags, einschließlich möglicher Nebenleistungen;
-
-c)
-
-die besonderen Folgen, die sich aus dem angebotenen Vertrag für den Verbraucher ergeben können, gegebenenfalls einschließlich der Konsequenzen bei Zahlungsausfall oder Zahlungsverzug des Verbrauchers.
-
-(2)
-
-Die Mitgliedstaaten können festlegen, auf welche Art und Weise und in welchem Umfang die in Absatz 1 genannten Erläuterungen bereitgestellt werden. Die Mitgliedstaaten können die Art und Weise an die Umstände, unter denen die Finanzdienstleistung angeboten wird, an die Person, der sie angeboten wird, und an die Art der angebotenen Finanzdienstleistung anpassen.
-
-(3)
-
-Die Mitgliedstaaten stellen sicher, dass der Verbraucher, falls der Unternehmer Online-Tools verwendet, in der vorvertraglichen Phase sowie in begründeten Fällen auch nach Abschluss des Fernabsatzvertrags das Recht hat, in der Sprache der vorvertraglichen Informationen nach Artikel 16a Absatz 1 menschliches Eingreifen zu verlangen und zu erwirken.
-
-(4)
-
-Die Beweislast für die Erfüllung der in diesem Artikel genannten Anforderungen bezüglich angemessener Erläuterungen obliegt dem Unternehmer.
-
-(5)
-
-Enthält ein anderer Unionsrechtsakt, der spezifische Finanzdienstleistungen regelt, Vorschriften über angemessene Erläuterungen, die dem Verbraucher zur Verfügung zu stellen sind, so gelten für diese spezifischen Finanzdienstleistungen nur die Vorschriften über angemessene Erläuterungen in diesem Unionsrechtsakt, sofern darin nichts anderes bestimmt ist.
-
-Artikel 16e
-
-Zusätzlicher Schutz in Bezug auf Online-Benutzeroberflächen
-
-(1)
-
-Unbeschadet der Richtlinie 2005/29/EG und der Verordnung (EU) 2016/679 stellen die Mitgliedstaaten sicher, dass Unternehmer beim Abschluss von Finanzdienstleistungsverträgen im Fernabsatz ihre Online-Benutzeroberfläche im Sinne von Artikel 3 Buchstabe m der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates (
-
-11
-
-) nicht so konzipieren, organisieren oder betreiben, dass Verbraucher, die Empfänger ihrer Dienstleistungen sind, manipuliert oder anderweitig in ihrer Fähigkeit, freie und informierte Entscheidungen zu treffen, maßgeblich beeinträchtigt oder behindert werden. Insbesondere erlassen die Mitgliedstaaten Maßnahmen, die sich im Einklang mit dem Unionsrecht mit mindestens einer der folgenden Praktiken von Unternehmern befassen:
-
-a)
-
-stärkere Hervorhebung bestimmter Auswahlmöglichkeiten, wenn Verbraucher, die Empfänger der Dienstleistungen sind, aufgefordert werden, eine Entscheidung zu treffen,
-
-b)
-
-wiederholte Aufforderung an Verbraucher, die Empfänger der Dienstleistung sind, eine Auswahl zu treffen, wenn eine solche Auswahl bereits getroffen wurde, insbesondere durch die Einblendung eines Pop-up-Fensters, mit der die Nutzererfahrung beeinträchtigt wird, oder
-
-c)
-
-Erschwerung des Verfahrens zur Beendigung eines Dienstes im Vergleich zur Anmeldung bei diesem Dienst.
-
-(2)
-
-Die Mitgliedstaaten können strengere als die in Absatz 1 genannten Bestimmungen über Pflichten für Unternehmer einführen oder beibehalten, sofern die Bestimmungen mit dem Unionsrecht vereinbar sind.
-
-▼B
-
-KAPITEL IV
-
-SONSTIGE VERBRAUCHERRECHTE
-
-Artikel 17
-
-Geltungsbereich
-
-(1)
-
-Die Artikel 18 und 20 gelten für Kaufverträge. Diese Artikel gelten nicht für Verträge über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden.
-
-(2)
-
-Die Artikel 19, 21 und 22 finden auf Kauf- und Dienstleistungsverträge und Verträge über die Lieferung von Wasser, Gas, Strom, Fernwärme oder digitalen Inhalten Anwendung.
-
-Artikel 18
-
-Lieferung
-
-(1)
-
-Sofern die Vertragsparteien hinsichtlich des Zeitpunkts der Lieferung nichts anderes vereinbart haben, liefert der Unternehmer die Waren, indem er den physischen Besitz an den Waren oder die Kontrolle über die Waren dem Verbraucher unverzüglich, jedoch nicht später als dreißig Tage nach Vertragsabschluss, überträgt.
-
-(2)
-
-Ist der Unternehmer seiner Pflicht zur Lieferung der Waren zu dem mit dem Verbraucher vereinbarten Zeitpunkt oder innerhalb der in Absatz 1 genannten Frist nicht nachgekommen, so fordert ihn der Verbraucher auf, die Lieferung innerhalb einer den Umständen angemessenen zusätzlichen Frist vorzunehmen. Liefert der Unternehmer die Waren nicht innerhalb dieser zusätzlichen Frist, so ist der Verbraucher berechtigt, vom Vertrag zurückzutreten.
-
-Unterabsatz 1 gilt nicht für Kaufverträge, wenn sich der Unternehmer geweigert hat, die Waren zu liefern, oder wenn die Lieferung innerhalb der vereinbarten Frist unter Berücksichtigung aller den Vertragsabschluss begleitenden Umstände wesentlich ist oder wenn der Verbraucher dem Unternehmer vor Vertragsabschluss mitteilt, dass die Lieferung bis zu einem bestimmten Datum oder an einem bestimmten Tag wesentlich ist. In diesen Fällen ist der Verbraucher berechtigt, sofort vom Vertrag zurückzutreten, wenn der Unternehmer die Waren nicht zu dem mit dem Verbraucher vereinbarten Zeitpunkt oder innerhalb der Frist gemäß Absatz 1 liefert.
-
-(3)
-
-Im Fall des Rücktritts hat der Unternehmer unverzüglich alle gemäß dem Vertrag gezahlten Beträge zurückzuerstatten.
-
-(4)
-
-Zusätzlich zum Rücktrittsrecht gemäß Absatz 2 können dem Verbraucher andere, nach dem einzelstaatlichen Recht vorgesehene Rechtsbehelfe zur Verfügung stehen.
-
-Artikel 19
-
-Entgelte für die Verwendung bestimmter Zahlungsmittel
-
-Die Mitgliedstaaten verbieten Unternehmern, von Verbrauchern für die Nutzung von Zahlungsmitteln Entgelte zu verlangen, die über die Kosten hinausgehen, die dem Unternehmer für die Nutzung solcher Zahlungsmittel entstehen.
-
-Artikel 20
-
-Risikoübergang
-
-Bei Verträgen, bei denen der Unternehmer die Waren an den Verbraucher versendet, geht das Risiko für einen Verlust oder eine Beschädigung der Waren auf den Verbraucher über, wenn er oder ein vom Verbraucher benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen hat. Unbeschadet der Rechte des Verbrauchers gegenüber dem Beförderer geht das Risiko mit der Übergabe an den Beförderer jedoch auf den Verbraucher über, wenn der Beförderer vom Verbraucher mit der Beförderung der Waren beauftragt wurde und diese Option nicht vom Unternehmer angeboten wurde.
-
-Artikel 21
-
-Telefonische Kommunikation
-
-Die Mitgliedstaaten sorgen dafür, dass der Verbraucher nicht verpflichtet ist, bei einer telefonischen Kontaktaufnahme mit dem Unternehmer mehr als den Grundtarif zu zahlen, wenn der Unternehmer eine Telefonleitung eingerichtet hat, um mit ihm im Zusammenhang mit dem geschlossenen Vertrag telefonisch Kontakt aufzunehmen.
-
-Das Recht von Anbietern von Telekommunikationsdiensten, Entgelte für solche Anrufe zu berechnen, bleibt von Unterabsatz 1 unberührt.
-
-Artikel 22
-
-Zusätzliche Zahlungen
-
-Bevor der Verbraucher durch den Vertrag oder das Angebot gebunden ist, hat der Unternehmer die ausdrückliche Zustimmung des Verbrauchers zu jeder Extrazahlung einzuholen, die über das vereinbarte Entgelt für die Hauptleistungspflicht des Unternehmers hinausgeht. Hat der Unternehmer vom Verbraucher keine ausdrückliche Zustimmung eingeholt, sondern sie dadurch herbeigeführt, dass er Voreinstellungen verwendet hat, die vom Verbraucher abgelehnt werden müssen, wenn er die zusätzliche Zahlung vermeiden will, so hat der Verbraucher Anspruch auf Erstattung dieser Zahlung.
-
-KAPITEL V
-
-ALLGEMEINE VORSCHRIFTEN
-
-▼M4
-
-Artikel 22a
+„Artikel 22a
 
 Harmonisierte Mitteilung und harmonisierte Kennzeichnung
 
-(1)
+(1) Um sicherzustellen, dass die Verbraucher in der gesamten Union gut informiert sind und ihre Rechte leicht verstehen können, wird für die Bereitstellung von Informationen gemäß Artikel 5 Absatz 1 Buchstabe e und Artikel 6 Absatz 1 Buchstabe l eine harmonisierte Mitteilung und für die Bereitstellung von Informationen gemäß Artikel 5 Absatz 1 Buchstabe ea und Artikel 6 Absatz 1 Buchstabe la eine harmonisierte Kennzeichnung verwendet.
 
-Um sicherzustellen, dass die Verbraucher in der gesamten Union gut informiert sind und ihre Rechte leicht verstehen können, wird für die Bereitstellung von Informationen gemäß Artikel 5 Absatz 1 Buchstabe e und Artikel 6 Absatz 1 Buchstabe l eine harmonisierte Mitteilung und für die Bereitstellung von Informationen gemäß Artikel 5 Absatz 1 Buchstabe ea und Artikel 6 Absatz 1 Buchstabe la eine harmonisierte Kennzeichnung verwendet.
+(2) Bis 27. September 2025 legt die Kommission im Wege von Durchführungsrechtsakten die Gestaltung und den Inhalt der in Absatz 1 genannten harmonisierten Mitteilung fest.
 
-(2)
+(3) Die harmonisierte Mitteilung enthält die wichtigsten Elemente des gesetzlichen Gewährleistungsrechts, einschließlich seiner in der Richtlinie (EU) 2019/771 festgelegten Mindestdauer von zwei Jahren und eines allgemeinen Verweises darauf, dass das gesetzliche Gewährleistungsrecht nach nationalem Recht länger sein kann.
 
-Bis 27. September 2025 legt die Kommission im Wege von Durchführungsrechtsakten die Gestaltung und den Inhalt der in Absatz 1 genannten harmonisierten Mitteilung fest.
+(4) Bis 27. September 2025 legt die Kommission im Wege von Durchführungsrechtsakten die Gestaltung und den Inhalt der in Absatz 1 genannten harmonisierten Kennzeichnung fest.
 
-(3)
+(5) Die harmonisierte Mitteilung und die harmonisierte Kennzeichnung sind für die Verbraucher leicht erkennbar und verständlich sowie für Unternehmer leicht zu verwenden und zu reproduzieren.
 
-Die harmonisierte Mitteilung enthält die wichtigsten Elemente des gesetzlichen Gewährleistungsrechts, einschließlich seiner in der Richtlinie (EU) 2019/771 festgelegten Mindestdauer von zwei Jahren und eines allgemeinen Verweises darauf, dass das gesetzliche Gewährleistungsrecht nach nationalem Recht länger sein kann.
-
-(4)
-
-Bis 27. September 2025 legt die Kommission im Wege von Durchführungsrechtsakten die Gestaltung und den Inhalt der in Absatz 1 genannten harmonisierten Kennzeichnung fest.
-
-(5)
-
-Die harmonisierte Mitteilung und die harmonisierte Kennzeichnung sind für die Verbraucher leicht erkennbar und verständlich sowie für Unternehmer leicht zu verwenden und zu reproduzieren.
-
-(6)
-
-Diese Durchführungsrechtsakte werden gemäß dem in Artikel 27a genannten Prüfverfahren erlassen.
-
-▼B
-
-Artikel 23
-
-Rechtsdurchsetzung
-
-(1)
-
-Die Mitgliedstaaten sorgen dafür, dass angemessene und wirksame Mittel vorhanden sind, mit denen die Einhaltung dieser Richtlinie sichergestellt wird.
-
-(2)
-
-Die in Absatz 1 genannten Mittel schließen Rechtsvorschriften ein, nach denen eine oder mehrere der folgenden nach den innerstaatlichen Rechtsvorschriften bestimmten Einrichtungen gemäß dem jeweiligen innerstaatlichen Recht die Gerichte oder die zuständigen Verwaltungsbehörden anrufen kann bzw. können, um die Anwendung der innerstaatlichen Vorschriften zur Umsetzung dieser Richtlinie sicherzustellen:
-
-a)
-
-öffentliche Einrichtungen oder ihre Vertreter;
-
-b)
-
-Verbraucherverbände, die ein berechtigtes Interesse am Schutz der Verbraucher haben;
-
-c)
-
-Berufsverbände, die ein berechtigtes Interesse daran haben, tätig zu werden.
-
-▼M2
-
-Artikel 24
-
-Sanktionen
-
-(1)
-
-Die Mitgliedstaaten erlassen Vorschriften über Sanktionen, die bei Verstößen gegen die gemäß dieser Richtlinie erlassenen nationalen Vorschriften zu verhängen sind, und treffen alle für die Anwendung der Sanktionen erforderlichen Maßnahmen. Die vorgesehenen Sanktionen müssen wirksam, verhältnismäßig und abschreckend sein.
-
-(2)
-
-Die Mitgliedstaaten stellen sicher, dass bei der Verhängung der Sanktionen folgende als nicht abschließend zu verstehende und beispielhafte Kriterien, sofern zutreffend, berücksichtigt werden:
-
-a)
-
-die Art, die Schwere, der Umfang und die Dauer des Verstoßes;
-
-b)
-
-Maßnahmen des Unternehmers zur Minderung oder Beseitigung des Schadens, der Verbrauchern entstanden ist;
-
-c)
-
-frühere Verstöße des Unternehmers;
-
-d)
-
-vom Unternehmer aufgrund des Verstoßes erlangte finanzielle Vorteile oder vermiedene Verluste, wenn dazu die entsprechenden Daten verfügbar sind;
-
-e)
-
-Sanktionen, die gegen den Unternehmer für denselben Verstoß in grenzüberschreitenden Fällen in anderen Mitgliedstaaten verhängt wurden, sofern Informationen über solche Sanktionen im Rahmen des aufgrund der Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates (
-
-12
-
-) errichteten Mechanismus verfügbar sind;
-
-f)
-
-andere erschwerende oder mildernde Umstände im jeweiligen Fall.
-
-(3)
-
-Die Mitgliedstaaten stellen sicher, dass im Rahmen der Verhängung von Sanktionen nach Artikel 21 der Verordnung (EU) 2017/2394 entweder Geldbußen im Verwaltungsverfahren verhängt werden können oder gerichtliche Verfahren zur Verhängung einer Geldbuße eingeleitet werden können oder beides erfolgen kann, wobei sich der Höchstbetrag solcher Geldbußen auf mindestens 4 % des Jahresumsatzes des Unternehmers in dem (den) betreffenden Mitgliedstaat(en) beläuft.
-
-(4)
-
-Für den Fall, dass eine Geldbuße gemäß Absatz 3 zu verhängen ist, jedoch keine Informationen über den Jahresumsatz des Unternehmers verfügbar sind, sehen die Mitgliedstaaten die Möglichkeit der Verhängung von Geldbußen mit einem Höchstbetrag von mindestens 2 Mio. EUR vor.
-
-(5)
-
-Die Mitgliedstaaten teilen der Kommission ihre Vorschriften und Maßnahmen nach Absatz 1 bis zum 28. November 2021 mit und unterrichten sie unverzüglich über etwaige spätere Änderungen dieser Vorschriften und Maßnahmen.
-
-▼M3
+(6) Diese Durchführungsrechtsakte werden gemäß dem in Artikel 27a genannten Prüfverfahren erlassen.“
 
 6.
 
-In Bezug auf Verstöße gegen die nach den in Artikel 3 Absatz 1b genannten Bestimmungen erlassenen, für Fernabsatzverträge über Finanzdienstleistungen an Verbraucher geltenden Maßnahmen stellen die Mitgliedstaaten sicher, dass im Rahmen der Verhängung von Sanktionen nach Artikel 21 der Verordnung (EU) 2017/2394 entweder Geldbußen im Verwaltungsverfahren verhängt werden können oder gerichtliche Verfahren zur Verhängung von Geldbußen eingeleitet werden können oder beides erfolgen kann.
+Folgender Artikel wird eingefügt:
 
-▼B
-
-Artikel 25
-
-Unabdingbarkeit der Richtlinie
-
-Ist auf den Vertrag das Recht eines Mitgliedstaats anwendbar, so können Verbraucher auf die Rechte, die ihnen mit den einzelstaatlichen Maßnahmen zur Umsetzung dieser Richtlinie eingeräumt werden, nicht verzichten.
-
-Vertragsklauseln, die einen Verzicht auf die sich aus dieser Richtlinie ergebenden Rechte oder deren Einschränkung unmittelbar oder mittelbar bewirken, sind für den Verbraucher nicht bindend.
-
-Artikel 26
-
-Information
-
-Die Mitgliedstaaten treffen angemessene Maßnahmen zur Information der Verbraucher und der Unternehmer über die innerstaatlichen Rechtsvorschriften zur Umsetzung dieser Richtlinie und legen gegebenenfalls den Unternehmern sowie den Urhebern eines Kodex im Sinne des Artikels 2 Buchstabe g der Richtlinie 2005/29/EG nahe, die Verbraucher über ihre Verhaltenskodizes zu informieren.
-
-Artikel 27
-
-Unbestellte Waren und Dienstleistungen
-
-Werden unter Verstoß gegen Artikel 5 Absatz 5 und Anhang I Nummer 29 der Richtlinie 2005/29/EG unbestellte Waren, Wasser, Gas, Strom, Fernwärme oder digitaler Inhalt geliefert oder unbestellte Dienstleistungen erbracht, so ist der Verbraucher von der Pflicht zur Erbringung der Gegenleistung befreit. In diesen Fällen gilt das Ausbleiben einer Antwort des Verbrauchers auf eine solche unbestellte Lieferung oder Erbringung nicht als Zustimmung.
-
-▼M4
-
-Artikel 27a
+„Artikel 27a
 
 Ausschussverfahren
 
-(1)
+(1) Die Kommission wird von einem Ausschuss unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates
+(
+*4
+)
+.
 
-Die Kommission wird von einem Ausschuss unterstützt. Dieser Ausschuss ist ein Ausschuss im Sinne der Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates (
+(2) Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) Nr. 182/2011.
 
-13
+(
+*4
+)
+Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung der Durchführungsbefugnisse durch die Kommission kontrollieren (
+ABl. L 55 vom 28.2.2011, S. 13
+.“
+"
 
-).
-
-(2)
-
-Wird auf diesen Absatz Bezug genommen, so gilt Artikel 5 der Verordnung (EU) Nr. 182/2011.
-
-▼B
-
-Artikel 28
-
-Umsetzung
-
-(1)
-
-Die Mitgliedstaaten erlassen und veröffentlichen bis zum 13. Dezember 2013 die Rechts- und Verwaltungsvorschriften, die erforderlich sind, um dieser Richtlinie nachzukommen. Sie teilen der Kommission unverzüglich den Wortlaut dieser Maßnahmen in Form von Dokumenten mit. Die Kommission bedient sich für die Zwecke des in Artikel 30 genannten Berichts dieser Dokumente.
-
-Sie wenden diese Maßnahmen ab dem 13. Juni 2014 an.
-
-Bei Erlass dieser Maßnahmen nehmen die Mitgliedstaaten in den Vorschriften selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf diese Richtlinie Bezug. Die Mitgliedstaaten regeln die Einzelheiten der Bezugnahme.
-
-(2)
-
-Diese Richtlinie gilt für Verträge, die nach dem 13. Juni 2014 geschlossen werden.
-
-Artikel 29
-
-Berichtspflichten
-
-▼M3
-
-1.
-
-Macht ein Mitgliedstaat von einer Regelungsmöglichkeit nach Artikel 3 Absatz 4, Artikel 6 Absätze 7 und 8, Artikel 7 Absatz 4, Artikel 8 Absatz 6, Artikel 9 Absätze 1a und 3, Artikel 16 Absätze 2 und 3, Artikel 16a Absätze 2 und 9, Artikel 16b Absatz 7 sowie Artikel 16e Gebrauch, so setzt er die Kommission hierüber bis zum 19. Dezember 2025 sowie über etwaige spätere Änderungen in Kenntnis.
-
-▼B
-
-(2)
-
-Die Kommission stellt sicher, dass die in Absatz 1 genannten Informationen den Verbrauchern und den Unternehmern leicht zugänglich sind, u. a. auf einer speziellen Webseite.
-
-(3)
-
-Die Kommission leitet die in Absatz 1 genannten Informationen an die anderen Mitgliedstaaten und das Europäische Parlament weiter. Die Kommission hört die Beteiligten zu diesen Informationen an.
-
-Artikel 30
+Artikel 3
 
 Berichterstattung durch die Kommission und Überprüfung
 
-Bis 13. Dezember 2016 legt die Kommission dem Europäischen Parlament und dem Rat einen Bericht über die Anwendung dieser Richtlinie vor. Dieser Bericht enthält insbesondere eine Bewertung der Bestimmungen dieser Richtlinie über digitale Inhalte, einschließlich des Widerrufsrechts. Diesem Bericht werden erforderlichenfalls Gesetzgebungsvorschläge zur Anpassung dieser Richtlinie an Entwicklungen auf dem Gebiet der Verbraucherrechte beigefügt.
+Die Kommission legt dem Europäischen Parlament und dem Rat bis 27. September 2031 einen Bericht über die Anwendung dieser Richtlinie vor.
 
-KAPITEL VI
+Dieser Bericht enthält eine Bewertung des Beitrags der vorliegenden Richtlinie zur Stärkung der Verbraucherrechte, insbesondere der Wirksamkeit der harmonisierten Kennzeichnung und der harmonisierten Mitteilung zur Verbesserung der Verfügbarkeit von gewerblichen Haltbarkeitsgarantien und des Verständnisses der Verbraucher davon sowie der Kenntnis der Verbraucher ihrer Ansprüche im Rahmen des gesetzlichen Gewährleistungsrechts. Darüber hinaus werden in dem Bericht der Gesamtbeitrag der vorliegenden Richtlinie zur Beteiligung der Verbraucher am ökologischen Wandel und ihre Auswirkungen auf die Unternehmer bewertet.
 
-SCHLUSSBESTIMMUNGEN
+Dieser Bericht wird erforderlichenfalls zusammen mit einschlägigen Gesetzgebungsvorschlägen vorgelegt.
 
-Artikel 31
+Artikel 4
 
-Aufhebung von Rechtsakten
+Umsetzung
 
-Die Richtlinien 85/577/EWG und 97/7/EG in der Fassung der Richtlinie 2002/65/EG des Europäischen Parlaments und des Rates vom 23. September 2002 über den Fernabsatz von Finanzdienstleistungen an Verbraucher (
+(1) Bis zum 27. März 2026 erlassen und veröffentlichen die Mitgliedstaaten die Maßnahmen, die erforderlich sind, um dieser Richtlinie nachzukommen. Sie teilen dies der Kommission unverzüglich mit.
 
-14
+Sie wenden diese Maßnahmen ab dem 27. September 2026 an.
 
-) und der Richtlinien 2005/29/EG und 2007/64/EG werden mit Wirkung vom 13. Juni 2014 aufgehoben.
+Bei Erlass dieser Maßnahmen nehmen die Mitgliedstaaten in den Maßnahmen selbst oder durch einen Hinweis bei der amtlichen Veröffentlichung auf diese Richtlinie Bezug. Die Mitgliedstaaten legen die Methode einer solchen Bezugnahme fest.
 
-Verweise auf die aufgehobenen Richtlinien gelten als Verweise auf die vorliegende Richtlinie nach der Entsprechungstabelle im Anhang II.
+(2) Die Mitgliedstaaten teilen der Kommission den Wortlaut der wichtigsten nationalen Maßnahmen mit, die sie auf dem unter diese Richtlinie fallenden Gebiet erlassen.
 
-Artikel 32
-
-Änderung der Richtlinie 93/13/EWG
-
-In die Richtlinie 93/13/EWG wird folgender Artikel eingefügt:
-
-„Artikel 8a
-
-(1)
-
-Erlässt ein Mitgliedstaat Vorschriften nach Artikel 8, so setzt er die Kommission hiervon sowie von allen nachfolgenden Änderungen in Kenntnis, insbesondere wenn diese Vorschriften:
-
-—
-
-die Missbräuchlichkeitsprüfung auf individuell ausgehandelte Vertragsklauseln oder auf die Angemessenheit des Preises oder des Entgelts ausdehnen;
-
-—
-
-Listen mit Vertragsklauseln, die als missbräuchlich gelten, enthalten.
-
-(2)
-
-Die Kommission stellt sicher, dass die in Absatz 1 genannten Informationen den Verbrauchern und den Unternehmern leicht zugänglich sind, u. a. auf einer speziellen Webseite.
-
-(3)
-
-Die Kommission leitet die in Absatz 1 genannten Informationen an die anderen Mitgliedstaaten und das Europäische Parlament weiter. Die Kommission hört die Beteiligten zu diesen Informationen an.“
-
-Artikel 33
-
-Änderung der Richtlinie 1999/44/EG
-
-In die Richtlinie 1999/44/EG wird folgender Artikel eingefügt:
-
-„Artikel 8a
-
-Berichtspflichten
-
-(1)
-
-Erlässt ein Mitgliedstaat gemäß Artikel 8 Absatz 2 strengere Verbraucherschutzvorschriften als die in Artikel 5 Absätzen 1 bis 3 und Artikel 7 Absatz 1 vorgesehenen, so setzt er die Kommission hiervon sowie von allen nachfolgenden Änderungen in Kenntnis.
-
-(2)
-
-Die Kommission stellt sicher, dass die in Absatz 1 genannten Informationen den Verbrauchern und den Unternehmern leicht zugänglich sind, u. a. auf einer speziellen Webseite.
-
-(3)
-
-Die Kommission leitet die in Absatz 1 genannten Informationen an die anderen Mitgliedstaaten und das Europäische Parlament weiter. Die Kommission hört die Beteiligten zu diesen Informationen an.“
-
-Artikel 34
+Artikel 5
 
 Inkrafttreten
 
@@ -1889,609 +632,204 @@ Diese Richtlinie tritt am zwanzigsten Tag nach ihrer Veröffentlichung im
 Amtsblatt der Europäischen Union
 in Kraft.
 
-Artikel 35
+Artikel 6
 
 Adressaten
 
 Diese Richtlinie ist an die Mitgliedstaaten gerichtet.
 
-ANHANG I
+Geschehen zu Straßburg am 28. Februar 2024.
 
-Informationen zur Ausübung des Widerrufsrechts
+Im Namen des Europäischen Parlaments
 
-A.
-Muster-Widerrufsbelehrung
+Die Präsidentin
 
-Widerrufsrecht
+R. METSOLA
 
-Sie haben das Recht, binnen vierzehn Tagen ohne Angabe von Gründen diesen Vertrag zu widerrufen.
+Im Namen des Rates
 
-Die Widerrufsfrist beträgt vierzehn Tage ab dem Tag
+Der Präsident
 
+M. MICHEL
+
+(
 1
+)
 
+ABl. C 443 vom 22.11.2022, S. 75
 .
 
-▼M2
-
-Um Ihr Widerrufsrecht auszuüben, müssen Sie uns [2] mittels einer eindeutigen Erklärung (z. B. mit der Post versandter Brief oder E-Mail) über Ihren Entschluss, diesen Vertrag zu widerrufen, informieren. Sie können dafür das beigefügte Muster-Widerrufsformular verwenden, das jedoch nicht vorgeschrieben ist. [3]
-
-▼B
-
-Zur Wahrung der Widerrufsfrist reicht es aus, dass Sie die Mitteilung über die Ausübung des Widerrufsrechts vor Ablauf der Widerrufsfrist absenden.
-
-Folgen des Widerrufs
-
-Wenn Sie diesen Vertrag widerrufen, haben wir Ihnen alle Zahlungen, die wir von Ihnen erhalten haben, einschließlich der Lieferkosten (mit Ausnahme der zusätzlichen Kosten, die sich daraus ergeben, dass Sie eine andere Art der Lieferung als die von uns angebotene, günstigste Standardlieferung gewählt haben), unverzüglich und spätestens binnen vierzehn Tagen ab dem Tag zurückzuzahlen, an dem die Mitteilung über Ihren Widerruf dieses Vertrags bei uns eingegangen ist. Für diese Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der ursprünglichen Transaktion eingesetzt haben, es sei denn, mit Ihnen wurde ausdrücklich etwas anderes vereinbart; in keinem Fall werden Ihnen wegen dieser Rückzahlung Entgelte berechnet.
-
-4
-
-5
-
-6
-
-Gestaltungshinweise:
-
-1.
-
-Fügen Sie einen der folgenden in Anführungszeichen gesetzten Textbausteine ein:
-
-a)
-
-im Falle eines Dienstleistungsvertrags oder eines Vertrags über die Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, von Fernwärme oder von digitalen Inhalten, die nicht auf einem körperlichen Datenträger geliefert werden: „des Vertragsabschlusses.“;
-
-b)
-
-im Falle eines Kaufvertrags:„, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die Waren in Besitz genommen haben bzw. hat.“;
-
-c)
-
-im Falle eines Vertrags über mehrere Waren, die der Verbraucher im Rahmen einer einheitlichen Bestellung bestellt hat und die getrennt geliefert werden:„, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Ware in Besitz genommen haben bzw. hat.“;
-
-d)
-
-im Falle eines Vertrags über die Lieferung einer Ware in mehreren Teilsendungen oder Stücken:„, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die letzte Teilsendung oder das letzte Stück in Besitz genommen haben bzw. hat.“;
-
-e)
-
-im Falle eines Vertrags zur regelmäßigen Lieferung von Waren über einen festgelegten Zeitraum hinweg:„, an dem Sie oder ein von Ihnen benannter Dritter, der nicht der Beförderer ist, die erste Ware in Besitz genommen haben bzw. hat.“
-
-▼M2
-
-2.
-
-Fügen Sie Ihren Namen, Ihre Anschrift, Ihre Telefonnummer und Ihre E-Mail-Adresse ein.
-
-▼M3
-
-3.
-
-Wenn Sie dazu verpflichtet sind, eine Funktion bereitzustellen, mit der der Verbraucher den online geschlossenen Vertrag widerrufen kann, fügen Sie Folgendes ein: „Sie können Ihr Widerrufsrecht auch online unter [Internetadresse oder anderen geeigneten Hinweis darüber eingeben, wo die Widerrufsfunktion verfügbar ist] ausüben. Wenn Sie diese Online-Funktion nutzen, übermitteln wir Ihnen auf einem dauerhaften Datenträger (z. B. durch eine E-Mail) unverzüglich eine Eingangsbestätigung mit Informationen zum Inhalt der Widerrufserklärung sowie dem Datum und der Uhrzeit ihres Eingangs.“ Wenn Sie dem Verbraucher die Wahl einräumen, die Information über seinen Widerruf des Vertrags auf Ihrer Webseite elektronisch auszufüllen und zu übermitteln, fügen Sie Folgendes ein: „Sie können das Muster-Widerrufsformular oder eine andere eindeutige Erklärung auch auf unserer Webseite [Internet-Adresse einfügen] elektronisch ausfüllen und übermitteln. Machen Sie von dieser Möglichkeit Gebrauch, so werden wir Ihnen unverzüglich (z. B. per E-Mail) eine Bestätigung über den Eingang eines solchen Widerrufs übermitteln“.
-
-▼B
-
-4.
-
-Im Falle von Kaufverträgen, in denen Sie nicht angeboten haben, im Fall des Widerrufs die Waren selbst abzuholen, fügen Sie Folgendes ein: „Wir können die Rückzahlung verweigern, bis wir die Waren wieder zurückerhalten haben oder bis Sie den Nachweis erbracht haben, dass Sie die Waren zurückgesandt haben, je nachdem, welches der frühere Zeitpunkt ist.“
-
-5.
-
-Wenn der Verbraucher Waren im Zusammenhang mit dem Vertrag erhalten hat:
-
-a)
-
-Fügen Sie ein:
-
-—
-
-„Wir holen die Waren ab.“ oder
-
-—
-
-„Sie haben die Waren unverzüglich und in jedem Fall spätestens binnen vierzehn Tagen ab dem Tag, an dem Sie uns über den Widerruf dieses Vertrags unterrichten, an … uns oder an [hier sind gegebenenfalls der Name und die Anschrift der von Ihnen zur Entgegennahme der Waren ermächtigten Person einzufügen] zurückzusenden oder zu übergeben. Die Frist ist gewahrt, wenn Sie die Waren vor Ablauf der Frist von vierzehn Tagen absenden.“
-
-b)
-
-Fügen Sie ein:
-
-—
-
-„Wir tragen die Kosten der Rücksendung der Waren.“;
-
-—
-
-„Sie tragen die unmittelbaren Kosten der Rücksendung der Waren.“;
-
-—
-
-Wenn Sie bei einem Fernabsatzvertrag nicht anbieten, die Kosten der Rücksendung der Waren zu tragen und die Waren aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren in Höhe von … EUR [Betrag einfügen].“, oder wenn die Kosten vernünftigerweise nicht im Voraus berechnet werden können: „Sie tragen die unmittelbaren Kosten der Rücksendung der Waren. Die Kosten werden auf höchstens etwa … EUR [Betrag einfügen] geschätzt.“ oder
-
-—
-
-wenn die Waren bei einem außerhalb von Geschäftsräumen geschlossenen Vertrag aufgrund ihrer Beschaffenheit nicht normal mit der Post zurückgesandt werden können und zum Zeitpunkt des Vertragsschlusses zur Wohnung des Verbrauchers geliefert worden sind: „Wir holen die Waren auf unsere Kosten ab.“ und
-
-c)
-
-Fügen Sie ein: „Sie müssen für einen etwaigen Wertverlust der Waren nur aufkommen, wenn dieser Wertverlust auf einen zur Prüfung der Beschaffenheit, Eigenschaften und Funktionsweise der Waren nicht notwendigen Umgang mit ihnen zurückzuführen ist.“
-
-6.
-
-Im Falle eines Vertrags zur Erbringung von Dienstleistungen oder der Lieferung von Wasser, Gas oder Strom, wenn sie nicht in einem begrenzten Volumen oder in einer bestimmten Menge zum Verkauf angeboten werden, oder von Fernwärme fügen Sie Folgendes ein: „Haben Sie verlangt, dass die Dienstleistungen oder Lieferung von Wasser/Gas/Strom/Fernwärme [Unzutreffendes streichen] während der Widerrufsfrist beginnen soll, so haben Sie uns einen angemessenen Betrag zu zahlen, der dem Anteil der bis zu dem Zeitpunkt, zu dem Sie uns von der Ausübung des Widerrufsrechts hinsichtlich dieses Vertrags unterrichten, bereits erbrachten Dienstleistungen im Vergleich zum Gesamtumfang der im Vertrag vorgesehenen Dienstleistungen entspricht.“
-
-B.
-Muster-Widerrufsformular
-
-(Wenn Sie den Vertrag widerrufen wollen, dann füllen Sie bitte dieses Formular aus und senden Sie es zurück)
-
-—
-
-►M2
-
-An [hier ist der Name, die Anschrift und die E-Mail-Adresse des Unternehmers durch den Unternehmer einzufügen]:
-◄
-
-—
-
-Hiermit widerrufe(n) ich/wir (
-
-*1
-
-) den von mir/uns
-(*1)
-abgeschlossenen Vertrag über den Kauf der folgenden Waren
-(*1)
-/die Erbringung der folgenden Dienstleistung
-(*1)
-
-—
-
-Bestellt am
-(*1)
-/erhalten am
-(*1)
-
-—
-
-Name des/der Verbraucher(s)
-
-—
-
-Anschrift des/der Verbraucher(s)
-
-—
-
-Unterschrift des/der Verbraucher(s) (nur bei Mitteilung auf Papier)
-
-—
-
-Datum
-
-ANHANG II
-
-Entsprechungstabelle
-
-Richtlinie 85/577/EWG
-
-Richtlinie 97/7/EG
-
-Diese Richtlinie
-
-Artikel 1
-
-Artikel 3 in Verbindung mit Artikel 2 Nummer 8 und 9 und Artikel 16 Buchstabe h
-
-Artikel 1
-
-Artikel 1 in Verbindung mit Artikel 2 Nummer 7
-
-Artikel 2
-
-Artikel 2 Nummer 1 und 2
-
-Artikel 2 Nummer 1
-
-Artikel 2 Nummer 7
-
-Artikel 2 Nummer 2
-
-Artikel 2 Nummer 1
-
-Artikel 2 Nummer 3
-
-Artikel 2 Nummer 2
-
-Artikel 2 Nummer 4 Satz 1
-
-Artikel 2 Nummer 7
-
-Artikel 2 Nummer 4 Satz 2
-
-—
-
-Artikel 2 Nummer 5
-
-—
-
-Artikel 3 Absatz 1
-
-Artikel 3 Absatz 4
-
-Artikel 3 Absatz 2 Buchstabe a
-
-Artikel 3 Absatz 3 Buchstabe e und f
-
-Artikel 3 Absatz 2 Buchstabe b
-
-Artikel 3 Absatz 3 Buchstabe j
-
-Artikel 3 Absatz 2 Buchstabe c
-
-—
-
-Artikel 3 Absatz 2, Buchstabe d
-
-Artikel 3 Absatz 3 Buchstabe d
-
-Artikel 3 Absatz 2 Buchstabe e
-
-Artikel 3 Absatz 3 Buchstabe d
-
-Artikel 3 Absatz 3
-
-—
-
-Artikel 3 Absatz 1 erster Gedankenstrich
-
-Artikel 3 Absatz 3 Buchstabe d
-
-Artikel 3 Absatz 1 zweiter Gedankenstrich
-
-Artikel 3 Absatz 3 Buchstabe l
-
-Artikel 3 Absatz 1 dritter Gedankenstrich
-
-Artikel 3 Absatz 3 Buchstabe m
-
-Artikel 3 Absatz 1 vierter Gedankenstrich
-
-Artikel 3 Absatz 3 Buchstaben e und f
-
-Artikel 3 Absatz 1 fünfter Gedankenstrich
-
-Artikel 6 Absatz 3 und Artikel 16 Buchstabe k in Verbindung mit Artikel 2 Nummer 13
-
-Artikel 3 Absatz 2 erster Gedankenstrich
-
-Artikel 3 Absatz 3 Buchstabe j
-
-Artikel 3 Absatz 2 zweiter Gedankenstrich
-
-Artikel 3 Absatz 3 Buchstabe f (für die Vermietung von Wohnraum), Buchstabe g (für Pauschalreisen), Buchstabe h (für Teilzeitnutzung), Buchstabe k (für die Beförderung von Personen, mit bestimmten Ausnahmen) und Artikel 16 Buchstabe l (Ausnahme vom Widerrufsrecht)
-
-Artikel 4 Satz 1
-
-Artikel 6 Absatz 1 Buchstabe b, c und h, Artikel 7 Absätze 1 und 2
-
-Artikel 4 Satz 2
-
-Artikel 6 Absatz 1 Buchstabe a und Artikel 7 Absatz 1
-
-Artikel 4 Satz 3
-
-Artikel 6 Absatz 1
-
-Artikel 4 Satz 4
-
-Artikel 10
-
-Artikel 4 Absatz 1 Buchstabe a
-
-Artikel 6 Absatz 1 Buchstaben b und c
-
-Artikel 4 Absatz 1 Buchstabe b
-
-Artikel 6 Absatz 1 Buchstabe a
-
-Artikel 4 Absatz 1 Buchstabe c
-
-Artikel 6 Absatz 1 Buchstabe e
-
-Artikel 4 Absatz 1 Buchstabe d
-
-Artikel 6 Absatz 1 Buchstabe e
-
-Artikel 4 Absatz 1 Buchstabe e
-
-Artikel 6 Absatz 1 Buchstabe g
-
-Artikel 4 Absatz 1Buchstabe f
-
-Artikel 6 Absatz 1 Buchstabe h
-
-Artikel 4 Absatz 1 Buchstabe g
-
-Artikel 6 Absatz 1 Buchstabe f
-
-Artikel 4 Absatz 1 Buchstabe h
-
-—
-
-Artikel 4 Absatz 1 Buchstabe i
-
-Artikel 6 Absatz 1 Buchstaben o und p
-
-Artikel 4 Absatz 2
-
-Artikel 6 Absatz 1 in Verbindung mit Artikel 8 Absatz 1, 2 und 4
-
-Artikel 4 Absatz 3
-
-Artikel 8 Absatz 5
-
-Artikel 5 Absatz 1
-
-Artikel 8 Absatz 7
-
-Artikel 5 Absatz 2
-
-Artikel 3 Absatz 3 Buchstabe m
-
-Artikel 6 Absatz 1
-
-Artikel 9 Absätze 1 und 2, Artikel 10, Artikel 13 Absatz 2, Artikel 14
-
-Artikel 6 Absatz 2
-
-Artikel 13 und Artikel 14 Absatz 1 Unterabsätze 2 und 3
-
-Artikel 6 Absatz 3 erster Gedankenstrich
-
-Artikel 16 Buchstabe a
-
-Artikel 6 Absatz 3 zweiter Gedankenstrich
-
-Artikel 16 Buchstabe b
-
-Artikel 6 Absatz 3 dritter Gedankenstrich
-
-Artikel 16 Buchstaben c und d
-
-Artikel 6 Absatz 3 vierter Gedankenstrich
-
-Artikel 16 Buchstabe i
-
-Artikel 6 Absatz 3 fünfter Gedankenstrich
-
-Artikel 16 Buchstabe j
-
-Artikel 6 Absatz 3 sechster Gedankenstrich
-
-Artikel 3 Absatz 3 Buchstabe c
-
-Artikel 6 Absatz 4
-
-Artikel 15
-
-Artikel 7 Absatz 1
-
-Artikel 18 Absatz 1 (für Kaufverträge)
-
-Artikel 7 Absatz 2
-
-Artikel 18 Absätze 2, 3 und 4
-
-Artikel 7 Absatz 3
-
-—
-
-Artikel 8
-
-—
-
-Artikel 9
-
-Artikel 27
-
-Artikel 10
-
-—
-
-(siehe jedoch Richtlinie 2002/58/EG, Artikel 13)
-
-Artikel 11 Absatz 1
-
-Artikel 23 Absatz 1
-
-Artikel 11 Absatz 2
-
-Artikel 23 Absatz 2
-
-Artikel 11 Absatz 3 Buchstabe a
-
-Artikel 6 Absatz 9 für die Beweislast hinsichtlich der vorvertraglichen Informationspflichten; ansonsten: —
-
-Artikel 11 Absatz 3 Buchstabe b
-
-Artikel 24 Absatz 1
-
-Artikel 11 Absatz 4
-
-—
-
-Artikel 12 Absatz 1
-
-Artikel 25
-
-Artikel 12 Absatz 2
-
-—
-
-Artikel 13
-
-Artikel 3 Absatz 2
-
-Artikel 14
-
-Artikel 4
-
-Artikel 15 Absatz 1
-
-Artikel 28 Absatz 1
-
-Artikel 15 Absatz 2
-
-Artikel 28 Absatz 1
-
-Artikel 15 Absatz 3
-
-Artikel 28 Absatz 1
-
-Artikel 15 Absatz 4
-
-Artikel 30
-
-Artikel 16
-
-Artikel 26
-
-Artikel 17
-
-—
-
-Artikel 18
-
-Artikel 34
-
-Artikel 19
-
-Artikel 35
-
-Artikel 5 Absatz 1
-
-Artikel 9 und 11
-
-Artikel 5 Absatz 2
-
-Artikel 12
-
-Artikel 6
-
-Artikel 25
-
-Artikel 7
-
-Artikel 13, 14 und 15
-
-Artikel 8
-
-Artikel 4
-
-Anhang der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates vom 27. Oktober 2004 über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden (Verordnung über die Zusammenarbeit im Verbraucherschutz)
 (
-1
-)
-
-Zu verstehen als Verweis auf
-
-Nummern 2 und 11
-
-diese Richtlinie
-
-(
-1
-)
-
-ABl. L 364 vom 9.12.2004, S. 1.
-
-(
-
-1
-
-) Richtlinie (EU) 2019/771 des Europäischen Parlaments und des Rates vom 20. Mai 2019 über bestimmte vertragsrechtliche Aspekte des Warenkaufs, zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie 2009/22/EG sowie zur Aufhebung der Richtlinie 1999/44/EG (ABl. L 136 vom 22.5.2019, S. 28).
-
-(
-
 2
-
-) Verordnung (EU) 2016/679 des Europäischen Parlaments und des Rates vom 27. April 2016 zum Schutz natürlicher Personen bei der Verarbeitung personenbezogener Daten, zum freien Datenverkehr und zur Aufhebung der Richtlinie 95/46/EG (Datenschutz-Grundverordnung) (ABl. L 119 vom 4.5.2016, S. 1).
+)
+Standpunkt des Europäischen Parlaments vom 17. Januar 2024 (noch nicht im Amtsblatt veröffentlicht) und Beschluss des Rates vom 20. Februar 2024.
 
 (
-
 3
-
-) Richtlinie (EU) 2019/770 des Europäischen Parlaments und des Rates vom 20. Mai 2019 über bestimmte vertragsrechtliche Aspekte der Bereitstellung digitaler Inhalte und digitaler Dienstleistungen (ABl. L 136 vom 22.5.2019, S. 1).
+)
+Richtlinie 2005/29/EG des Europäischen Parlaments und des Rates vom 11. Mai 2005 über unlautere Geschäftspraktiken von Unternehmen gegenüber Verbrauchern im Binnenmarkt und zur Änderung der Richtlinie 84/450/EWG des Rates, der Richtlinien 97/7/EG, 98/27/EG und 2002/65/EG des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2006/2004 des Europäischen Parlaments und des Rates (Richtlinie über unlautere Geschäftspraktiken) (
+ABl. L 149 vom 11.6.2005, S. 22
+).
 
 (
-
 4
-
-) Richtlinie (EU) 2015/2302 des Europäischen Parlaments und des Rates vom 25. November 2015 über Pauschalreisen und verbundene Reiseleistungen, zur Änderung der Verordnung (EG) Nr. 2006/2004 und der Richtlinie 2011/83/EU sowie zur Aufhebung der Richtlinie 90/314/EWG des Rates (ABl. L 326 vom 11.12.2015, S. 1).
+)
+Verordnung (EG) Nr. 765/2008 des Europäischen Parlaments und des Rates vom 9. Juli 2008 über die Vorschriften für die Akkreditierung und zur Aufhebung der Verordnung (EWG) Nr. 339/93 des Rates (
+ABl. L 218 vom 13.8.2008, S. 30
+).
 
 (
-
 5
-
 )
-ABl. L 33 vom 3.2.2009, S. 10.
+Verordnung (EU) Nr. 1169/2011 des Europäischen Parlaments und des Rates vom 25. Oktober 2011 betreffend die Information der Verbraucher über Lebensmittel und zur Änderung der Verordnungen (EG) Nr. 1924/2006 und (EG) Nr. 1925/2006 des Europäischen Parlaments und des Rates und zur Aufhebung der Richtlinie 87/250/EWG der Kommission, der Richtlinie 90/496/EWG des Rates, der Richtlinie 1999/10/EG der Kommission, der Richtlinie 2000/13/EG des Europäischen Parlaments und des Rates, der Richtlinien 2002/67/EG und 2008/5/EG der Kommission und der Verordnung (EG) Nr. 608/2004 der Kommission (
+ABl. L 304 vom 22.11.2011, S. 18
+).
 
 (
-
 6
-
 )
-ABl. L 133 vom 22.5.2008, S. 66.
+Verordnung (EG) Nr. 1221/2009 des Europäischen Parlaments und des Rates vom 25. November 2009 über die freiwillige Teilnahme von Organisationen an einem Gemeinschaftssystem für Umweltmanagement und Umweltbetriebsprüfung und zur Aufhebung der Verordnung (EG) Nr. 761/2001, sowie der Beschlüsse der Kommission 2001/681/EG und 2006/193/EG (
+ABl. L 342 vom 22.12.2009, S. 1
+).
 
 (
-
 7
-
-) Richtlinie 2014/49/EU des Europäischen Parlaments und des Rates vom 16. April 2014 über Einlagensicherungssysteme (ABl. L 173 vom 12.6.2014, S. 149).
-
-(
-
-8
-
-) Richtlinie 97/9/EG des Europäischen Parlaments und des Rates vom 3. März 1997 über Systeme für die Entschädigung der Anleger (ABl. L 84 vom 26.3.1997, S. 22).
-
-(
-
-9
-
-) Richtlinie 2014/17/ЕU des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Wohnimmobilienkreditverträge für Verbraucher und zur Änderung der Richtlinien 2008/48/EG und 2013/36/EU und der Verordnung (EU) Nr. 1093/2010 (ABl. L 60 vom 28.2.2014, S. 34).
-
-(
-
-10
-
-) Richtlinie (EU) 2023/2225 des Europäischen Parlaments und des Rates vom 18. Oktober 2023 über Wohnimmobilienkreditverträge für Verbraucher und zur Aufhebung der Richtlinie 2008/48/EG (ABl. L, 2023/2225 vom 30.10.2023, ELI: http://data.europa.eu/eli/dir/2023/2225/oj).
-
-(
-
-11
-
-) Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG (Gesetz über digitale Dienste) (ABl. L 277 vom 27.10.2022, S. 1).
-
-(
-
-12
-
-) Verordnung (EU) 2017/2394 des Europäischen Parlaments und des Rates vom 12. Dezember 2017 über die Zusammenarbeit zwischen den für die Durchsetzung der Verbraucherschutzgesetze zuständigen nationalen Behörden und zur Aufhebung der Verordnung (EG) Nr. 2006/2004 (ABl. L 345 vom 27.12.2017, S. 1).
-
-(
-
-13
-
-) Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung der Durchführungsbefugnisse durch die Kommission kontrollieren (ABl. L 55 vom 28.2.2011, S. 13.
-
-(
-
-14
-
 )
-ABl. L 271 vom 9.10.2002, S. 16.
+Verordnung (EG) Nr. 66/2010 des Europäischen Parlaments und des Rates vom 25. November 2009 über das EU-Umweltzeichen (
+ABl. L 27 vom 30.1.2010, S. 1
+).
 
 (
+8
+)
+Richtlinie (EU) 2015/2436 des Europäischen Parlaments und des Rates vom 16. Dezember 2015 zur Angleichung der Rechtsvorschriften der Mitgliedstaaten über die Marken (
+ABl. L 336 vom 23.12.2015, S. 1
+).
 
-*1
+(
+9
+)
+Verordnung (EU) 2017/1369 des Europäischen Parlaments und des Rates vom 4. Juli 2017 zur Festlegung eines Rahmens für die Energieverbrauchskennzeichnung und zur Aufhebung der Richtlinie 2010/30/EU (
+ABl. L 198 vom 28.7.2017, S. 1
+).
 
-) Unzutreffendes streichen.
+(
+10
+)
+Richtlinie (EU) 2019/2161 des Europäischen Parlaments und des Rates vom 27. November 2019 zur Änderung der Richtlinie 93/13/EWG des Rates und der Richtlinien 98/6/EG, 2005/29/EG und 2011/83/EU des Europäischen Parlaments und des Rates zur besseren Durchsetzung und Modernisierung der Verbraucherschutzvorschriften der Union (
+ABl. L 328 vom 18.12.2019, S. 7
+).
+
+(
+11
+)
+Richtlinie (EU) 2019/770 des Europäischen Parlaments und des Rates vom 20. Mai 2019 über bestimmte vertragsrechtliche Aspekte der Bereitstellung digitaler Inhalte und digitaler Dienstleistungen (
+ABl. L 136 vom 22.5.2019, S. 1
+).
+
+(
+12
+)
+Richtlinie (EU) 2019/771 des Europäischen Parlaments und des Rates vom 20. Mai 2019 über bestimmte vertragsrechtliche Aspekte des Warenkaufs, zur Änderung der Verordnung (EU) 2017/2394 und der Richtlinie 2009/22/EG sowie zur Aufhebung der Richtlinie 1999/44/EG (
+ABl. L 136 vom 22.5.2019, S. 28
+).
+
+(
+13
+)
+Richtlinie 2011/83/EU des Europäischen Parlaments und des Rates vom 25. Oktober 2011 über die Rechte der Verbraucher, zur Abänderung der Richtlinie 93/13/EWG des Rates und der Richtlinie 1999/44/EG des Europäischen Parlaments und des Rates sowie zur Aufhebung der Richtlinie 85/577/EWG des Rates und der Richtlinie 97/7/EG des Europäischen Parlaments und des Rates (
+ABl. L 304 vom 22.11.2011, S. 64
+).
+
+(
+14
+)
+Richtlinie (EU) 2019/882 des Europäischen Parlaments und des Rates vom 17. April 2019 über die Barrierefreiheitsanforderungen für Produkte und Dienstleistungen (
+ABl. L 151 vom 7.6.2019, S. 70
+).
+
+(
+15
+)
+Verordnung (EU) Nr. 182/2011 des Europäischen Parlaments und des Rates vom 16. Februar 2011 zur Festlegung der allgemeinen Regeln und Grundsätze, nach denen die Mitgliedstaaten die Wahrnehmung der Durchführungsbefugnisse durch die Kommission kontrollieren (
+ABl. L 55 vom 28.2.2011, S. 13
+).
+
+(
+16
+)
+
+ABl. C 369 vom 17.12.2011, S. 14
+.
+
+ANHANG
+
+Anhang I der Richtlinie 2005/29/EG wird wie folgt geändert:
+
+(1)
+
+Folgende Nummer wird eingefügt:
+
+„2a.
+
+Anbringen eines Nachhaltigkeitssiegels, das nicht auf einem Zertifizierungssystem beruht oder nicht von staatlichen Stellen festgesetzt wurde.“
+
+(2)
+
+Die folgenden Nummern werden eingefügt:
+
+„4a.
+
+Treffen einer allgemeinen Umweltaussage, wobei der Gewerbetreibende die anerkannte hervorragende Umweltleistung, auf die sich die Aussage bezieht, nicht nachweisen kann.
+
+4b.
+
+Treffen einer Umweltaussage zum gesamten Produkt oder der gesamten Geschäftstätigkeit des Gewerbetreibenden, wenn sie sich nur auf einen bestimmten Aspekt des Produkts oder eine bestimmte Aktivität der Geschäftstätigkeit des Gewerbetreibenden bezieht.
+
+4c.
+
+Treffen einer Aussage, die sich auf der Kompensation von Treibhausgasemissionen begründet und wonach ein Produkt hinsichtlich der Treibhausgasemissionen neutrale, verringerte oder positive Auswirkungen auf die Umwelt hat.“
+
+(3)
+
+Folgende Nummer wird eingefügt:
+
+„10a.
+
+Präsentation von Anforderungen, die kraft Gesetzes für alle Produkte in der betreffenden Produktkategorie auf dem Unionsmarkt gelten, als Besonderheit des Angebots des Gewerbetreibenden.“
+
+(4)
+
+Die folgenden Nummern werden eingefügt:
+
+„23d.
+
+Zurückhaltung von Informationen gegenüber den Verbrauchern über den Umstand, dass sich eine Softwareaktualisierung negativ auf das Funktionieren von Waren mit digitalen Elementen oder die Nutzung digitaler Inhalte oder digitaler Dienstleistungen auswirken wird.
+
+23e.
+
+Darstellung einer Softwareaktualisierung als notwendig, wenn sie lediglich der Verbesserung der Funktionalitätsmerkmale dient.
+
+23f.
+
+Jedwede kommerzielle Kommunikation über eine Ware, die ein zur Begrenzung ihrer Haltbarkeit eingeführtes Merkmal enthält, obwohl dem Gewerbetreibenden Informationen über das Merkmal und seine Auswirkungen auf die Haltbarkeit der Ware zur Verfügung stehen.
+
+23g.
+
+Falsche Behauptung, dass eine Ware unter normalen Nutzungsbedingungen eine bestimmte Haltbarkeit hinsichtlich der Nutzungszeit oder -intensität hat.
+
+23h.
+
+Präsentation einer Ware als reparierbar, wenn sie es nicht ist.
+
+23i.
+
+Veranlassen des Verbrauchers, Betriebsstoffe einer Ware früher zu ersetzen oder aufzufüllen, als dies aus technischen Gründen notwendig ist.
+
+23j.
+
+Zurückhaltung von Informationen darüber, dass die Funktionalität von Waren beeinträchtigt wird, wenn Betriebsstoffe, Ersatzteile oder Zubehör verwendet werden, die nicht vom ursprünglichen Hersteller bereitgestellt werden, oder die falsche Behauptung, dass eine solche Beeinträchtigung eintreten wird.“
+
+ELI: http://data.europa.eu/eli/dir/2024/825/oj
+
+ISSN 1977-0642 (electronic edition)

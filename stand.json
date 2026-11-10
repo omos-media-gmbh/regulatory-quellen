@@ -55,16 +55,12 @@
   },
   "rl-2024-825": {
     "name": "RL (EU) 2024/825 – Green Claims",
-    "fassung": "konsolidiert 2026-09-27",
-    "celex": "02011L0083-20260927",
-    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02011L0083-20260927",
-    "hash": "a774b2a3ff3f76a76a6857c3d0536ec0c3d3616d7d61ef9e215d5b3404b1694c",
-    "zeichen": 113382,
-    "geprueft": "2026-11-10",
-    "letzterFehler": {
-      "am": "2026-11-10",
-      "meldung": "Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.html: 404 Client Error:  for u"
-    }
+    "fassung": "Originalfassung",
+    "celex": "32024L0825",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L0825",
+    "hash": "0d1cdb15b571f2c3ef1756fbde2288e7022ff37f2f0e5e1e6045d74be9d1ccc2",
+    "zeichen": 71036,
+    "geprueft": "2026-11-10"
   },
   "rl-2002-46": {
     "name": "RL 2002/46/EG – Nahrungsergänzungsmittel",
@@ -100,8 +96,6 @@
   },
   "_lauf": {
     "am": "2026-11-10",
-    "fehler": [
-      "RL (EU) 2024/825 – Green Claims: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/32024L0825.DEU.html"
-    ]
+    "fehler": []
   }
 }
