@@ -35,11 +35,12 @@ SPARQL = "https://publications.europa.eu/webapi/rdf/sparql"
 HEUTE = dt.date.today().isoformat()
 
 
-def get(url: str, **kw) -> requests.Response:
+def get(url: str, versuche: int = 3, timeout: int = 90, **kw) -> requests.Response:
     last = None
-    for versuch in range(3):
+    headers = {**UA, **kw.pop("headers", {})}
+    for versuch in range(versuche):
         try:
-            r = requests.get(url, headers={**UA, **kw.pop("headers", {})}, timeout=90, **kw)
+            r = requests.get(url, headers=headers, timeout=timeout, **kw)
             r.raise_for_status()
             return r
         except Exception as e:  # noqa: BLE001
@@ -75,6 +76,7 @@ SELECT ?celex ?date WHERE {{
  ?cons cdm:act_consolidated_consolidates_resource_legal ?act .
  ?cons cdm:resource_legal_id_celex ?celex .
  OPTIONAL {{ ?cons cdm:act_consolidated_date ?date . }}
+  FILTER(STRSTARTS(STR(?celex), "0{celex[1:]}-"))
 }} ORDER BY DESC(?celex) LIMIT 1"""
     r = get(f"{SPARQL}?query={quote(q)}&format=application%2Fsparql-results%2Bjson")
     b = r.json()["results"]["bindings"]
@@ -83,32 +85,73 @@ SELECT ?celex ?date WHERE {{
     return b[0]["celex"]["value"], b[0].get("date", {}).get("value")
 
 
-def eu_text(celex: str) -> str:
-    urls = [
-        f"https://publications.europa.eu/resource/celex/{celex}.DEU.xhtml",
-        f"https://publications.europa.eu/resource/celex/{celex}.DEU.html",
-        f"https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:{celex}",
-    ]
+HTML_ACCEPT = {"Accept": "application/xhtml+xml,text/html;q=0.9,*/*;q=0.1", "Accept-Language": "de"}
+
+
+def cellar_dokument(url: str) -> str:
+    """Lädt eine Cellar-Fassung. Cellar liefert bei mehrteiligen Texten erst eine Liste (DOC_1, DOC_2 …)."""
+    r = get(url, headers=HTML_ACCEPT)
+    t = html_to_text(r.content)
+    if len(t) > 2000:
+        return t
+    soup = BeautifulSoup(r.content, "html.parser")
+    teile = []
+    for a in soup.find_all("a", href=True):
+        h = a["href"].replace("http://", "https://")
+        if re.search(r"/DOC_\d+$", h) and h not in teile:
+            teile.append(h)
+    if not teile:
+        raise RuntimeError(f"{url}: zu kurz ({len(t)} Zeichen): {t[:200]!r}")
+    texte = [html_to_text(get(h, headers=HTML_ACCEPT).content) for h in sorted(teile, key=lambda x: int(x.rsplit("_", 1)[1]))]
+    return "\n".join(texte)
+
+
+def eu_text(celex: str, basis: str) -> str:
+    kandidaten = [celex] + ([basis] if basis != celex else [])
     fehler = []
-    for u in urls:
-        try:
-            r = get(u)
-            t = html_to_text(r.content)
-            if len(t) > 2000:
-                return t
-            fehler.append(f"{u}: zu kurz ({len(t)} Zeichen)")
-        except Exception as e:  # noqa: BLE001
-            fehler.append(str(e))
+    for c in kandidaten:
+        for u in (f"https://publications.europa.eu/resource/celex/{c}.DEU.xhtml",
+                  f"https://publications.europa.eu/resource/celex/{c}.DEU.html"):
+            try:
+                t = cellar_dokument(u)
+                if len(t) > 2000:
+                    return t
+                fehler.append(f"{u}: zu kurz")
+            except Exception as e:  # noqa: BLE001
+                fehler.append(str(e)[:300])
     raise RuntimeError(" | ".join(fehler))
 
 
 # ---------- DE ----------
-def de_text(url: str) -> tuple[str, str | None]:
-    r = get(url)
-    t = html_to_text(r.content)
-    m = re.search(r"Zuletzt geändert durch[^\n]{4,200}", t) or re.search(r"Stand:\s*([^\n]{4,200})", t)
-    stand = re.sub(r"\s+", " ", m.group(0)).strip() if m else None
-    return t, stand
+NEURIS = "https://testphase.rechtsinformationen.bund.de"
+
+
+def de_text(q: dict) -> tuple[str, str | None, str]:
+    """Erst gesetze-im-internet.de, sonst Rechtsinformationsportal des Bundes (NeuRIS, Testphase)."""
+    fehler = []
+    if q.get("abk"):
+        try:
+            j = get(f"{NEURIS}/v1/legislation?searchTerm={quote(q['abk'])}&size=20", versuche=2, timeout=30).json()
+            treffer = [m["item"] for m in j.get("member", []) if m["item"].get("abbreviation") == q["abk"]]
+            if not treffer:
+                raise RuntimeError(f"NeuRIS: {q['abk']} nicht gefunden")
+            item = sorted(treffer, key=lambda i: i["legislationIdentifier"])[-1]
+            html = next(e["contentUrl"] for e in item["encoding"] if e["encodingFormat"] == "text/html")
+            t = html_to_text(get(NEURIS + html, versuche=2, timeout=30).content)
+            fassung = item["legislationIdentifier"].split("/")[5]
+            return t, f"Fassung vom {fassung} (Rechtsinformationsportal)", NEURIS + html
+        except Exception as e:  # noqa: BLE001
+            fehler.append(str(e)[:200])
+    if q.get("url"):
+        try:
+            r = get(q["url"], versuche=2, timeout=25)
+            t = html_to_text(r.content)
+            m = re.search(r"Zuletzt geändert durch[^\n]{4,200}", t) or re.search(r"Stand:\s*([^\n]{4,200})", t)
+            stand = re.sub(r"\s+", " ", m.group(0)).strip() if m else None
+            return t, stand, q["url"]
+        except Exception as e:  # noqa: BLE001
+            fehler.append(str(e)[:200])
+    raise RuntimeError(" | ".join(fehler))
 
 
 # ---------- Vergleich ----------
@@ -150,16 +193,19 @@ def pruefe_quellen(cfg) -> list[dict]:
     jobs = [("eu", q) for q in cfg.get("eu", [])] + [("de", q) for q in cfg.get("de", [])]
     for typ, q in jobs:
         qid, name = q["id"], q["name"]
+        if q.get("manuell"):
+            stand[qid] = {"name": name, "manuell": q["manuell"], "geprueft": None}
+            continue
         try:
             if typ == "eu":
                 celex, datum = neueste_konsolidierung(q["celex"])
-                text = eu_text(celex)
+                text = eu_text(celex, q["celex"])
                 fassung = f"konsolidiert {datum}" if datum else "Originalfassung"
                 quelle = f"https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:{celex}"
             else:
-                text, fassung = de_text(q["url"])
+                text, fassung, quelle = de_text(q)
                 fassung = fassung or "Stand nicht erkannt"
-                celex, quelle = None, q["url"]
+                celex = None
         except Exception as e:  # noqa: BLE001
             fehler.append(f"{name}: {e}")
             stand.setdefault(qid, {})["letzterFehler"] = {"am": HEUTE, "meldung": str(e)[:300]}
@@ -167,7 +213,10 @@ def pruefe_quellen(cfg) -> list[dict]:
         h = hashlib.sha256(text.encode()).hexdigest()
         datei = TEXTE / f"{qid}.txt"
         alt = stand.get(qid, {})
-        if datei.exists() and alt.get("hash") and alt["hash"] != h:
+        def kennung(c, url):
+            return (c or "")[1:11] if c else re.sub(r"^https?://([^/]+).*$", r"\1", url or "")
+        gleiche_quelle = kennung(alt.get("celex"), alt.get("quelle")) == kennung(celex, quelle)
+        if datei.exists() and alt.get("hash") and alt["hash"] != h and gleiche_quelle:
             md, plus, minus = diff_md(name, datei.read_text("utf-8"), text, alt.get("fassung", "?"), fassung)
             if plus + minus > 0:
                 pfad = AEND / f"{HEUTE}-{qid}.md"

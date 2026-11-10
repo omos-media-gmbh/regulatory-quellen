@@ -1,6 +1,6 @@
 # Rechtsgrundlagen, deren Volltext täglich geladen und verglichen wird.
 # EU: CELEX-Nummer des Grundrechtsakts (die neueste konsolidierte Fassung wird automatisch gesucht).
-# DE: Link auf die Gesamtausgabe (HTML) bei gesetze-im-internet.de.
+# DE: abk = Abkürzung im Rechtsinformationsportal des Bundes (Hauptquelle); url = gesetze-im-internet.de (Ausweichquelle, von GitHub aus meist gesperrt).
 
 eu:
   - id: lmiv
@@ -32,12 +32,16 @@ de:
   - id: uwg
     name: UWG
     url: https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html
+    # gesetze-im-internet.de blockt GitHub, im Rechtsinformationsportal fehlt das UWG noch:
+    manuell: Fassung wird über den Knopf in der App geprüft (Desktop)
   - id: hwg
     name: HWG – Heilmittelwerbegesetz
     url: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html
+    abk: HWG
   - id: nemv
     name: NemV
     url: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html
+    abk: NemV
 
 # Rechtsprechungs-Feeds (RSS). Nur Einträge mit einem der Stichwörter werden übernommen.
 feeds:
