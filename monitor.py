@@ -85,7 +85,7 @@ SELECT ?celex ?date WHERE {{
     return b[0]["celex"]["value"], b[0].get("date", {}).get("value")
 
 
-HTML_ACCEPT = {"Accept": "application/xhtml+xml,text/html;q=0.9,*/*;q=0.1", "Accept-Language": "de"}
+HTML_ACCEPT = {"Accept": "application/xhtml+xml,text/html;q=0.9,*/*;q=0.1", "Accept-Language": "de-DE,de;q=0.9"}
 
 
 def cellar_dokument(url: str) -> str:
@@ -111,7 +111,8 @@ def eu_text(celex: str, basis: str) -> str:
     fehler = []
     for c in kandidaten:
         for u in (f"https://publications.europa.eu/resource/celex/{c}.DEU.xhtml",
-                  f"https://publications.europa.eu/resource/celex/{c}.DEU.html"):
+                  f"https://publications.europa.eu/resource/celex/{c}.DEU.html",
+                  f"https://publications.europa.eu/resource/celex/{c}"):  # Content Negotiation (neuere Amtsblätter)
             try:
                 t = cellar_dokument(u)
                 if len(t) > 2000:
