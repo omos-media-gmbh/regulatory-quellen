@@ -36,16 +36,22 @@
     "geprueft": "2026-11-10"
   },
   "beschluss-2013-63": {
-    "letzterFehler": {
-      "am": "2026-11-10",
-      "meldung": "Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.htm"
-    }
+    "name": "Beschluss 2013/63/EU",
+    "fassung": "konsolidiert 2013-01-25",
+    "celex": "02013D0063-20130125",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02013D0063-20130125",
+    "hash": "720b1bf0e8a66fe99ee5ce360bd2de94a7957665b4674e82a5e54d3aa0548342",
+    "zeichen": 17625,
+    "geprueft": "2026-11-10"
   },
   "dvo-828-2014": {
-    "letzterFehler": {
-      "am": "2026-11-10",
-      "meldung": "Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.htm"
-    }
+    "name": "DVO (EU) 828/2014 – glutenfrei",
+    "fassung": "konsolidiert 2014-07-31",
+    "celex": "02014R0828-20140731",
+    "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02014R0828-20140731",
+    "hash": "97da57200dbbd354b6d62b3cdb9fc024a7683583a21cae884d1376e709266911",
+    "zeichen": 11953,
+    "geprueft": "2026-11-10"
   },
   "rl-2024-825": {
     "name": "RL (EU) 2024/825 – Green Claims",
@@ -54,7 +60,11 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02011L0083-20260927",
     "hash": "a774b2a3ff3f76a76a6857c3d0536ec0c3d3616d7d61ef9e215d5b3404b1694c",
     "zeichen": 113382,
-    "geprueft": "2026-11-10"
+    "geprueft": "2026-11-10",
+    "letzterFehler": {
+      "am": "2026-11-10",
+      "meldung": "Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.html: 404 Client Error:  for u"
+    }
   },
   "rl-2002-46": {
     "name": "RL 2002/46/EG – Nahrungsergänzungsmittel",
@@ -66,31 +76,32 @@
     "geprueft": "2026-11-10"
   },
   "uwg": {
-    "letzterFehler": {
-      "am": "2026-11-10",
-      "meldung": "Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /uwg_2004/BJNR141400004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port="
-    }
+    "name": "UWG",
+    "manuell": "Fassung wird über den Knopf in der App geprüft (Desktop)",
+    "geprueft": null
   },
   "hwg": {
-    "letzterFehler": {
-      "am": "2026-11-10",
-      "meldung": "Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /heilmwerbg/BJNR006049965.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', p"
-    }
+    "name": "HWG – Heilmittelwerbegesetz",
+    "fassung": "Fassung vom 2026-06-26 (Rechtsinformationsportal)",
+    "celex": null,
+    "quelle": "https://testphase.rechtsinformationen.bund.de/v1/legislation/eli/bund/bgbl-1/1965/s604/2026-06-26/1/deu/2026-07-03/regelungstext-1.html",
+    "hash": "006bb21c4f2f8081256e2bb85ecb9c77191b6d2c62c66981182174b387302596",
+    "zeichen": 22949,
+    "geprueft": "2026-11-10"
   },
   "nemv": {
-    "letzterFehler": {
-      "am": "2026-11-10",
-      "meldung": "Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /nemv/BJNR101110004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at "
-    }
+    "name": "NemV",
+    "fassung": "Fassung vom 2017-07-05 (Rechtsinformationsportal)",
+    "celex": null,
+    "quelle": "https://testphase.rechtsinformationen.bund.de/v1/legislation/eli/bund/bgbl-1/2004/s1011/2017-07-05/1/deu/2017-11-06/regelungstext-1.html",
+    "hash": "a2040e084e34b99b6aebcba732e57b9cfa3c69cdff0bc7134c3535c22f6d69bf",
+    "zeichen": 8291,
+    "geprueft": "2026-11-10"
   },
   "_lauf": {
     "am": "2026-11-10",
     "fehler": [
-      "Beschluss 2013/63/EU: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02013D0063-20130125.DEU.html | Abruf fehlgeschlagen: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02013D0063-20130125: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02013D0063-20130125",
-      "DVO (EU) 828/2014 – glutenfrei: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/02014R0828-20140731.DEU.html | Abruf fehlgeschlagen: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02014R0828-20140731: 404 Client Error: Not Found for url: https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:02014R0828-20140731",
-      "UWG: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/uwg_2004/BJNR141400004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /uwg_2004/BJNR141400004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7ff05bf8f110>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))",
-      "HWG – Heilmittelwerbegesetz: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /heilmwerbg/BJNR006049965.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7ff05bf8d6d0>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))",
-      "NemV: Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /nemv/BJNR101110004.html (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.gesetze-im-internet.de', port=443) at 0x7ff05bf8c860>, 'Connection to www.gesetze-im-internet.de timed out. (connect timeout=90)'))"
+      "RL (EU) 2024/825 – Green Claims: Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/32024L0825.DEU.xhtml | Abruf fehlgeschlagen: https://publications.europa.eu/resource/celex/32024L0825.DEU.html: 404 Client Error:  for url: https://publications.europa.eu/resource/celex/32024L0825.DEU.html"
     ]
   }
 }
