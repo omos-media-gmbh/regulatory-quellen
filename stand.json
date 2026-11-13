@@ -6,7 +6,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02011R1169-20250401",
     "hash": "2a2c0f604dee841cb8775a1e82f08870fac2e3244d720bb39bcd57fd74f04fde",
     "zeichen": 130350,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "basisvo": {
     "name": "VO (EG) 178/2002 – BasisVO",
@@ -15,7 +15,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002R0178-20260101",
     "hash": "f044ac4dc8144cc21b60018a7f055e634435d40c085f03d3d488479c12d33f02",
     "zeichen": 140494,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "hcvo": {
     "name": "VO (EG) 1924/2006 – Health-Claims-VO",
@@ -24,7 +24,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02006R1924-20141213",
     "hash": "9f5a074ed9e3ea4f8c50f9f785d006d9fa8da21aeb1443d8428b202b7169afcb",
     "zeichen": 85859,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "vo-432-2012": {
     "name": "VO (EU) 432/2012 – zugelassene Claims",
@@ -33,7 +33,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02012R0432-20250820",
     "hash": "3350fc22c24002d2e92cac3045ea30a603cc9c2eea294741a8f9daa7f20e85ba",
     "zeichen": 118429,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "beschluss-2013-63": {
     "name": "Beschluss 2013/63/EU",
@@ -42,7 +42,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02013D0063-20130125",
     "hash": "720b1bf0e8a66fe99ee5ce360bd2de94a7957665b4674e82a5e54d3aa0548342",
     "zeichen": 17625,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "dvo-828-2014": {
     "name": "DVO (EU) 828/2014 – glutenfrei",
@@ -51,7 +51,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02014R0828-20140731",
     "hash": "97da57200dbbd354b6d62b3cdb9fc024a7683583a21cae884d1376e709266911",
     "zeichen": 11953,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "rl-2024-825": {
     "name": "RL (EU) 2024/825 – Green Claims",
@@ -60,7 +60,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:32024L0825",
     "hash": "0d1cdb15b571f2c3ef1756fbde2288e7022ff37f2f0e5e1e6045d74be9d1ccc2",
     "zeichen": 71036,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "rl-2002-46": {
     "name": "RL 2002/46/EG – Nahrungsergänzungsmittel",
@@ -69,7 +69,7 @@
     "quelle": "https://eur-lex.europa.eu/legal-content/DE/TXT/?uri=CELEX:02002L0046-20251126",
     "hash": "0c57bf7fc3e32e8a452e204a8abfff2637f0d463ba2daa588534b3b315acecd1",
     "zeichen": 25341,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-13"
   },
   "uwg": {
     "name": "UWG",
@@ -83,7 +83,11 @@
     "quelle": "https://testphase.rechtsinformationen.bund.de/v1/legislation/eli/bund/bgbl-1/1965/s604/2026-06-26/1/deu/2026-07-03/regelungstext-1.html",
     "hash": "006bb21c4f2f8081256e2bb85ecb9c77191b6d2c62c66981182174b387302596",
     "zeichen": 22949,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-12",
+    "letzterFehler": {
+      "am": "2026-11-13",
+      "meldung": "NeuRIS: HWG nicht gefunden | Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /heilmwerbg/BJN"
+    }
   },
   "nemv": {
     "name": "NemV",
@@ -92,10 +96,17 @@
     "quelle": "https://testphase.rechtsinformationen.bund.de/v1/legislation/eli/bund/bgbl-1/2004/s1011/2017-07-05/1/deu/2017-11-06/regelungstext-1.html",
     "hash": "a2040e084e34b99b6aebcba732e57b9cfa3c69cdff0bc7134c3535c22f6d69bf",
     "zeichen": 8291,
-    "geprueft": "2026-11-12"
+    "geprueft": "2026-11-12",
+    "letzterFehler": {
+      "am": "2026-11-13",
+      "meldung": "NeuRIS: NemV nicht gefunden | Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /nemv/BJNR101110004.h"
+    }
   },
   "_lauf": {
-    "am": "2026-11-12",
-    "fehler": []
+    "am": "2026-11-13",
+    "fehler": [
+      "HWG – Heilmittelwerbegesetz: NeuRIS: HWG nicht gefunden | Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/heilmwerbg/BJNR006049965.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /heilmwerbg/BJN",
+      "NemV: NeuRIS: NemV nicht gefunden | Abruf fehlgeschlagen: https://www.gesetze-im-internet.de/nemv/BJNR101110004.html: HTTPSConnectionPool(host='www.gesetze-im-internet.de', port=443): Max retries exceeded with url: /nemv/BJNR101110004.h"
+    ]
   }
 }
