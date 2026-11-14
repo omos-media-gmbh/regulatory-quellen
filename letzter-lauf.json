@@ -1,5 +1,17 @@
 {
-  "am": "2026-11-13",
-  "aenderungen": [],
+  "am": "2026-11-14",
+  "aenderungen": [
+    {
+      "datum": "2026-11-14",
+      "id": "hwg",
+      "name": "HWG – Heilmittelwerbegesetz",
+      "vorher": "Fassung vom 2026-06-26 (Rechtsinformationsportal)",
+      "jetzt": "Fassung vom 2026-06-26 (Rechtsinformationsportal)",
+      "zeilenNeu": 1,
+      "zeilenWeg": 2,
+      "datei": "aenderungen/2026-11-14-hwg.md",
+      "quelle": "https://testphase.rechtsinformationen.bund.de/v1/legislation/eli/bund/bgbl-1/1965/s604/2026-06-26/1/deu/2026-11-13/regelungstext-1.html"
+    }
+  ],
   "funde": 0
 }
